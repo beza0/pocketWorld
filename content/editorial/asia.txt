@@ -1,0 +1,281 @@
+@kg | Bişkek | Issyk-Kul | Isık Göl | Issyk-Kul
+F: Topraklarının yüzde 90'ından fazlası dağlıktır; yarım milyon dizeyi aşan Manas Destanı dünyanın en uzun destanlarındandır. || More than 90 percent of its land is mountainous, and the Epic of Manas, at over half a million lines, is among the longest epics in the world.
+C: Keçe çadır "boz üy" göçebe yaşamın simgesidir; tepe penceresi "tündük" bayrakta yer alır. || The felt tent "boz üy" is the symbol of nomadic life, and its roof ring, the "tunduk", appears on the flag.
+Y: Et ve erişteden yapılan "beşbarmak" elle yenir; mayalanmış kısrak sütü "kımız" içilir. || "Beshbarmak", made of meat and noodles, is eaten by hand, and fermented mare's milk, "kymyz", is drunk.
+S: Isık Göl, kışın bile donmayan, dağlarla çevrili dünyanın en büyük yüksek dağ göllerinden biridir. || Issyk-Kul is one of the world's largest alpine lakes, ringed by mountains and never freezing in winter.
+
+@kz | Astana | Baiterek (monument) | Bayterek Kulesi | Baiterek Tower
+F: Dünyanın denize kıyısı olmayan en büyük ülkesidir; ilk insanlı uzay uçuşu buradaki Baykonur üssünden yapılmıştır. || It is the largest landlocked country in the world, and the first human spaceflight launched from its Baikonur cosmodrome.
+C: Kartalla avcılık geleneği sürer; iki telli "dombıra" ulusal çalgıdır. || Hunting with eagles continues, and the two-stringed "dombra" is the national instrument.
+Y: Haşlanmış et ve yassı hamurdan yapılan "beşbarmak" ulusal yemektir. || "Beshbarmak", made of boiled meat and flat noodles, is the national dish.
+S: Bayterek, tepesinde altın bir küre taşıyan 97 metrelik bir gözlem kulesidir. || Baiterek is a 97-metre observation tower topped by a golden sphere.
+
+@tj | Duşanbe | Iskanderkul | İskender Gölü | Iskanderkul
+F: Topraklarının yüzde 90'ından fazlası dağdır; Pamir Dağları "Dünyanın Damı" olarak anılır. || More than 90 percent of its land is mountains, and the Pamirs are known as the "Roof of the World".
+C: Farsçaya yakın bir dil konuşulur; bahar bayramı Nevruz en büyük kutlamadır. || A language close to Persian is spoken, and the spring festival Nowruz is the biggest celebration.
+Y: Havuçlu ve etli pilav "oş" sofranın baş yemeğidir; ekmek ve süzme yoğurtlu "kurutob" sevilir. || The rice dish "osh" with carrots and meat is the main meal, and "qurutob", made of bread and strained yoghurt, is a favourite.
+S: İskender Gölü, Fan Dağları'nda 2.000 metrenin üzerinde turkuaz bir buzul gölüdür. || Iskanderkul is a turquoise glacial lake above 2,000 metres in the Fann Mountains.
+
+@tm | Aşkabat | Darvaza gas crater | Derveze Gaz Krateri | Darvaza Gas Crater
+F: Karakum Çölü'nde onlarca yıldır yanan ve "Cehennem Kapısı" denen gaz krateri bu ülkededir. || The gas crater known as the "Door to Hell", burning for decades in the Karakum Desert, is in this country.
+C: El dokuması halı motifleri bayrakta yer alır; Ahal Teke atları ulusal gururdur. || Hand-woven carpet patterns appear on the flag, and Akhal-Teke horses are a national pride.
+Y: Pilav "palov" ve tandırda pişen ekmek "çörek" sofranın temelidir. || The rice dish "palaw" and "çörek" bread baked in a clay oven are staples.
+S: Derveze Krateri, 1970'lerden beri alev alev yanan yaklaşık 70 metre çapında bir çukurdur. || The Darvaza crater is a pit about 70 metres across that has been in flames since the 1970s.
+
+@uz | Taşkent | Registan | Registan Meydanı | Registan
+F: Dünyada, denize ulaşmak için en az iki ülke geçilmesi gereken iki ülkeden biridir; İpek Yolu kentleri Semerkant ve Buhara buradadır. || It is one of only two countries in the world from which at least two borders must be crossed to reach the sea; the Silk Road cities of Samarkand and Bukhara are here.
+C: Mavi çinili medreseler ve ipek "atlas" dokumaları zanaat geleneğini yansıtır. || Blue-tiled madrasas and silk "ikat" weaving reflect its craft tradition.
+Y: Büyük kazanlarda pişen pilav "plov" UNESCO somut olmayan miras listesindedir. || The rice dish "plov", cooked in great cauldrons, is on UNESCO's intangible heritage list.
+S: Semerkant'taki Registan Meydanı üç görkemli medreseyle çevrilidir. || Registan Square in Samarkand is framed by three magnificent madrasas.
+
+@cn | Pekin | Great Wall of China | Çin Seddi | Great Wall of China
+F: Kâğıt, pusula, barut ve matbaa burada icat edilmiştir; dev pandalar doğada yalnızca bu ülkede yaşar. || Paper, the compass, gunpowder and printing were invented here, and giant pandas live in the wild only in this country.
+C: Ay takvimine göre kutlanan Bahar Bayramı en büyük kutlamadır; hat sanatı ve çay kültürü binlerce yıllıktır. || The Spring Festival, set by the lunar calendar, is the biggest celebration; calligraphy and tea culture are thousands of years old.
+Y: Buharda pişen "dim sum" lokmaları ve başkente özgü fırın ördeği ünlüdür. || Steamed "dim sum" and roast duck from the capital are famous.
+S: Çin Seddi, kuzey sınırlarını korumak için yüzyıllar boyunca inşa edilmiş binlerce kilometrelik surlardır. || The Great Wall is thousands of kilometres of fortifications built over centuries to guard the northern frontier.
+
+@jp | Tokyo | Mount Fuji | Fuji Dağı | Mount Fuji
+F: Binlerce adadan oluşur; hızlı treni Şinkansen 1964'te hizmete girmiştir ve dünyanın en uzun yaşayan toplumlarından birine sahiptir. || It is made up of thousands of islands; its Shinkansen bullet train began service in 1964, and its people are among the longest-lived in the world.
+C: Kiraz çiçeklerini izleme geleneği "hanami" ve çay seremonisi inceliğin simgeleridir. || "Hanami", the custom of viewing cherry blossoms, and the tea ceremony are symbols of refinement.
+Y: Sirkeli pirinç ve çiğ balıkla hazırlanan "suşi" ile erişte çorbası "ramen" dünyaca ünlüdür. || "Sushi", made with vinegared rice and raw fish, and the noodle soup "ramen" are famous worldwide.
+S: Fuji Dağı, 3.776 metrelik simetrik konisiyle ülkenin en yüksek zirvesi ve kutsal simgesidir. || Mount Fuji, a symmetrical cone 3,776 metres high, is the country's highest peak and sacred symbol.
+
+@kp | Pyongyang | Mansu Hill Grand Monument | Mansu Tepesi Anıtı | Mansu Hill Grand Monument
+F: Yılları kurucu liderinin doğumundan başlatan "Juche" takvimini kullanmıştır; dünyanın en kapalı ülkelerinden biridir. || It has used the "Juche" calendar, which counts years from its founding leader's birth, and is one of the most closed countries in the world.
+C: On binlerce kişinin eşzamanlı hareket ettiği kitle gösterileri "Arirang" ile tanınır. || It is known for the "Arirang" mass games, in which tens of thousands of people move in unison.
+Y: Soğuk karabuğday eriştesi "naengmyeon" başkentin en ünlü yemeğidir. || Cold buckwheat noodles, "naengmyeon", are the capital's most famous dish.
+S: Mansu Tepesi'nde iki eski liderin 20 metreyi aşan bronz heykelleri yer alır. || On Mansu Hill stand bronze statues of two former leaders, each over 20 metres tall.
+
+@kr | Seul | Gyeongbokgung | Gyeongbokgung Sarayı | Gyeongbokgung Palace
+F: Alfabesi "Hangıl" 15. yüzyılda Kral Sejong döneminde özel olarak tasarlanmıştır; K-pop ve dizileriyle dünyaya yayılmıştır. || Its alphabet, "Hangul", was purposely designed in the 15th century under King Sejong; its K-pop and dramas have spread worldwide.
+C: Geleneksel giysi "hanbok" bayramlarda giyilir; tekvando ulusal spordur. || The traditional dress "hanbok" is worn on holidays, and taekwondo is the national sport.
+Y: Mayalanmış acılı lahana "kimçi" her öğünde bulunur; "bibimbap" ve ızgara "bulgogi" sevilir. || Fermented spicy cabbage, "kimchi", is on the table at every meal; "bibimbap" and grilled "bulgogi" are favourites.
+S: Gyeongbokgung, 1395'te yapılan ve Coseon hanedanının ana sarayı olan büyük bir saray kompleksidir. || Gyeongbokgung is a large palace complex built in 1395 as the main palace of the Joseon dynasty.
+
+@mn | Ulan Batur | Gorkhi-Terelj National Park | Gorhi-Terelj Ulusal Parkı | Gorkhi-Terelj National Park
+F: Dünyanın nüfus yoğunluğu en düşük bağımsız ülkesidir; Cengiz Han'ın imparatorluğu bu bozkırlardan doğmuştur. || It is the world's most sparsely populated independent country, and Genghis Khan's empire arose from its steppes.
+C: Yaz şenliği "Naadam"da güreş, okçuluk ve at yarışı yapılır; keçe çadır "ger" göçebe evidir. || At the summer festival "Naadam" there is wrestling, archery and horse racing; the felt tent "ger" is the nomads' home.
+Y: Buharda pişen etli mantı "buuz" ve mayalanmış kısrak sütü "ayrag" yaygındır. || Steamed meat dumplings, "buuz", and fermented mare's milk, "airag", are common.
+S: Gorhi-Terelj, granit kaya oluşumları ve çayırlarıyla başkente yakın bir ulusal parktır. || Gorkhi-Terelj is a national park near the capital with granite rock formations and meadows.
+
+@bn | Bandar Seri Begavan | Omar Ali Saifuddien Mosque | Ömer Ali Seyfeddin Camii | Omar Ali Saifuddien Mosque
+F: Borneo adasındaki bu küçük, petrol zengini sultanlık iki ayrı parçadan oluşur; sultanın sarayı dünyanın en büyük konut saraylarındandır. || This small, oil-rich sultanate on the island of Borneo is split into two parts; the sultan's palace is among the largest residential palaces in the world.
+C: Su üstüne kazıklarla kurulu köy "Kampong Ayer"de binlerce kişi yaşar. || Thousands of people live in "Kampong Ayer", a village built on stilts over the water.
+Y: Sago nişastasından yapılan yapışkan "ambuyat", bambu çubukla sosa batırılarak yenir. || Sticky "ambuyat", made from sago starch, is twirled on bamboo sticks and dipped in sauce.
+S: Ömer Ali Seyfeddin Camii, altın kubbesi ve lagündeki taş kayığıyla tanınır. || The Omar Ali Saifuddien Mosque is known for its golden dome and the stone barge in its lagoon.
+
+@id | Cakarta | Borobudur | Borobudur Tapınağı | Borobudur
+F: 17.000'den fazla adasıyla dünyanın en büyük takımada ülkesidir; komodo ejderi yalnızca burada yaşar. || With more than 17,000 islands it is the world's largest archipelago country, and the Komodo dragon lives only here.
+C: Balmumuyla desenlenen "batik" kumaşı ve gölge oyunu "wayang" UNESCO miras listesindedir. || Wax-patterned "batik" cloth and the shadow puppet theatre "wayang" are on UNESCO's heritage list.
+Y: Kızarmış pilav "nasi goreng" ve yer fıstığı soslu şiş "sate" çok sevilir. || Fried rice, "nasi goreng", and "sate" skewers with peanut sauce are much loved.
+S: Borobudur, 9. yüzyılda yapılmış dünyanın en büyük Budist tapınağıdır. || Borobudur, built in the 9th century, is the largest Buddhist temple in the world.
+
+@kh | Phnom Penh | Angkor Wat | Angkor Wat | Angkor Wat
+F: Bayrağında bir yapı (bir tapınak) bulunan çok az ülkeden biridir; Tonle Sap Nehri yılda iki kez akış yönünü değiştirir. || It is one of very few countries with a building (a temple) on its flag, and its Tonlé Sap River reverses direction twice a year.
+C: Zarif el hareketleriyle bilinen klasik "Apsara" dansı Khmer saraylarından günümüze ulaşmıştır. || Classical "Apsara" dance, known for graceful hand gestures, has come down from the Khmer courts.
+Y: Muz yaprağında buharda pişen hindistan cevizli balık körisi "amok" ulusal yemektir. || "Amok", a coconut fish curry steamed in banana leaf, is the national dish.
+S: Angkor Wat, 12. yüzyılda yapılmış dünyanın en büyük dinî anıtıdır. || Angkor Wat, built in the 12th century, is the largest religious monument in the world.
+
+@la | Vientiane | Pha That Luang | Pha That Luang | Pha That Luang
+F: Güneydoğu Asya'nın denize kıyısı olmayan tek ülkesidir; bir zamanlar "Milyon Filin Ülkesi" olarak anılırdı. || It is the only landlocked country in Southeast Asia and was once called the "Land of a Million Elephants".
+C: Luang Prabang'da keşişler her sabah sessizce sadaka toplar; yeni yıl su şenliğiyle kutlanır. || In Luang Prabang monks collect alms in silence each morning, and the new year is celebrated with a water festival.
+Y: Yapışkan pirinç elle yenir; kıymalı ve otlu salata "larb" ulusal yemektir. || Sticky rice is eaten by hand, and "larb", a salad of minced meat and herbs, is the national dish.
+S: Pha That Luang, altın kaplı büyük bir Budist stupadır ve ulusal simgedir. || Pha That Luang is a large gold-covered Buddhist stupa and the national symbol.
+
+@mm | Nepido | Shwedagon Pagoda | Şvedagon Pagodası | Shwedagon Pagoda
+F: Bagan ovasında iki binden fazla eski Budist tapınağı yan yana durur; ülke 1989'da İngilizce adını değiştirmiştir. || More than two thousand ancient Buddhist temples stand on the plain of Bagan; the country changed its English name in 1989.
+C: Kadınlar ve çocuklar yüzlerine ağaç kabuğundan yapılan sarı "thanaka" macunu sürer. || Women and children wear yellow "thanaka" paste, made from tree bark, on their faces.
+Y: Balıklı erişte çorbası "mohinga" kahvaltıda yenir; mayalanmış çay yaprağı salatası da özgündür. || The fish noodle soup "mohinga" is eaten for breakfast, and a salad of fermented tea leaves is another speciality.
+S: Şvedagon Pagodası, altın kaplı ve yaklaşık 100 metre yüksekliğinde kutsal bir stupadır. || The Shwedagon Pagoda is a sacred stupa covered in gold and about 100 metres high.
+
+@my | Kuala Lumpur | Petronas Towers | Petronas Kuleleri | Petronas Towers
+F: Bir yarımada ile Borneo adasının kuzeyi olmak üzere denizle ayrılmış iki bölgeden oluşur; kralı dokuz sultan arasından dönüşümlü seçilir. || It consists of two regions separated by sea, a peninsula and northern Borneo, and its king is chosen in rotation from among nine sultans.
+C: Malay, Çin ve Hint kültürleri bir arada yaşar; "batik" ve "wau" uçurtmaları geleneksel sanatlardır. || Malay, Chinese and Indian cultures live side by side; "batik" and "wau" kites are traditional arts.
+Y: Hindistan cevizi sütüyle pişen pilav "nasi lemak" ulusal yemektir. || "Nasi lemak", rice cooked in coconut milk, is the national dish.
+S: 452 metrelik Petronas Kuleleri, 1998–2004 arasında dünyanın en yüksek binalarıydı. || The 452-metre Petronas Towers were the tallest buildings in the world from 1998 to 2004.
+
+@ph | Manila | Chocolate Hills | Çikolata Tepeleri | Chocolate Hills
+F: 7.000'den fazla adadan oluşur ve adını bir İspanyol kralından alır; Asya'nın en kalabalık Hristiyan ülkesidir. || It is made up of more than 7,000 islands and is named after a Spanish king; it is Asia's most populous Christian country.
+C: Renkli süslü "jeepney" minibüsleri ve aylar süren Noel kutlamaları gündelik yaşamın parçasıdır. || Brightly decorated "jeepney" minibuses and Christmas celebrations lasting months are part of everyday life.
+Y: Sirke ve soya sosunda pişen "adobo" ulusal yemek sayılır; kızarmış domuz "lechon" şölen yemeğidir. || "Adobo", cooked in vinegar and soy sauce, is considered the national dish, and roast pig, "lechon", is the feast dish.
+S: Bohol adasındaki Çikolata Tepeleri, kurak mevsimde kahverengiye dönen binden fazla koni biçimli tepedir. || The Chocolate Hills on Bohol island are more than a thousand cone-shaped hills that turn brown in the dry season.
+
+@sg | Singapur | Marina Bay Sands | Marina Bay Sands | Marina Bay Sands
+F: Bir ada üzerinde kurulu şehir devletidir; dört resmî dili vardır ve sakız satışı kısıtlıdır. || It is a city-state on an island, with four official languages and restrictions on the sale of chewing gum.
+C: Açık hava yemek merkezleri "hawker" kültürü UNESCO somut olmayan miras listesindedir. || The "hawker" culture of open-air food centres is on UNESCO's intangible heritage list.
+Y: Haşlanmış tavuklu pilav ve acılı yengeç en bilinen lezzetlerdir. || Poached chicken rice and chilli crab are the best-known dishes.
+S: Marina Bay Sands, üç kulesinin üzerinde gemi biçimli bir teras taşıyan bir oteldir. || Marina Bay Sands is a hotel whose three towers carry a ship-shaped deck.
+
+@th | Bangkok | Wat Arun | Wat Arun | Wat Arun
+F: Güneydoğu Asya'da Avrupalılarca hiç sömürgeleştirilmemiş tek ülkedir; eski adı Siyam'dır. || It is the only country in Southeast Asia never colonised by Europeans; its former name was Siam.
+C: Yeni yıl "Songkran" su savaşlarıyla kutlanır; "wai" selamı avuçlar birleştirilerek verilir. || The new year, "Songkran", is celebrated with water fights, and the "wai" greeting is given with palms pressed together.
+Y: Kavrulmuş pirinç eriştesi "pad thai" ve acılı ekşili karides çorbası "tom yum" ünlüdür. || Stir-fried rice noodles, "pad thai", and the hot-and-sour prawn soup "tom yum" are famous.
+S: Wat Arun, nehir kıyısında porselen parçalarıyla kaplı kulesiyle bilinen "Şafak Tapınağı"dır. || Wat Arun, the "Temple of Dawn", is known for its riverside spire covered in pieces of porcelain.
+
+@tl | Dili | Cristo Rei of Dili | Dili Cristo Rei Heykeli | Cristo Rei of Dili
+F: 2002'de bağımsız olan, 21. yüzyılın ilk yeni egemen devletidir; bir adanın doğu yarısında yer alır. || Independent since 2002, it was the first new sovereign state of the 21st century and occupies the eastern half of an island.
+C: El dokuması "tais" kumaşı törenlerde kullanılır ve UNESCO miras listesindedir. || Hand-woven "tais" cloth is used in ceremonies and is on UNESCO's heritage list.
+Y: Demirhindiyle pişen balık "ikan sabuko" ve mısır-fasulye yemeği "batar da'an" yaygındır. || Tamarind-marinated fish, "ikan sabuko", and the corn and bean dish "batar da'an" are common.
+S: Cristo Rei, başkentin doğusundaki bir burunda yerküre üzerinde duran 27 metrelik bir İsa heykelidir. || Cristo Rei is a 27-metre statue of Christ standing on a globe on a headland east of the capital.
+
+@vn | Hanoi | Hạ Long Bay | Ha Long Körfezi | Ha Long Bay
+F: Dünyanın en büyük mağarası Son Doong bu ülkededir; kuzeyden güneye S harfi biçiminde uzanır. || The world's largest cave, Son Doong, is in this country, which stretches north to south in the shape of the letter S.
+C: Ay yeni yılı "Tết" en büyük bayramdır; su kuklası tiyatrosu pirinç tarlalarında doğmuştur. || The lunar new year, "Tết", is the biggest holiday, and water puppet theatre was born in the rice paddies.
+Y: Pirinç erişteli et suyu çorbası "phở" ve bagetli sandviç "bánh mì" ünlüdür. || The rice-noodle soup "phở" and the baguette sandwich "bánh mì" are famous.
+S: Ha Long Körfezi, denizden yükselen binlerce kireçtaşı adacığıyla bir UNESCO Dünya Mirası'dır. || Ha Long Bay, with thousands of limestone islets rising from the sea, is a UNESCO World Heritage Site.
+
+@af | Kabil | Band-e Amir National Park | Bend-i Emir Gölleri | Band-e Amir Lakes
+F: Lacivert taşı (lapis lazuli) binlerce yıldır bu ülkenin dağlarından çıkarılır; Hindukuş Dağları ülkeyi boydan boya geçer. || Lapis lazuli has been mined in its mountains for thousands of years, and the Hindu Kush range runs across the country.
+C: Atlı takımların oynadığı "buzkaşi" ulusal oyundur; halı dokumacılığı köklü bir zanaattır. || "Buzkashi", played by teams on horseback, is the national game, and carpet weaving is a long-established craft.
+Y: Havuç ve kuru üzümle süslenen etli pilav ulusal yemektir. || A meat pilaf topped with carrots and raisins is the national dish.
+S: Bend-i Emir, doğal traverten setlerle birbirinden ayrılan masmavi altı gölden oluşur. || Band-e Amir is a chain of six deep-blue lakes separated by natural travertine dams.
+
+@bd | Dakka | Sixty Dome Mosque | Altmış Kubbeli Cami | Sixty Dome Mosque
+F: Dünyanın en büyük nehir deltası üzerinde kuruludur; dünyanın en büyük mangrov ormanı Sundarbanlar'da kaplanlar yaşar. || It lies on the world's largest river delta, and tigers live in the Sundarbans, the world's largest mangrove forest.
+C: 21 Şubat Dil Şehitleri Günü, UNESCO'nun Uluslararası Ana Dili Günü'ne ilham vermiştir. || Language Martyrs' Day on 21 February inspired UNESCO's International Mother Language Day.
+Y: Hardal soslu "ilish" balığı ve pilav en sevilen yemektir. || "Ilish" fish in mustard sauce with rice is the best-loved meal.
+S: Altmış Kubbeli Cami, 15. yüzyılda tuğladan yapılmış bir UNESCO Dünya Mirası'dır. || The Sixty Dome Mosque is a 15th-century brick building and a UNESCO World Heritage Site.
+
+@bt | Thimphu | Paro Taktsang | Kaplan Yuvası Manastırı | Tiger's Nest Monastery
+F: Kalkınmayı "Gayrisafi Millî Mutluluk" ile ölçer ve saldığından fazla karbon emen ülkelerdendir. || It measures progress by "Gross National Happiness" and is among the countries that absorb more carbon than they emit.
+C: Okçuluk ulusal spordur; erkekler "gho", kadınlar "kira" adlı geleneksel giysiyi giyer. || Archery is the national sport; men wear the traditional "gho" and women the "kira".
+Y: Acı biber ve peynirden yapılan "ema datshi" ulusal yemektir. || "Ema datshi", made of chillies and cheese, is the national dish.
+S: Kaplan Yuvası Manastırı, vadiden yaklaşık 900 metre yükseklikte bir uçuruma kurulmuştur. || The Tiger's Nest Monastery clings to a cliff about 900 metres above the valley floor.
+
+@in | Yeni Delhi | Taj Mahal | Tac Mahal | Taj Mahal
+F: Dünyanın en kalabalık ülkesidir; satranç ve sıfır rakamının kökeni bu topraklara dayanır. || It is the most populous country in the world, and chess and the numeral zero trace their origins to this land.
+C: Işık bayramı "Divali" ve renk bayramı "Holi" coşkuyla kutlanır; film sektörü "Bollywood" dünyanın en üretkenlerindendir. || The festival of lights, "Diwali", and the festival of colours, "Holi", are celebrated joyfully; the "Bollywood" film industry is among the most prolific in the world.
+Y: Baharatlı köriler, tandırda pişen "naan" ekmeği ve sütlü baharatlı çay "masala chai" yaygındır. || Spiced curries, "naan" bread baked in a tandoor and milky spiced tea, "masala chai", are everywhere.
+S: Tac Mahal, 17. yüzyılda Şah Cihan'ın eşi için yaptırdığı beyaz mermer bir anıt mezardır. || The Taj Mahal is a white marble mausoleum built in the 17th century by Shah Jahan for his wife.
+
+@ir | Tahran | Naqsh-e Jahan Square | Nakş-ı Cihan Meydanı | Naqsh-e Jahan Square
+F: Ülke 1935'te Batı'daki adını resmen değiştirmiştir; antik Ahameniş başkenti Persepolis bu ülkededir. || In 1935 the country officially changed the name used for it in the West; the ancient Achaemenid capital Persepolis is here.
+C: Bahar bayramı Nevruz yeni yılı başlatır; Hafız ve Sadi'nin şiirleri hâlâ ezbere okunur. || The spring festival Nowruz begins the new year, and the poems of Hafez and Saadi are still recited by heart.
+Y: Safranlı pilavla yenen kebap "çelo kebap" ve otlu yahni "gorme sebzi" ünlüdür. || "Chelo kebab", served with saffron rice, and the herb stew "ghormeh sabzi" are famous.
+S: İsfahan'daki Nakş-ı Cihan, çinili camiler ve bir sarayla çevrili dünyanın en büyük meydanlarından biridir. || Naqsh-e Jahan in Isfahan is one of the world's largest squares, framed by tiled mosques and a palace.
+
+@lk | Sri Jayawardenepura Kotte, Kolombo = Sri Jayawardenepura Kotte, Colombo | Sigiriya | Sigiriya Kayası | Sigiriya
+F: Hint Okyanusu'ndaki gözyaşı damlası biçimli bu ada, eski adı Seylan olan ünlü çayın ve tarçının anavatanıdır. || This teardrop-shaped island in the Indian Ocean, formerly called Ceylon, is the home of a famous tea and of cinnamon.
+C: Kandy kentindeki "Esala Perahera" alayında süslü filler ve dansçılar yürür. || In the "Esala Perahera" procession in the city of Kandy, decorated elephants and dancers parade.
+Y: Pirinç unundan çanak biçimli krep "hopper" ve hindistan cevizli köriler yaygındır. || "Hoppers", bowl-shaped rice-flour pancakes, and coconut curries are common.
+S: Sigiriya, 5. yüzyılda tepesine saray kurulan 200 metre yüksekliğinde bir kaya kalesidir. || Sigiriya is a rock fortress 200 metres high, with a palace built on its summit in the 5th century.
+
+@mv | Male | Malé | Male | Malé
+F: Ortalama yüksekliği yaklaşık 1,5 metre olan dünyanın en alçak ülkesidir; binden fazla mercan adasından oluşur. || With an average elevation of about 1.5 metres it is the lowest country in the world, made up of more than a thousand coral islands.
+C: Davul eşliğinde yapılan "bodu beru" gösterisi adaların en sevilen eğlencesidir. || "Bodu beru", performed to drums, is the islands' favourite entertainment.
+Y: Ton balığı, hindistan cevizi ve soğanla hazırlanan "mas huni" kahvaltıda yenir. || "Mas huni", made of tuna, coconut and onion, is eaten for breakfast.
+S: Başkent adası, her yanı denizle çevrili ve dünyanın en yoğun nüfuslu kentlerinden biridir. || The capital island is surrounded by sea on every side and is one of the most densely populated cities in the world.
+
+@np | Katmandu | Boudhanath | Boudhanath Stupası | Boudhanath Stupa
+F: Dünyanın en yüksek dağı Everest'in zirvesi bu ülkenin sınırındadır; bayrağı dikdörtgen olmayan tek ulusal bayraktır. || The summit of Everest, the world's highest mountain, is on its border, and its flag is the only national flag that is not rectangular.
+C: Şerpalar dağcılıktaki ustalıklarıyla tanınır; "namaste" selamı avuçlar birleştirilerek verilir. || The Sherpas are renowned for their mountaineering skill, and the greeting "namaste" is given with palms together.
+Y: Mercimek çorbası ve pilavdan oluşan "dal bhat" günde iki kez yenir; buharda mantı "momo" sevilir. || "Dal bhat", lentil soup with rice, is eaten twice a day, and steamed "momo" dumplings are loved.
+S: Boudhanath, üzerinde Buda'nın gözleri resmedilmiş dünyanın en büyük küresel stupalarından biridir. || Boudhanath, painted with the eyes of the Buddha, is one of the largest spherical stupas in the world.
+
+@pk | İslamabad | Badshahi Mosque | Badşahi Camii | Badshahi Mosque
+F: Dünyanın ikinci yüksek dağı K2 bu ülkededir; antik İndus Vadisi uygarlığının kenti Mohenjo-daro da buradadır. || K2, the world's second-highest mountain, is in this country, as is Mohenjo-daro, a city of the ancient Indus Valley civilisation.
+C: Kamyonlar renkli resim ve süslerle bezenir; kriket ulusal tutkudur. || Trucks are covered in colourful paintings and ornaments, and cricket is the national passion.
+Y: Baharatlı etli pilav "biryani" ve ağır ateşte pişen "nihari" sevilen yemeklerdir. || The spiced meat and rice dish "biryani" and slow-cooked "nihari" are favourites.
+S: Lahor'daki Badşahi Camii, 17. yüzyılda kırmızı kumtaşından yapılmış bir Babür eseridir. || The Badshahi Mosque in Lahore is a Mughal work built of red sandstone in the 17th century.
+
+@ae | Abu Dabi | Burj Khalifa | Burç Halife | Burj Khalifa
+F: Yedi emirlikten oluşan bir federasyondur; dünyanın en yüksek binası (828 m) buradadır. || It is a federation of seven monarchies and has the world's tallest building (828 m).
+C: Doğancılık ve deve yarışı çöl geleneklerini yaşatır; misafire kakuleli kahve ikram edilir. || Falconry and camel racing keep desert traditions alive, and guests are offered coffee with cardamom.
+Y: Baharatlı etli pilav "machboos" ve hurma şuruplu lokma tatlısı "luqaimat" yaygındır. || The spiced meat and rice dish "machboos" and "luqaimat", dumplings with date syrup, are common.
+S: Burç Halife, Dubai'de 2010'da açılan 163 katlı bir gökdelendir. || Burj Khalifa is a 163-storey skyscraper in Dubai that opened in 2010.
+
+@am | Erivan | Khor Virap | Khor Virap Manastırı | Khor Virap Monastery
+F: 301 yılında Hristiyanlığı devlet dini olarak kabul eden ilk ülkedir; kendine özgü alfabesi 405'te oluşturulmuştur. || In 301 it became the first country to adopt Christianity as its state religion; its unique alphabet was created in 405.
+C: Kayısı ağacından yapılan nefesli çalgı "duduk" ve müziği UNESCO miras listesindedir. || The "duduk", a wind instrument made of apricot wood, and its music are on UNESCO's heritage list.
+Y: Tandırda pişen ince ekmek "lavaş" UNESCO listesindedir; ızgara et "horovats" sevilir. || The thin bread "lavash", baked in a clay oven, is on the UNESCO list, and grilled "khorovats" is a favourite.
+S: Khor Virap Manastırı, ardındaki karlı Ağrı Dağı manzarasıyla ünlüdür. || Khor Virap Monastery is famous for its view of snow-capped Mount Ararat behind it.
+
+@az | Bakü | Flame Towers | Alev Kuleleri | Flame Towers
+F: Yerden çıkan doğal gaz alevleri nedeniyle "Ateş Ülkesi" olarak anılır; başkenti Hazar Denizi kıyısındadır. || It is called the "Land of Fire" for the natural gas flames that rise from the ground; its capital is on the Caspian Sea.
+C: Doğaçlamaya dayalı "muğam" müziği ve halı dokumacılığı UNESCO miras listesindedir. || Improvised "mugham" music and carpet weaving are on UNESCO's heritage list.
+Y: Safranlı pilav ve asma yaprağı sarması "dolma" sofranın baş yemekleridir. || Saffron pilaf and "dolma", stuffed vine leaves, are the main dishes.
+S: Alev Kuleleri, geceleri ateş görüntüsüyle aydınlatılan üç gökdelendir. || The Flame Towers are three skyscrapers lit at night to look like fire.
+
+@bh | Manama | Bahrain World Trade Center | Bahreyn Dünya Ticaret Merkezi | Bahrain World Trade Center
+F: Basra Körfezi'ndeki bu ada ülkesi yüzyıllarca inci avcılığıyla geçinmiştir; adı "iki deniz" anlamına gelir. || This island country in the Persian Gulf lived for centuries on pearl diving; its name means "two seas".
+C: İnci avcılarının şarkıları "fidjeri" hâlâ söylenir; antik Dilmun uygarlığı burada yaşamıştır. || The pearl divers' songs, "fijiri", are still sung, and the ancient Dilmun civilisation lived here.
+Y: Baharatlı balıklı ya da etli pilav "machboos" ulusal yemektir. || The spiced rice dish "machboos" with fish or meat is the national dish.
+S: Dünya Ticaret Merkezi, iki kulesi arasında üç rüzgâr türbini taşıyan ilk gökdelendir. || The World Trade Center was the first skyscraper to carry three wind turbines between its two towers.
+
+@ge | Tiflis | Gergeti Trinity Church | Gergeti Teslis Kilisesi | Gergeti Trinity Church
+F: 8.000 yıllık şarap yapımı geleneğiyle şarabın beşiği sayılır; yalnızca bu dile özgü bir alfabe kullanır. || With an 8,000-year winemaking tradition it is regarded as the cradle of wine, and it uses an alphabet unique to its language.
+C: Çok sesli şarkı geleneği UNESCO listesindedir; sofrayı "tamada" adlı kişi yönetir. || Its polyphonic singing is on the UNESCO list, and feasts are led by a toastmaster called the "tamada".
+Y: Peynirli ekmek "haçapuri" ve içi sulu mantı "hinkali" ulusal lezzetlerdir. || The cheese bread "khachapuri" and the juicy dumplings "khinkali" are national dishes.
+S: Gergeti Teslis Kilisesi, 2.170 metre yükseklikte Kazbek Dağı'nın eteğinde tek başına durur. || Gergeti Trinity Church stands alone at 2,170 metres beneath Mount Kazbek.
+
+@il | Kudüs | Masada | Masada | Masada
+F: Dünyanın yeryüzündeki en alçak noktası olan Ölü Deniz kıyısı bu ülkenin doğu sınırındadır. || The shore of the Dead Sea, the lowest point on the Earth's land surface, lies on its eastern border.
+C: Cumartesi dinlenme günü "Şabat" cuma akşamı başlar; ortak yaşam çiftlikleri "kibbutz" burada doğmuştur. || The Saturday day of rest, "Shabbat", begins on Friday evening, and the communal farms called "kibbutz" were born here.
+Y: Nohut köftesi "falafel", humus ve domates soslu yumurta "şakşuka" yaygındır. || Chickpea "falafel", hummus and "shakshuka", eggs in tomato sauce, are common.
+S: Masada, Ölü Deniz'e bakan sarp bir platonun tepesindeki antik bir kaledir. || Masada is an ancient fortress on top of a steep plateau overlooking the Dead Sea.
+
+@iq | Bağdat | Ziggurat of Ur | Ur Zigguratı | Ziggurat of Ur
+F: Dicle ile Fırat arasındaki Mezopotamya'da yazı ve ilk kentler burada ortaya çıkmıştır. || Writing and the first cities emerged here in Mesopotamia, between the Tigris and the Euphrates.
+C: Güneydeki bataklıklarda sazdan örülen kemerli konukevleri "mudhif" binlerce yıllık bir gelenektir. || In the southern marshes, arched guesthouses woven from reeds, called "mudhif", are a tradition thousands of years old.
+Y: Açık ateşte ızgara yapılan sazan "masguf" ulusal yemektir. || "Masgouf", carp grilled over an open fire, is the national dish.
+S: Ur Zigguratı, yaklaşık 4.000 yıl önce ay tanrısı için yapılmış basamaklı bir tapınaktır. || The Ziggurat of Ur is a stepped temple built about 4,000 years ago for the moon god.
+
+@jo | Amman | Al-Khazneh | Petra Hazine Binası | The Treasury, Petra
+F: Kayalara oyulmuş "gül kırmızısı" antik kent Petra bu ülkededir; ülke adını bir nehirden alır. || The "rose-red" ancient city of Petra, carved into rock, is in this country, which is named after a river.
+C: Bedevi misafirperverliğinde konuğa kakuleli kahve sunulur. || In Bedouin hospitality the guest is served coffee with cardamom.
+Y: Kurutulmuş yoğurt sosuyla pişen kuzu ve pilav "mansaf" ulusal yemektir. || "Mansaf", lamb cooked in dried-yoghurt sauce with rice, is the national dish.
+S: Hazine Binası, yaklaşık 2.000 yıl önce Nebatilerin kumtaşına oyduğu 40 metrelik bir cephedir. || The Treasury is a 40-metre façade carved into sandstone by the Nabataeans about 2,000 years ago.
+
+@kw | Kuveyt | Kuwait Towers | Kuveyt Kuleleri | Kuwait Towers
+F: Para birimi dinar dünyanın en değerli para birimidir; ülkede sürekli akan nehir ya da doğal göl yoktur. || Its currency, the dinar, is the highest-valued in the world, and the country has no permanent rivers or natural lakes.
+C: "Divaniye" adlı toplantı odalarında erkekler akşamları sohbet için bir araya gelir. || In meeting rooms called "diwaniya", men gather in the evenings to talk.
+Y: Baharatlı pilav üzerinde et ya da balıkla sunulan "machboos" ulusal yemektir. || "Machboos", spiced rice topped with meat or fish, is the national dish.
+S: Kuveyt Kuleleri, mavi kürelerle süslü üç su ve seyir kulesidir. || The Kuwait Towers are three water and viewing towers decorated with blue spheres.
+
+@lb | Beyrut | Baalbek | Baalbek | Baalbek
+F: Bayrağında bir sedir ağacı bulunur; alfabeyi yayan Fenikeliler bu kıyılarda yaşamıştır. || A cedar tree appears on its flag, and the Phoenicians, who spread the alphabet, lived on this coast.
+C: El ele tutuşup ayak vurularak oynanan "dabke" düğünlerin vazgeçilmezidir. || The "dabke", danced hand in hand with stamping feet, is a must at weddings.
+Y: Maydanozlu bulgur salatası "tabule" ve çiğ köfteye benzeyen "kibbe" meze sofrasının parçasıdır. || The parsley and bulgur salad "tabbouleh" and "kibbeh" are part of the mezze table.
+S: Baalbek, dev sütunlarıyla Roma dünyasının en büyük tapınak komplekslerinden biridir. || Baalbek, with its giant columns, is one of the largest temple complexes of the Roman world.
+
+@om | Maskat | Sultan Qaboos Grand Mosque | Sultan Kabus Ulu Camii | Sultan Qaboos Grand Mosque
+F: Günlük (buhur) ağacı reçinesi binlerce yıldır bu ülkeden dünyaya satılır; Arap dünyasının en eski bağımsız devletlerindendir. || Frankincense resin has been traded from this country for thousands of years, and it is among the oldest independent states in the Arab world.
+C: Erkekler kemerlerinde "hançer" adlı kavisli bıçak taşır; bu simge bayrakta da yer alır. || Men wear a curved dagger called the "khanjar" on their belts, a symbol that also appears on the flag.
+Y: Yer altı fırınında bir-iki gün pişen baharatlı et "şuva" bayram yemeğidir. || "Shuwa", spiced meat cooked for a day or two in an underground oven, is the festive dish.
+S: Sultan Kabus Ulu Camii, dev avizesi ve el dokuması halısıyla tanınır. || The Sultan Qaboos Grand Mosque is known for its giant chandelier and hand-woven carpet.
+
+@ps | Ramallah | Church of the Nativity | Doğuş Kilisesi | Church of the Nativity
+F: Dünyanın en eski yerleşimlerinden Eriha ve Hz. İsa'nın doğduğuna inanılan Beytüllahim bu topraklardadır. || Jericho, one of the world's oldest settlements, and Bethlehem, believed to be the birthplace of Jesus, are in this land.
+C: Kanaviçe işlemesi "tatriz" UNESCO listesindedir; siyah-beyaz kefiye ulusal simgedir. || The cross-stitch embroidery "tatreez" is on the UNESCO list, and the black-and-white keffiyeh is a national symbol.
+Y: Sumaklı soğan ve tavukla hazırlanan ekmek üstü "musakhan" ulusal yemek sayılır. || "Musakhan", bread topped with sumac onions and chicken, is considered the national dish.
+S: Beytüllahim'deki Doğuş Kilisesi, dünyanın kesintisiz kullanılan en eski kiliselerinden biridir. || The Church of the Nativity in Bethlehem is one of the oldest churches in continuous use in the world.
+
+@qa | Doha | Museum of Islamic Art, Doha | İslam Sanatı Müzesi | Museum of Islamic Art
+F: 2022'de FIFA Dünya Kupası'na ev sahipliği yapan ilk Arap ülkesidir; Basra Körfezi'ne uzanan bir yarımadadır. || In 2022 it became the first Arab country to host the FIFA World Cup; it is a peninsula jutting into the Persian Gulf.
+C: Doğancılık ve geleneksel ahşap "dhow" tekneleri körfez mirasını yaşatır. || Falconry and traditional wooden "dhow" boats keep Gulf heritage alive.
+Y: Baharatlı etli pilav "machboos" ve buğdaylı et lapası "haris" yaygındır. || The spiced meat and rice dish "machboos" and the wheat and meat porridge "harees" are common.
+S: İslam Sanatı Müzesi, mimar I. M. Pei'nin tasarladığı, deniz üzerine kurulu bir yapıdır. || The Museum of Islamic Art is a building set on the water, designed by the architect I. M. Pei.
+
+@sa | Riyad | Hegra (Mada'in Salih) | Hicr (Medain Salih) | Hegra
+F: İslam'ın en kutsal iki kenti bu ülkededir; sürekli akan nehri olmayan dünyanın en büyük ülkesidir. || Islam's two holiest cities are in this country, the largest in the world without a permanent river.
+C: Kılıçlarla yapılan "arda" dansı ulusal danstır; kahve ikramı misafirperverliğin gereğidir. || The "ardah" sword dance is the national dance, and serving coffee is a duty of hospitality.
+Y: Baharatlı pilav üzerinde et ya da tavukla sunulan "kabsa" ulusal yemektir. || "Kabsa", spiced rice topped with meat or chicken, is the national dish.
+S: Hicr, Nebatilerin kayalara oyduğu yüzden fazla anıt mezarın bulunduğu bir UNESCO Dünya Mirası'dır. || Hegra is a UNESCO World Heritage Site with more than a hundred monumental tombs carved into rock by the Nabataeans.
+
+@sy | Şam | Krak des Chevaliers | Krak des Chevaliers | Krak des Chevaliers
+F: Başkenti, kesintisiz yerleşim gören dünyanın en eski kentlerinden biri sayılır. || Its capital is regarded as one of the oldest continuously inhabited cities in the world.
+C: Halep sabunu, sedef kakma ahşap işçiliği ve brokar kumaş köklü zanaatlardır. || Aleppo soap, mother-of-pearl wood inlay and brocade cloth are long-established crafts.
+Y: Acılı ceviz ve biber ezmesi "muhammara" ile bulgurlu "kibbe" mutfağın simgeleridir. || "Muhammara", a spicy walnut and pepper dip, and bulgur "kibbeh" are symbols of the cuisine.
+S: Krak des Chevaliers, Haçlı döneminden kalma en iyi korunmuş kalelerden biridir. || Krak des Chevaliers is one of the best-preserved castles from the Crusader period.
+
+@tr | Ankara | Cappadocia | Kapadokya Peribacaları | Fairy Chimneys of Cappadocia
+F: Toprakları iki kıtaya yayılır; dünyanın bilinen en eski tapınak alanı Göbeklitepe bu ülkededir. || Its territory spans two continents, and Göbekli Tepe, the oldest known temple site in the world, is in this country.
+C: Mevlevi sema töreni ile kahve kültürü UNESCO somut olmayan miras listesindedir. || The Mevlevi whirling ceremony and its coffee culture are on UNESCO's intangible heritage list.
+Y: Kat kat yufkayla yapılan "baklava", simit ve ince belli bardakta çay günlük yaşamın parçasıdır. || Layered "baklava", sesame "simit" rings and tea in tulip-shaped glasses are part of daily life.
+S: Kapadokya'nın peribacaları, volkanik tüfün aşınmasıyla oluşmuş koni biçimli kayalardır. || The fairy chimneys of Cappadocia are cone-shaped rocks formed by the erosion of volcanic tuff.
+
+@ye | Sana | Shibam Hadramawt | Şibam | Shibam
+F: Ejderha kanı ağaçlarıyla ünlü Sokotra adası bu ülkeye bağlıdır; "moka" kahvesi adını buradaki bir limandan alır. || The island of Socotra, famous for its dragon's blood trees, belongs to this country, and "mocha" coffee is named after one of its ports.
+C: Erkekler kemerlerinde "cenbiye" adlı kavisli hançer taşır; kerpiç kule evler geleneksel mimarinin örneğidir. || Men wear a curved dagger called the "jambiya" on their belts, and mud-brick tower houses are typical of traditional architecture.
+Y: Taş kapta fokurdayarak gelen etli yahni "saltah" ulusal yemektir. || "Saltah", a meat stew served bubbling in a stone pot, is the national dish.
+S: Şibam, 16. yüzyıldan kalma çok katlı kerpiç evleriyle "çölün Manhattan'ı" olarak anılır. || Shibam, with its 16th-century mud-brick high-rises, is known as the "Manhattan of the desert".

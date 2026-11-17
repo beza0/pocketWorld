@@ -1,0 +1,83 @@
+@au | Canberra | Uluru | Uluru | Uluru
+F: Bir kıtanın tamamını kaplayan tek ülkedir; kanguru ve koala gibi keseli hayvanların yurdudur. || It is the only country that covers an entire continent and is home to marsupials such as the kangaroo and the koala.
+C: Aborijin halklarının kültürü 60.000 yılı aşan geçmişiyle dünyanın yaşayan en eski kültürlerindendir; "didgeridoo" çalgısı onlara aittir. || The culture of its Aboriginal peoples, more than 60,000 years old, is among the oldest living cultures in the world; the "didgeridoo" is their instrument.
+Y: Maya özlü ezme "Vegemite" kahvaltıda ekmeğe sürülür; kıymalı turta sevilen bir atıştırmalıktır. || The yeast spread "Vegemite" goes on toast at breakfast, and the meat pie is a favourite snack.
+S: Uluru, çölün ortasında 348 metre yükselen ve yerli halkça kutsal sayılan dev bir kumtaşı kayasıdır. || Uluru is a giant sandstone rock rising 348 metres from the desert and sacred to its Indigenous people.
+
+@nz | Wellington | Milford Sound | Milford Sound | Milford Sound
+F: 1893'te kadınlara oy hakkı tanıyan ilk ülke olmuştur; uçamayan kivi kuşu ulusal simgesidir. || In 1893 it became the first country to give women the vote; the flightless kiwi bird is its national symbol.
+C: Maori savaş dansı "haka" ragbi maçlarından önce yapılır; burun burna selamlaşmaya "hongi" denir. || The Māori war dance "haka" is performed before rugby matches, and the nose-to-nose greeting is called the "hongi".
+Y: Toprağa gömülü sıcak taşlarla pişen "hāngī" ve beze tatlısı "pavlova" ünlüdür. || "Hāngī", cooked on hot stones buried in the earth, and the meringue dessert "pavlova" are famous.
+S: Milford Sound, sarp kayalıkları ve şelaleleriyle Güney Adası'ndaki bir fiyorttur. || Milford Sound is a fjord on the South Island with sheer cliffs and waterfalls.
+
+@fj | Suva | Mamanuca Islands | Mamanuca Adaları | Mamanuca Islands
+F: Üç yüzden fazla adadan oluşur; 180. meridyen adalarından birinin üzerinden geçer. || It is made up of more than three hundred islands, and the 180th meridian passes over one of them.
+C: Kava kökünden yapılan içecek törenle paylaşılır; yedili ragbi ulusal tutkudur. || A drink made from kava root is shared in ceremony, and rugby sevens is the national passion.
+Y: Hindistan cevizi sütü ve misket limonunda marine edilen çiğ balık "kokoda" sevilir. || "Kokoda", raw fish marinated in coconut milk and lime, is a favourite.
+S: Mamanuca Adaları, mercan resifleriyle çevrili yirmi kadar küçük adadan oluşur. || The Mamanuca Islands are about twenty small islands ringed by coral reefs.
+
+@pg | Port Moresby | Kokoda Track | Kokoda Yolu | Kokoda Track
+F: 800'den fazla diliyle dünyada en çok dil konuşulan ülkedir; dünyanın ikinci büyük adasının doğu yarısındadır. || With more than 800 languages it is the most linguistically diverse country in the world; it occupies the eastern half of the world's second-largest island.
+C: "Sing-sing" şenliklerinde kabileler tüylü başlıklar ve yüz boyalarıyla dans eder. || At "sing-sing" festivals, tribes dance in feathered headdresses and face paint.
+Y: Sıcak taşlarla toprak fırında pişen et ve kök sebzeler "mumu" şölen yemeğidir. || "Mumu", meat and root vegetables cooked with hot stones in an earth oven, is the feast dish.
+S: Kokoda Yolu, yağmur ormanıyla kaplı dağları aşan 96 kilometrelik bir yürüyüş rotasıdır. || The Kokoda Track is a 96-kilometre trail across rainforest-covered mountains.
+
+@sb | Honiara | Marovo Lagoon | Marovo Lagünü | Marovo Lagoon
+F: Yaklaşık bin adadan oluşur; İkinci Dünya Savaşı'nın önemli muharebelerinden biri Guadalcanal adasında yapılmıştır. || It consists of about a thousand islands, and one of the major battles of the Second World War was fought on its island of Guadalcanal.
+C: Bambu flüt toplulukları ve deniz kabuğundan yapılan geleneksel para kültürün parçasıdır. || Panpipe ensembles and traditional money made from shells are part of its culture.
+Y: Balık, taro ve hindistan cevizi sütüyle pişen manyok pudingi yaygındır. || Fish, taro and cassava pudding cooked with coconut milk are common.
+S: Marovo, çift bariyer resifiyle çevrili dünyanın en büyük tuzlu su lagünlerinden biridir. || Marovo is one of the largest saltwater lagoons in the world, enclosed by a double barrier reef.
+
+@vu | Port Vila | Mount Yasur | Yasur Yanardağı | Mount Yasur
+F: Bungee jumping'e ilham veren, ayak bileğine sarmaşık bağlanarak kuleden atlama töreni bu ada ülkesinde doğmuştur. || The ritual of leaping from a tower with vines tied to the ankles, which inspired bungee jumping, comes from this island country.
+C: Yerde tek çizgiyle çizilen kum resimleri UNESCO listesindedir; yüzden fazla yerli dil konuşulur. || Sand drawings traced in a single line are on the UNESCO list, and more than a hundred indigenous languages are spoken.
+Y: Rendelenmiş kök sebze ve hindistan cevizi sütünün yaprakta pişirildiği "laplap" ulusal yemektir. || "Laplap", grated root vegetables and coconut milk baked in leaves, is the national dish.
+S: Yasur, Tanna adasında kraterine kadar çıkılabilen sürekli etkin bir yanardağdır. || Yasur is a constantly active volcano on Tanna island whose crater rim can be reached on foot.
+
+@fm | Palikir | Nan Madol | Nan Madol | Nan Madol
+F: Batı Büyük Okyanus'ta 600'den fazla adaya yayılan dört eyaletten oluşur; Yap adasında dev taş paralar kullanılmıştır. || It is made up of four states spread over more than 600 islands in the western Pacific, and giant stone money was used on its island of Yap.
+C: Geleneksel denizciler yıldızlara ve dalgalara bakarak pusulasız yol bulur. || Traditional navigators find their way without a compass by reading the stars and waves.
+Y: Ekmek ağacı meyvesi, taro ve balık sofranın temelidir. || Breadfruit, taro and fish are the staples.
+S: Nan Madol, mercan resifi üzerine bazalt sütunlarla kurulmuş yapay adacıklardan oluşan antik bir kenttir. || Nan Madol is an ancient city of artificial islets built from basalt columns on a coral reef.
+
+@ki | Güney Tarawa | Kiritimati | Kiritimati (Christmas Adası) | Kiritimati
+F: Dünyada dört yarımkürenin hepsinde toprağı olan tek ülkedir ve yeni yıla ilk giren yerlerden biridir. || It is the only country in the world with land in all four hemispheres and is among the first places to see the new year.
+C: Toplantı evi "maneaba" köy yaşamının merkezidir; danslarda kuş hareketleri taklit edilir. || The meeting house, the "maneaba", is the centre of village life, and dances imitate the movements of birds.
+Y: Balık, hindistan cevizi ve ekmek ağacı meyvesi günlük besindir. || Fish, coconut and breadfruit are the daily diet.
+S: Kiritimati, yüz ölçümü bakımından dünyanın en büyük mercan atolüdür. || Kiritimati is the largest coral atoll in the world by land area.
+
+@mh | Majuro | Majuro | Majuro Atolü | Majuro Atoll
+F: Bikini Atolü bu ülkededir; topraklarının tamamı alçak mercan atollerinden ve adalardan oluşur. || Bikini Atoll is in this country, whose land consists entirely of low coral atolls and islands.
+C: Denizciler, dalga düzenlerini gösteren çubuk haritalarla yol bulurdu. || Its sailors once navigated with stick charts showing the patterns of the waves.
+Y: Ekmek ağacı meyvesi, pandanus meyvesi ve balık sofranın temelidir. || Breadfruit, pandanus fruit and fish are the staples.
+S: Majuro, dar kara şeridiyle büyük bir lagünü çevreleyen başkent atolüdür. || Majuro is the capital atoll, a narrow strip of land around a large lagoon.
+
+@nr | Yaren | Anibare Bay | Anibare Koyu | Anibare Bay
+F: Dünyanın en küçük ada ülkesi ve en küçük cumhuriyetidir; resmî bir başkenti yoktur. || It is the smallest island country and the smallest republic in the world, and it has no official capital.
+C: Ada, fosfat madenciliğiyle bir dönem dünyanın en zengin yerlerinden biri olmuştur; Avustralya futbolu çok sevilir. || Phosphate mining once made the island one of the richest places in the world; Australian rules football is much loved.
+Y: Balık ve hindistan cevizi geleneksel beslenmenin temelidir. || Fish and coconut are the basis of the traditional diet.
+S: Anibare Koyu, adanın doğusunda mercan kayalarıyla süslü beyaz kumlu bir sahildir. || Anibare Bay is a white-sand shore on the island's east side, dotted with coral pinnacles.
+
+@pw | Ngerulmud | Rock Islands | Kaya Adaları | Rock Islands
+F: Zararsız milyonlarca denizanasıyla yüzülebilen bir göl bu ada ülkesindedir; 2009'da dünyanın ilk köpekbalığı koruma alanını ilan etmiştir. || A lake where one can swim among millions of harmless jellyfish is in this island country, which declared the world's first shark sanctuary in 2009.
+C: Ziyaretçiler ülkeye girerken çevreyi koruyacaklarına dair pasaportlarına basılan bir yemini imzalar. || Visitors entering the country sign a pledge, stamped in their passports, to protect the environment.
+Y: Taro, balık ve hindistan cevizi sofranın temelidir. || Taro, fish and coconut are the staples.
+S: Kaya Adaları, turkuaz lagünde mantar biçimli yüzlerce kireçtaşı adacığından oluşur; UNESCO Dünya Mirası'dır. || The Rock Islands are hundreds of mushroom-shaped limestone islets in a turquoise lagoon and a UNESCO World Heritage Site.
+
+@to | Nukualofa | Haʻamonga ʻa Maui | Ha'amonga 'a Maui | Ha'amonga 'a Maui
+F: Büyük Okyanus'ta hiç sömürgeleştirilmemiş tek krallıktır; "Dost Adalar" olarak da anılır. || It is the only kingdom in the Pacific never to have been colonised and is also known as the "Friendly Islands".
+C: Ağaç kabuğundan yapılan "tapa" kumaşı törenlerde armağan edilir; bele hasır "ta'ovala" sarılır. || "Tapa" cloth made from bark is given at ceremonies, and a woven mat, the "ta'ovala", is worn around the waist.
+Y: Taro yaprağına sarılıp hindistan cevizi sütüyle pişen et "lu pulu" sevilir. || "Lu pulu", meat wrapped in taro leaves and cooked in coconut milk, is a favourite.
+S: Ha'amonga 'a Maui, 13. yüzyılda üç dev mercan kireçtaşı bloğundan yapılmış taş bir kapıdır. || Ha'amonga 'a Maui is a stone gateway made of three huge coral-limestone blocks in the 13th century.
+
+@tv | Funafuti | Funafuti | Funafuti Atolü | Funafuti Atoll
+F: Dünyanın en az ziyaret edilen ülkelerindendir; ".tv" internet alan adından önemli gelir elde eder. || It is one of the least-visited countries in the world and earns significant income from the ".tv" internet domain.
+C: Topluluk hep birlikte "fatele" şarkı ve dansını yapar; en yüksek noktası denizden yalnızca birkaç metre yüksektir. || The community performs the "fatele" song and dance together; its highest point is only a few metres above the sea.
+Y: Bataklık tarosu "pulaka", hindistan cevizi ve balık temel besinlerdir. || The swamp taro "pulaka", coconut and fish are the staple foods.
+S: Funafuti, ince adacıklarıyla geniş bir lagünü çevreleyen başkent atolüdür. || Funafuti is the capital atoll, with thin islets around a wide lagoon.
+
+@ws | Apia | To-Sua Ocean Trench | To-Sua Okyanus Çukuru | To-Sua Ocean Trench
+F: 2011'de Uluslararası Tarih Çizgisi'nin batısına geçerek takvimden bir günü atlamıştır. || In 2011 it moved to the west of the International Date Line, skipping a day on the calendar.
+C: "Fa'a" adı verilen geleneksel yaşam biçimi aileyi ve şefleri merkeze alır; geleneksel dövme "tatau" ünlüdür. || Its traditional way of life centres on family and chiefs, and the traditional tattoo, the "tatau", is famous.
+Y: Taro yaprağında hindistan cevizi kremasıyla pişen "palusami", toprak fırın "umu"da hazırlanır. || "Palusami", coconut cream baked in taro leaves, is prepared in the earth oven called the "umu".
+S: To-Sua, merdivenle inilen 30 metre derinliğinde, deniz suyuyla dolu bir obruktur. || To-Sua is a 30-metre-deep sinkhole filled with seawater and reached by a ladder.

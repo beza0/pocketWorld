@@ -1,0 +1,51 @@
+{
+  "expo": {
+    "name": "Dünya Cepte",
+    "slug": "pocket-world",
+    "scheme": "pocketworld",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "app.pocketworld",
+      "infoPlist": {
+        "CFBundleAllowMixedLocalizations": true
+      }
+    },
+    "android": {
+      "package": "app.pocketworld",
+      "adaptiveIcon": {
+        "backgroundColor": "#FBF6EC",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro",
+      "output": "single",
+      "name": "Dünya Cepte · Pocket World",
+      "shortName": "Dünya Cepte",
+      "lang": "tr",
+      "themeColor": "#FBF6EC",
+      "backgroundColor": "#FBF6EC",
+      "description": "Her gün bir ülke: bir dakikada keşfet, oyunlarla pekiştir."
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-notifications",
+        {
+          "color": "#2A7DA8"
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": false
+    }
+  }
+}

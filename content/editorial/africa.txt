@@ -1,0 +1,328 @@
+# Format (see content/README.md):
+# @id | capital (TR) | Wikipedia article used to locate the photo | place name TR | place name EN
+# F: short fact   C: culture   Y: food   S: sight (describes the photo place)   — "TR || EN"
+# F, C and Y are used as quiz clues and must not name the country, its demonym or its capital.
+
+@bi | Gitega | Lake Tanganyika | Tanganika Gölü | Lake Tanganyika
+F: Nil'in en güneydeki kaynağı bu küçük Doğu Afrika ülkesinin tepelerinde kabul edilir; kıtanın en yoğun nüfuslu ülkelerinden biridir. || The southernmost source of the Nile is traced to the hills of this small East African country, one of the most densely populated on the continent.
+C: Kraliyet davulcularının töreni UNESCO somut olmayan kültürel miras listesindedir; kutsal davul "karyenda" eski krallığın simgesiydi. || The ritual dance of the royal drum is on UNESCO's intangible heritage list; the sacred "karyenda" drum was the symbol of the old kingdom.
+Y: Fasulye ve pişirmelik muz sofranın temelidir; göl kıyısında "mukeke" balığı ızgara yenir. || Beans and plantains are staples, and grilled "mukeke" fish is eaten along the lakeshore.
+S: Ülkenin batı sınırını çizen Tanganika Gölü dünyanın en uzun tatlı su gölüdür. || Lake Tanganyika, which forms the country's western edge, is the longest freshwater lake in the world.
+
+@dj | Cibuti | Lake Assal (Djibouti) | Assal Gölü | Lake Assal
+F: Afrika'nın en alçak noktası olan, deniz seviyesinin yaklaşık 155 metre altındaki tuz gölü bu ülkededir. || Africa's lowest point, a salt lake about 155 metres below sea level, lies in this country.
+C: Afar ve Issa toplulukları göçebe gelenekleri sürdürür; tuz kervanları yüzyıllardır aynı yolları kullanır. || Afar and Issa communities keep nomadic traditions alive, and salt caravans have used the same routes for centuries.
+Y: Baharatlı et yahnisi "fah-fah" ve pilavla yenen "skoudehkaris" en bilinen yemeklerdir. || The spicy meat stew "fah-fah" and the rice dish "skoudehkaris" are the best-known meals.
+S: Assal Gölü, kıyıları bembeyaz tuzla kaplı, okyanustan çok daha tuzlu bir krater gölüdür. || Lake Assal is a crater lake edged with bright white salt and far saltier than the ocean.
+
+@er | Asmara | Fiat Tagliero Building | Fiat Tagliero Binası | Fiat Tagliero Building
+F: Başkenti, 1930'lardan kalma modernist mimarisi sayesinde UNESCO Dünya Mirası Listesi'ndedir; ülke 1993'te bağımsız oldu. || Its capital is a UNESCO World Heritage Site for its 1930s modernist architecture; the country became independent in 1993.
+C: Kahve töreni misafirperverliğin simgesidir; kahve üç tur halinde ikram edilir. || The coffee ceremony is the sign of hospitality, with coffee served in three rounds.
+Y: Ekşi mayalı yassı ekmek "injera", baharatlı "zigni" yahnisiyle yenir. || The sourdough flatbread "injera" is eaten with the spicy stew "zigni".
+S: 1938'de yapılan Fiat Tagliero Binası, uçak biçimindeki kanatlarıyla fütürist bir benzin istasyonudur. || Built in 1938, the Fiat Tagliero Building is a futurist petrol station shaped like an aeroplane.
+
+@et | Addis Ababa | Church of Saint George, Lalibela | Lalibela Aziz Georgios Kilisesi | Church of Saint George, Lalibela
+F: On üç aylı kendi takvimini kullanır ve kahve bitkisinin anavatanı sayılır. || It uses its own calendar of thirteen months and is regarded as the birthplace of the coffee plant.
+C: Timkat bayramında Epifani, renkli alaylar ve su törenleriyle kutlanır. || At the Timkat festival, Epiphany is celebrated with colourful processions and water rituals.
+Y: Teff unundan yapılan "injera" ekmeği, üzerine dökülen baharatlı "wat" yahnileriyle elle yenir. || "Injera", a flatbread made from teff flour, is eaten by hand with spicy "wat" stews.
+S: Lalibela'daki Aziz Georgios Kilisesi, haç biçiminde tek parça kayaya oyulmuştur. || The Church of Saint George in Lalibela is carved from a single block of rock in the shape of a cross.
+
+@ke | Nairobi | Maasai Mara | Masai Mara Ulusal Rezervi | Maasai Mara National Reserve
+F: Ekvator bu ülkenin ortasından geçer; her yıl bir milyondan fazla antilop Büyük Göç ile savanlarına ulaşır. || The equator runs through the middle of this country, and each year more than a million wildebeest arrive on its savannas in the Great Migration.
+C: Masai topluluğu renkli boncuk takıları ve yerinde sıçranarak yapılan "adumu" dansıyla tanınır. || The Maasai are known for colourful beadwork and the "adumu" jumping dance.
+Y: Mısır unundan yapılan "ugali", ızgara et "nyama choma" ile birlikte yenir. || "Ugali", made from maize flour, is eaten with the grilled meat "nyama choma".
+S: Masai Mara, aslanları ve Büyük Göç'ü izlemek için dünyanın en ünlü safari alanlarından biridir. || The Maasai Mara is one of the world's most famous safari areas for watching lions and the Great Migration.
+
+@km | Moroni | Mount Karthala | Karthala Yanardağı | Mount Karthala
+F: Hint Okyanusu'ndaki bu ada ülkesi, parfümlerde kullanılan ylang-ylang esansının başlıca üreticilerindendir. || This island nation in the Indian Ocean is a leading producer of ylang-ylang essence used in perfumes.
+C: Görkemli evlilik töreni "grand mariage" toplumsal saygınlığın en önemli göstergesidir. || The lavish "grand mariage" wedding is the most important mark of social standing.
+Y: Hindistan cevizi sütüyle pişen balık ve vanilyalı ıstakoz adaların bilinen lezzetleridir. || Fish cooked in coconut milk and lobster with vanilla sauce are well-known island dishes.
+S: Karthala, ülkenin en büyük adasındaki etkin bir yanardağdır ve geniş bir kraterle taçlanır. || Karthala is an active volcano on the country's largest island, topped by a wide crater.
+
+@mg | Antananarivo | Avenue of the Baobabs | Baobablar Caddesi | Avenue of the Baobabs
+F: Dünyanın dördüncü büyük adasıdır; lemurlar doğada yalnızca burada yaşar. || It is the world's fourth-largest island, and lemurs live in the wild nowhere else.
+C: "Famadihana" geleneğinde aileler atalarının kemiklerini yeni kefenlere sarar ve müzikle anar. || In the "famadihana" tradition, families rewrap their ancestors' remains in fresh cloth and honour them with music.
+Y: Pirinç her öğünün temelidir; etli ve yeşillikli "romazava" ulusal yemek sayılır. || Rice is the base of every meal, and "romazava", a stew of meat and greens, is considered the national dish.
+S: Baobablar Caddesi'nde yüzlerce yıllık dev ağaçlar toprak bir yolun iki yanında sıralanır. || On the Avenue of the Baobabs, giant centuries-old trees line both sides of a dirt road.
+
+@mu | Port Louis | Le Morne Brabant | Le Morne Brabant | Le Morne Brabant
+F: Nesli tükenen uçamayan kuş dodo yalnızca bu Hint Okyanusu adasında yaşıyordu. || The dodo, an extinct flightless bird, lived only on this Indian Ocean island.
+C: "Sega" müziği ve dansı adanın simgesidir ve UNESCO somut olmayan miras listesindedir. || "Sega" music and dance are the island's emblem and are on UNESCO's intangible heritage list.
+Y: İçi köri ile doldurulan ince ekmek "dholl puri" en sevilen sokak yemeğidir. || "Dholl puri", a thin flatbread filled with curry, is the favourite street food.
+S: Le Morne Brabant, lagünün üzerinde yükselen bazalt bir dağdır ve UNESCO Dünya Mirası'dır. || Le Morne Brabant is a basalt mountain rising above the lagoon and a UNESCO World Heritage Site.
+
+@mw | Lilongwe | Lake Malawi | Malavi Gölü | Lake Malawi
+F: Topraklarının yaklaşık beşte biri, yüzlerce çiklit balığı türüne ev sahipliği yapan dev bir gölle kaplıdır. || About a fifth of its territory is covered by a huge lake that is home to hundreds of cichlid fish species.
+C: Çeva halkının maskeli "Gule Wamkulu" dansı UNESCO somut olmayan miras listesindedir. || The masked "Gule Wamkulu" dance of the Chewa people is on UNESCO's intangible heritage list.
+Y: Mısır unundan yapılan "nsima", gölden çıkan "chambo" balığıyla yenir. || "Nsima", made from maize flour, is eaten with "chambo" fish from the lake.
+S: Malavi Gölü, Afrika'nın üçüncü büyük gölüdür ve berrak suyuyla bilinir. || Lake Malawi is Africa's third-largest lake and is known for its clear water.
+
+@mz | Maputo | Island of Mozambique | Mozambik Adası | Island of Mozambique
+F: Bayrağında modern bir tüfek (AK-47) bulunan tek BM üyesi ülkedir. || It is the only UN member state whose flag shows a modern rifle (an AK-47).
+C: "Marrabenta" dans müziği ve Chopi halkının "timbila" ksilofonları müzik kültürünün temelidir. || "Marrabenta" dance music and the "timbila" xylophones of the Chopi people are at the heart of its music.
+Y: Acı "piri-piri" soslu ızgara tavuk ve karides en bilinen lezzetlerdir. || Grilled chicken and prawns with hot "piri-piri" sauce are the best-known dishes.
+S: Mozambik Adası, taş evleri ve kalesiyle eski bir ticaret limanıdır; UNESCO Dünya Mirası'dır. || The Island of Mozambique is an old trading port of stone houses and a fortress, and a UNESCO World Heritage Site.
+
+@rw | Kigali | Volcanoes National Park | Volkanlar Ulusal Parkı | Volcanoes National Park
+F: "Bin tepeli ülke" olarak anılır; parlamentosunda kadın milletvekili oranı dünyanın en yükseğidir. || Known as the "land of a thousand hills", it has the world's highest share of women in parliament.
+C: Her ayın son cumartesi günü herkes "umuganda" adı verilen ortak temizlik ve imece çalışmasına katılır. || On the last Saturday of each month everyone joins "umuganda", a shared day of community work.
+Y: Manyok yaprağından yapılan "isombe" ve şişte ızgara et "brochette" sevilen yemeklerdir. || "Isombe", made from cassava leaves, and grilled meat skewers called "brochettes" are favourites.
+S: Volkanlar Ulusal Parkı, nesli tehlikedeki dağ gorillerinin yaşadığı sisli yanardağ yamaçlarını korur. || Volcanoes National Park protects misty volcanic slopes where endangered mountain gorillas live.
+
+@sc | Victoria | Anse Source d'Argent | Anse Source d'Argent Plajı | Anse Source d'Argent
+F: Afrika'nın en az nüfuslu ülkesidir; dünyanın en büyük tohumu olan "coco de mer" burada yetişir. || It is Africa's least populous country, and the coco de mer, the world's largest seed, grows here.
+C: Kreol kültürü Afrika, Avrupa ve Asya etkilerini "moutya" dansı ve müziğinde birleştirir. || Creole culture blends African, European and Asian influences in "moutya" dance and music.
+Y: Hindistan cevizi sütlü balık körileri ve ızgara kırmızı balık Kreol mutfağının temelidir. || Fish curries with coconut milk and grilled red snapper are the basis of Creole cooking.
+S: La Digue adasındaki Anse Source d'Argent, dev granit kayalarıyla ünlü bir plajdır. || Anse Source d'Argent on La Digue island is a beach famous for its giant granite boulders.
+
+@so | Mogadişu | Lido Beach (Mogadishu) | Lido Plajı | Lido Beach
+F: Afrika anakarasının en uzun kıyı şeridine sahiptir; kıtanın en doğu ucu olan Afrika Boynuzu'nda yer alır. || It has the longest coastline on mainland Africa and sits on the Horn of Africa, the continent's easternmost tip.
+C: Sözlü şiir geleneği o kadar güçlüdür ki ülke "şairler ulusu" olarak anılır. || Oral poetry is so central that the country is called a "nation of poets".
+Y: Baharatlı pilav "bariis" çoğu zaman yanında bir muzla servis edilir; "canjeero" ekmeği kahvaltıda yenir. || The spiced rice dish "bariis" is often served with a banana on the side, and "canjeero" flatbread is eaten for breakfast.
+S: Lido Plajı, başkentin Hint Okyanusu kıyısındaki en sevilen buluşma yeridir. || Lido Beach is the capital's favourite gathering place on the Indian Ocean shore.
+
+@tz | Dodoma | Mount Kilimanjaro | Kilimanjaro Dağı | Mount Kilimanjaro
+F: Afrika'nın en yüksek dağı (5.895 m) ve Serengeti ovaları bu ülkededir. || Africa's highest mountain (5,895 m) and the Serengeti plains are in this country.
+C: Zanzibar'ın Taş Şehri, Svahili kültürünün ve "taarab" müziğinin merkezidir. || Zanzibar's Stone Town is the centre of Swahili culture and "taarab" music.
+Y: "Ugali" ve ızgara et yaygındır; kıyıda karanfil ve tarçınla pişen baharatlı pilav yenir. || "Ugali" and grilled meat are common, and on the coast rice is cooked with cloves and cinnamon.
+S: Kilimanjaro, karla kaplı zirvesiyle tek başına yükselen sönmüş bir yanardağdır. || Kilimanjaro is a dormant volcano that stands alone, capped with snow.
+
+@ug | Kampala | Murchison Falls | Murchison Şelalesi | Murchison Falls
+F: Dünyadaki dağ gorillerinin yaklaşık yarısı bu ülkenin ormanlarında yaşar; Nil, Viktorya Gölü'nden burada çıkar. || About half of the world's mountain gorillas live in its forests, and the Nile flows out of Lake Victoria here.
+C: Buganda Krallığı gelenekleri sürer; krallarının Kasubi'deki mezarları UNESCO Dünya Mirası'dır. || The traditions of the Buganda kingdom live on, and its kings' tombs at Kasubi are a UNESCO World Heritage Site.
+Y: Buharda pişirilen yeşil muz ezmesi "matoke" ve yumurtalı dürüm "rolex" çok sevilir. || Steamed mashed green banana, "matoke", and the egg wrap known as a "rolex" are much loved.
+S: Murchison Şelalesi'nde Nil, yalnızca birkaç metre genişliğindeki bir yarıktan gürleyerek geçer. || At Murchison Falls the Nile roars through a gap only a few metres wide.
+
+@zm | Lusaka | Victoria Falls | Victoria Şelalesi | Victoria Falls
+F: Adını Zambezi Nehri'nden alır; bakır üretimiyle tanınan "Bakır Kuşağı" bu ülkededir. || It takes its name from the Zambezi River and is home to the copper-mining region called the Copperbelt.
+C: Lozi halkının "Kuomboka" töreninde kral, sel sularıyla birlikte büyük bir kayıkla yüksek topraklara taşınır. || In the Lozi "Kuomboka" ceremony the king moves to higher ground by royal barge as the floodwaters rise.
+Y: Mısır unundan yapılan "nshima", sebze ve balık yemekleriyle elle yenir. || "Nshima", made from maize flour, is eaten by hand with vegetable and fish relishes.
+S: Victoria Şelalesi, Zambezi Nehri'nin bir kilometreden geniş bir perde halinde döküldüğü yerdir. || Victoria Falls is where the Zambezi River drops in a curtain more than a kilometre wide.
+
+@zw | Harare | Great Zimbabwe | Büyük Zimbabve Harabeleri | Great Zimbabwe
+F: Adı "taş evler" anlamına gelen ortaçağ kentinden gelir; on altı resmî dili vardır. || Its name comes from a medieval city meaning "houses of stone", and it has sixteen official languages.
+C: Şona halkının taş heykel sanatı ve parmakla çalınan "mbira" çalgısı dünyaca tanınır. || Shona stone sculpture and the thumb-played "mbira" are known around the world.
+Y: Mısır unundan yapılan "sadza", et ve yeşillik yemekleriyle günlük öğündür. || "Sadza", made from maize flour, is the daily meal with meat and greens.
+S: Büyük Zimbabve, 11–15. yüzyıllarda harçsız taş duvarlarla kurulmuş bir kentin kalıntısıdır. || Great Zimbabwe is the ruin of a city built with mortarless stone walls between the 11th and 15th centuries.
+
+@ao | Luanda | Kalandula Falls | Kalandula Şelalesi | Kalandula Falls
+F: Portekizce konuşulan bu Afrika ülkesi, kıtanın en büyük petrol üreticilerinden biridir; simgesi dev samur antilobudur. || This Portuguese-speaking African country is one of the continent's largest oil producers; its emblem is the giant sable antelope.
+C: "Semba" ve "kizomba" dansları burada doğmuş ve dünyaya yayılmıştır. || The "semba" and "kizomba" dances were born here and spread around the world.
+Y: Palmiye yağıyla pişen tavuk yemeği "muamba de galinha", manyok lapası "funge" ile yenir. || "Muamba de galinha", chicken cooked in palm oil, is eaten with the cassava porridge "funge".
+S: Kalandula Şelalesi, yaklaşık 100 metre yüksekliğiyle Afrika'nın en büyük şelalelerinden biridir. || At around 100 metres high, Kalandula Falls is one of the largest waterfalls in Africa.
+
+@cd | Kinşasa | Mount Nyiragongo | Nyiragongo Yanardağı | Mount Nyiragongo
+F: Sahra altı Afrika'nın yüz ölçümü en büyük ülkesidir; okapi ve bonobo doğada yalnızca burada yaşar. || It is the largest country in sub-Saharan Africa, and the okapi and the bonobo live in the wild only here.
+C: Gitar ağırlıklı "rumba" müziği UNESCO somut olmayan miras listesindedir. || Its guitar-driven "rumba" music is on UNESCO's intangible heritage list.
+Y: Palmiye yağı soslu tavuk "moambe" ve manyok lapası "fufu" temel yemeklerdir. || "Moambe" chicken in palm-nut sauce and the cassava dough "fufu" are staple dishes.
+S: Nyiragongo Yanardağı'nın kraterinde dünyanın en büyük lav göllerinden biri bulunur. || The crater of Mount Nyiragongo holds one of the largest lava lakes in the world.
+
+@cf | Bangui | Dzanga-Sangha Special Reserve | Dzanga-Sangha Koruma Alanı | Dzanga-Sangha Reserve
+F: Kıtanın tam ortasında, denize kıyısı olmayan bu ülkenin yağmur ormanlarında orman filleri ve ova gorilleri yaşar. || Landlocked at the very centre of the continent, this country's rainforests shelter forest elephants and lowland gorillas.
+C: Aka halkının çok sesli şarkı geleneği UNESCO somut olmayan miras listesindedir. || The polyphonic singing of the Aka people is on UNESCO's intangible heritage list.
+Y: Manyok ve yer fıstığı soslu yahniler sofranın temelidir. || Cassava and stews with peanut sauce are the basis of the table.
+S: Dzanga-Sangha'daki açıklıklarda onlarca orman fili mineral bakımından zengin toprağa toplanır. || In the clearings of Dzanga-Sangha, dozens of forest elephants gather at mineral-rich soil.
+
+@cg | Brazzaville | Basilica of Sainte-Anne-du-Congo | Sainte-Anne Bazilikası | Basilica of Sainte-Anne
+F: Başkenti, komşu ülkenin başkentinden yalnızca bir nehirle ayrılır; dünyada birbirine bu kadar yakın çok az başkent çifti vardır. || Its capital is separated from the neighbouring country's capital only by a river, making them one of the closest pairs of capitals in the world.
+C: "Sapeur" adı verilen şık giyim tutkunları, renkli takım elbiseleriyle bir yaşam tarzı yaratmıştır. || Elegant dressers known as "sapeurs" have made a way of life out of colourful tailored suits.
+Y: Manyok yaprağı yemeği "saka-saka" ve palmiye soslu tavuk yaygındır. || The cassava-leaf dish "saka-saka" and chicken in palm-nut sauce are common.
+S: Sainte-Anne Bazilikası, yeşil çinili sivri çatısıyla başkentin simge yapısıdır. || The Basilica of Sainte-Anne, with its pointed green-tiled roof, is the capital's landmark.
+
+@cm | Yaoundé | Mount Cameroon | Kamerun Dağı | Mount Cameroon
+F: Çöl, savan, yağmur ormanı ve dağları bir arada barındırdığı için "minyatür Afrika" olarak anılır. || It is nicknamed "Africa in miniature" because it combines desert, savanna, rainforest and mountains.
+C: 250'den fazla dil konuşulur; "makossa" müziği ülkenin dünyaya armağanıdır. || More than 250 languages are spoken, and "makossa" music is its gift to the world.
+Y: Acımsı yapraklar ve yer fıstığıyla pişen "ndolé" ulusal yemek sayılır. || "Ndolé", cooked with bitter leaves and peanuts, is considered the national dish.
+S: Kıyıda yükselen bu etkin yanardağ, 4.000 metreyi aşan zirvesiyle Batı Afrika'nın en yüksek dağıdır. || This active volcano on the coast rises above 4,000 metres and is the highest mountain in West Africa.
+
+@ga | Libreville | Lopé National Park | Lopé Ulusal Parkı | Lopé National Park
+F: Topraklarının yaklaşık yüzde 85'i yağmur ormanıdır ve ekvator ülkenin içinden geçer. || About 85 percent of its land is rainforest, and the equator passes through the country.
+C: Fang ve Punu halklarının ahşap maskeleri dünya müzelerinde sergilenir. || The wooden masks of the Fang and Punu peoples are shown in museums worldwide.
+Y: Palmiye cevizinden yapılan "nyembwe" sosuyla pişen tavuk bilinen bir yemektir. || Chicken in "nyembwe" palm-nut sauce is a well-known dish.
+S: Lopé Ulusal Parkı'nda savan ile yağmur ormanı yan yana uzanır; mandril sürüleriyle ünlüdür. || In Lopé National Park savanna and rainforest lie side by side; it is famous for its mandrill troops.
+
+@gq | Malabo | Pico Basilé | Pico Basilé | Pico Basilé
+F: Afrika'da İspanyolcanın resmî dil olduğu tek ülkedir; başkenti anakarada değil bir adadadır. || It is the only country in Africa where Spanish is an official language, and its capital is on an island rather than the mainland.
+C: Fang halkının "mvet" adlı telli çalgısı eşliğinde destanlar anlatılır. || Epics are told to the sound of the Fang people's stringed "mvet".
+Y: Yer fıstığı soslu balık ve tavuk yemekleri ile kızarmış muz yaygındır. || Fish and chicken in peanut sauce, with fried plantain, are common.
+S: Pico Basilé, Bioko adasında 3.000 metreyi aşan bir yanardağdır ve ülkenin en yüksek noktasıdır. || Pico Basilé is a volcano over 3,000 metres high on Bioko island and the country's highest point.
+
+@ss | Cuba | Sudd | Sudd Bataklığı | The Sudd
+F: 2011'de bağımsızlığını kazanan, dünyanın en genç BM üyesi ülkesidir. || Independent since 2011, it is the youngest member state of the United Nations.
+C: Dinka ve Nuer toplulukları için sığır, zenginliğin ve toplumsal yaşamın merkezidir. || For the Dinka and Nuer peoples, cattle are the centre of wealth and social life.
+Y: Darı lapası "asida" ve ince ekmek "kisra" yahnilerle yenir. || The sorghum porridge "asida" and the thin bread "kisra" are eaten with stews.
+S: Sudd, Beyaz Nil'in oluşturduğu dünyanın en büyük tatlı su bataklıklarından biridir. || The Sudd is one of the world's largest freshwater wetlands, formed by the White Nile.
+
+@st | São Tomé | Pico Cão Grande | Pico Cão Grande | Pico Cão Grande
+F: Gine Körfezi'ndeki bu iki adalı ülke, 20. yüzyıl başında dünyanın en büyük kakao üreticisiydi. || This two-island country in the Gulf of Guinea was the world's largest cocoa producer in the early 20th century.
+C: Sokak tiyatrosu "Tchiloli", ortaçağ Avrupa öyküsünü maskeler ve müzikle anlatır. || The street theatre "Tchiloli" retells a medieval European tale with masks and music.
+Y: Tütsülenmiş balık ve yapraklarla saatlerce pişen "calulu" yahnisi adaların yemeğidir. || "Calulu", a stew of smoked fish and greens cooked for hours, is the islands' dish.
+S: Pico Cão Grande, ormanın içinden 300 metreden fazla yükselen iğne biçimli volkanik bir kayadır. || Pico Cão Grande is a needle-shaped volcanic plug rising more than 300 metres from the forest.
+
+@td | Encemine | Ennedi Plateau | Ennedi Platosu | Ennedi Plateau
+F: Adını, son altmış yılda büyük ölçüde küçülen sığ bir gölden alır; kuzeyi Sahra Çölü'dür. || It is named after a shallow lake that has shrunk greatly over the past sixty years; its north is Sahara desert.
+C: Wodaabe göçebelerinin "Gerewol" şenliğinde genç erkekler süslenip dans ederek yarışır. || At the "Gerewol" festival of the Wodaabe nomads, young men dress up and compete in dance.
+Y: Darı lapası "boule", bamya ya da et soslarıyla yenir. || The millet porridge "boule" is eaten with okra or meat sauces.
+S: Ennedi Platosu, rüzgârın oyduğu kumtaşı kemerleri ve kaya resimleriyle bir UNESCO Dünya Mirası'dır. || The Ennedi Plateau, with wind-carved sandstone arches and rock art, is a UNESCO World Heritage Site.
+
+@dz | Cezayir | Tassili n'Ajjer | Tassili n'Ajjer | Tassili n'Ajjer
+F: Yüz ölçümü bakımından Afrika'nın en büyük ülkesidir; topraklarının beşte dördünden fazlası Sahra Çölü'dür. || It is the largest country in Africa by area, and more than four-fifths of it is Sahara desert.
+C: "Raï" müziği Oran kentinde doğmuştur ve UNESCO somut olmayan miras listesindedir. || "Raï" music was born in the city of Oran and is on UNESCO's intangible heritage list.
+Y: Buharda pişen kuskus, sebze ve etle servis edilen ulusal yemektir. || Steamed couscous served with vegetables and meat is the national dish.
+S: Tassili n'Ajjer, binlerce yıllık kaya resimlerini barındıran çöl ortasında bir kumtaşı platosudur. || Tassili n'Ajjer is a sandstone plateau in the desert that holds rock paintings thousands of years old.
+
+@eg | Kahire | Giza pyramid complex | Gize Piramitleri | Giza Pyramids
+F: Antik dünyanın yedi harikasından ayakta kalan tek yapı bu ülkededir; nüfusun neredeyse tamamı tek bir nehrin kıyısında yaşar. || The only surviving wonder of the ancient world stands here, and almost the whole population lives along a single river.
+C: Hiyeroglif yazısı burada doğdu; bugün "tahtib" sopa dansı ve halk müziği düğünlerde yaşatılır. || Hieroglyphic writing was born here; today the "tahtib" stick dance and folk music live on at weddings.
+Y: Pirinç, makarna, mercimek ve domates sosuyla hazırlanan "koşari" en sevilen sokak yemeğidir. || "Koshari", made of rice, pasta, lentils and tomato sauce, is the favourite street food.
+S: Gize Piramitleri yaklaşık 4.500 yıl önce firavunlar için anıt mezar olarak yapılmıştır. || The Giza Pyramids were built about 4,500 years ago as tombs for the pharaohs.
+
+@ly | Trablus | Leptis Magna | Leptis Magna | Leptis Magna
+F: Topraklarının yaklaşık yüzde 90'ı çöldür ve ülkede sürekli akan tek bir nehir bile yoktur. || About 90 percent of its land is desert, and it has not a single permanent river.
+C: Vaha kenti Gadames'in kerpiç evleri ve Tuareg gelenekleri çöl kültürünü yaşatır. || The mud-brick houses of the oasis town of Ghadames and Tuareg traditions keep desert culture alive.
+Y: Arpa unundan yapılan "bazin" hamuru, domatesli et sosuyla ortak tabaktan yenir. || "Bazin", a dough of barley flour, is eaten from a shared dish with a tomato and meat sauce.
+S: Leptis Magna, Akdeniz kıyısında en iyi korunmuş Roma kentlerinden biridir. || Leptis Magna is one of the best-preserved Roman cities on the Mediterranean coast.
+
+@ma | Rabat | Aït Benhaddou | Ayt Bin Haddu | Aït Benhaddou
+F: Dünyanın hâlâ faaliyette olan en eski üniversitesi sayılan Karaviyyin burada, Fes kentindedir. || Al-Qarawiyyin, regarded as the world's oldest university still operating, is here in the city of Fez.
+C: Eski şehirlerin "medina" sokakları, deri tabakhaneleri ve çini ustalarıyla ünlüdür. || The "medina" lanes of its old cities are famous for leather tanneries and tile craftsmen.
+Y: Konik kapaklı toprak kapta ağır ağır pişen "tajin" ve naneli çay sofranın simgeleridir. || "Tagine", slow-cooked in a clay pot with a conical lid, and mint tea are the symbols of the table.
+S: Ayt Bin Haddu, eski kervan yolu üzerindeki kerpiç bir kale köyüdür; UNESCO Dünya Mirası'dır. || Aït Benhaddou is a fortified mud-brick village on an old caravan route and a UNESCO World Heritage Site.
+
+@sd | Hartum | Meroë | Meroe Piramitleri | Pyramids of Meroë
+F: Bu ülkede komşusu Mısır'dakinden daha fazla sayıda piramit vardır; Mavi ve Beyaz Nil başkentinde birleşir. || This country has more pyramids than neighbouring Egypt, and the Blue and White Nile meet in its capital.
+C: Kahve, zencefille demlenip "cebene" adlı toprak ibrikten ikram edilir. || Coffee is brewed with ginger and served from a clay pot called a "jebena".
+Y: Bakla ezmesi "ful medames" ve darı ekmeği "kisra" günlük yemeklerdir. || The fava bean dish "ful medames" and the sorghum bread "kisra" are everyday foods.
+S: Meroe'deki dik yamaçlı piramitler, Kuş Krallığı hükümdarlarının mezarlarıdır. || The steep-sided pyramids at Meroë are the tombs of the rulers of the Kingdom of Kush.
+
+@tn | Tunus | Amphitheatre of El Jem | El Cem Amfitiyatrosu | Amphitheatre of El Jem
+F: Afrika'nın en kuzey ucu bu ülkededir; antik Kartaca kentinin kalıntıları başkentinin hemen yanındadır. || The northernmost point of Africa is in this country, and the ruins of ancient Carthage lie right beside its capital.
+C: Sidi Bu Said gibi kıyı kasabaları beyaz duvarları ve mavi kapılarıyla tanınır. || Coastal towns such as Sidi Bou Said are known for white walls and blue doors.
+Y: Acı biber ezmesi "harissa" hemen her yemeğe eşlik eder; yumurtalı çıtır börek "brik" çok sevilir. || The chilli paste "harissa" goes with almost every meal, and "brik", a crisp pastry with egg, is much loved.
+S: El Cem Amfitiyatrosu, 35.000 kişilik kapasitesiyle Roma dünyasının en büyüklerinden biriydi. || The Amphitheatre of El Jem held about 35,000 people and was among the largest in the Roman world.
+
+@bw | Gaborone | Okavango Delta | Okavango Deltası | Okavango Delta
+F: Dünyanın en büyük fil nüfusu bu ülkededir; denize ulaşmayan bir nehir deltası çölün ortasında son bulur. || It has the world's largest elephant population, and a river delta that never reaches the sea ends in its desert.
+C: San halkı Kalahari'de binlerce yıldır iz sürme ve avcı-toplayıcı bilgisini yaşatır. || The San people have kept tracking and hunter-gatherer knowledge alive in the Kalahari for thousands of years.
+Y: Saatlerce pişirilip dövülen tuzlu et "seswaa", mısır lapasıyla servis edilir. || "Seswaa", salted meat slow-cooked and pounded, is served with maize porridge.
+S: Okavango Deltası, her yıl sel sularıyla dolan ve yaban hayatı çeken dev bir iç deltadır. || The Okavango Delta is a huge inland delta that fills with floodwater each year and draws wildlife.
+
+@ls | Maseru | Maletsunyane Falls | Maletsunyane Şelalesi | Maletsunyane Falls
+F: Tamamı deniz seviyesinden 1.000 metrenin üzerinde olan tek ülkedir ve her yanı tek bir ülkeyle çevrilidir. || It is the only country lying entirely above 1,000 metres, and it is completely surrounded by a single other country.
+C: Yün battaniyeler ve konik hasır şapka "mokorotlo" ulusal giyimin parçasıdır. || Wool blankets and the conical straw hat "mokorotlo" are part of the national dress.
+Y: Mısır lapası "papa", doğranmış yeşillik yemeği "moroho" ile yenir. || The maize porridge "papa" is eaten with "moroho", a dish of chopped greens.
+S: Maletsunyane Şelalesi, yaklaşık 190 metrelik tek bir düşüşle bir kanyona dökülür. || Maletsunyane Falls drops about 190 metres in a single fall into a gorge.
+
+@na | Windhoek | Sossusvlei | Sossusvlei | Sossusvlei
+F: Dünyanın en eski çöllerinden biri bu ülkeye adını verir; nüfus yoğunluğu en düşük ülkelerdendir. || One of the world's oldest deserts gives this country its name, and it is among the most sparsely populated countries.
+C: Himba kadınları ciltlerini ve saçlarını kırmızı aşı boyası karışımıyla kaplar. || Himba women cover their skin and hair with a mixture of red ochre.
+Y: Kurutulmuş et "biltong" ve açık ateşte kazanda pişen "potjiekos" sevilir. || The dried meat "biltong" and "potjiekos", cooked in a pot over an open fire, are popular.
+S: Sossusvlei, 300 metreyi aşan kızıl kum tepeleriyle çevrili beyaz bir kil düzlüğüdür. || Sossusvlei is a white clay pan surrounded by red dunes more than 300 metres high.
+
+@sz | Mbabane, Lobamba = Mbabane, Lobamba | Sibebe | Sibebe Kayası | Sibebe Rock
+F: Afrika'nın son mutlak monarşisidir; ülkenin adı 2018'de kral tarafından değiştirilmiştir. || It is Africa's last absolute monarchy, and its name was changed by the king in 2018.
+C: Her yıl düzenlenen "Umhlanga" kamış dansına on binlerce genç kadın katılır. || Tens of thousands of young women take part in the annual "Umhlanga" reed dance.
+Y: Mısır lapası ve ekşitilmiş süt "emasi" geleneksel sofranın temelidir. || Maize porridge and the soured milk "emasi" are the basis of the traditional table.
+S: Sibebe, dünyanın en büyük granit kubbelerinden biri olan dev bir kaya kütlesidir. || Sibebe is a huge rock mass and one of the largest granite domes in the world.
+
+@za | Pretoria, Cape Town, Bloemfontein = Pretoria, Cape Town, Bloemfontein | Table Mountain | Masa Dağı | Table Mountain
+F: Yürütme, yasama ve yargı için üç ayrı başkenti vardır; on bir konuşma dili resmîdir. || It has three separate capitals for the executive, legislature and judiciary, and eleven spoken languages are official.
+C: "Gökkuşağı ulusu" olarak anılır; "ubuntu" düşüncesi insanın başkalarıyla var olduğunu anlatır. || It is called the "rainbow nation", and the idea of "ubuntu" says a person exists through others.
+Y: Açık ateşte et pişirme geleneği "braai" ve kurutulmuş et "biltong" çok yaygındır. || The open-fire barbecue tradition "braai" and the dried meat "biltong" are everywhere.
+S: Masa Dağı, düz zirvesiyle Cape Town kentinin üzerinde yükselir ve teleferikle çıkılır. || Table Mountain rises above the city of Cape Town with its flat top and can be reached by cable car.
+
+@bf | Vagadugu | Sindou Peaks | Sindou Kayalıkları | Sindou Peaks
+F: Adı "dürüst insanların ülkesi" anlamına gelir; Afrika'nın en büyük film festivali FESPACO'ya ev sahipliği yapar. || Its name means "land of honest people", and it hosts FESPACO, Africa's largest film festival.
+C: Bwa ve Mossi halklarının büyük ahşap maskeleri törenlerde dans ettirilir. || The large wooden masks of the Bwa and Mossi peoples are danced at ceremonies.
+Y: Darı ya da mısır unundan yapılan koyu lapa "tô", bamya sosuyla yenir. || "Tô", a stiff porridge of millet or maize flour, is eaten with okra sauce.
+S: Sindou Kayalıkları, erozyonun sivrilttiği kumtaşı kulelerden oluşan dar bir sıradır. || The Sindou Peaks are a narrow chain of sandstone spires sharpened by erosion.
+
+@bj | Porto-Novo | Royal Palaces of Abomey | Abomey Kraliyet Sarayları | Royal Palaces of Abomey
+F: Vudu inancının doğduğu yer sayılır; eski Dahomey Krallığı bu topraklarda kurulmuştu. || It is regarded as the birthplace of Vodun (voodoo), and the old Kingdom of Dahomey stood on this land.
+C: Her 10 Ocak'ta Vudu Bayramı danslar ve törenlerle ulusal tatil olarak kutlanır. || Every 10 January the Vodun festival is celebrated as a national holiday with dances and rites.
+Y: Mısır hamuru "akassa" ve acılı domates soslu balık yaygın yemeklerdir. || The maize dough "akassa" and fish in spicy tomato sauce are common dishes.
+S: Abomey Kraliyet Sarayları, Dahomey krallarının kabartmalarla süslü kerpiç yapılarıdır. || The Royal Palaces of Abomey are the earthen buildings of the Dahomey kings, decorated with reliefs.
+
+@ci | Yamoussoukro | Basilica of Our Lady of Peace | Barış Meryem Ana Bazilikası | Basilica of Our Lady of Peace
+F: Dünyanın en büyük kakao üreticisidir; dünyanın en büyük kiliselerinden biri de başkentindedir. || It is the world's largest cocoa producer, and one of the largest churches in the world stands in its capital.
+C: Guro halkının maskeli "zaouli" dansı UNESCO somut olmayan miras listesindedir. || The masked "zaouli" dance of the Guro people is on UNESCO's intangible heritage list.
+Y: Rendelenmiş manyoktan yapılan "attiéké", ızgara balıkla servis edilir. || "Attiéké", made from grated cassava, is served with grilled fish.
+S: Barış Meryem Ana Bazilikası, Vatikan'daki Aziz Petrus'tan esinlenen dev kubbesiyle bilinir. || The Basilica of Our Lady of Peace is known for its giant dome inspired by St Peter's in the Vatican.
+
+@cv | Praia | Pico do Fogo | Fogo Yanardağı | Pico do Fogo
+F: Atlas Okyanusu'ndaki on volkanik adadan oluşur; Portekizliler geldiğinde adalarda kimse yaşamıyordu. || It consists of ten volcanic islands in the Atlantic, which were uninhabited when the Portuguese arrived.
+C: Hüzünlü "morna" müziği UNESCO somut olmayan miras listesindedir; Cesária Évora ile dünyaya tanıtılmıştır. || Melancholy "morna" music is on UNESCO's intangible heritage list and was made famous by Cesária Évora.
+Y: Mısır ve fasulyeyle ağır ağır pişen "cachupa" ulusal yemektir. || "Cachupa", slow-cooked with maize and beans, is the national dish.
+S: Fogo Yanardağı yaklaşık 2.800 metreyle ülkenin en yüksek noktasıdır ve hâlâ etkindir. || Pico do Fogo is the country's highest point at about 2,800 metres and is still active.
+
+@gh | Akra | Cape Coast Castle | Cape Coast Kalesi | Cape Coast Castle
+F: 1957'de Sahra altı Afrika'da sömürge yönetiminden bağımsızlığını kazanan ilk ülke oldu; eski adı "Altın Kıyısı"dır. || In 1957 it became the first country in sub-Saharan Africa to win independence from colonial rule; it was once called the Gold Coast.
+C: Renkli şeritlerden dokunan "kente" kumaşı Aşanti krallarının giysisiydi. || "Kente" cloth, woven in colourful strips, was the dress of the Ashanti kings.
+Y: Domatesli "jollof" pilavı ve dövülerek yapılan "fufu" çorbalarla yenir. || Tomato-based "jollof" rice and pounded "fufu" are eaten with soups.
+S: Cape Coast Kalesi, Atlantik köle ticaretinin izlerini taşıyan bir kıyı kalesidir; UNESCO Dünya Mirası'dır. || Cape Coast Castle is a coastal fort that bears witness to the Atlantic slave trade and is a UNESCO World Heritage Site.
+
+@gm | Banjul | Arch 22 | Arch 22 Anıtı | Arch 22
+F: Afrika anakarasının en küçük ülkesidir; tek bir nehrin iki kıyısı boyunca uzanır. || It is the smallest country on mainland Africa, stretching along the two banks of a single river.
+C: "Griot" adı verilen ozanlar, 21 telli "kora" eşliğinde soy öykülerini aktarır. || Bards called "griots" pass on family histories to the sound of the 21-string "kora".
+Y: Yer fıstığı soslu yahni "domoda" ulusal yemektir. || "Domoda", a peanut stew, is the national dish.
+S: Arch 22, başkentin girişinde yükselen 35 metrelik bir anıt kemerdir. || Arch 22 is a 35-metre memorial arch standing at the entrance to the capital.
+
+@gn | Konakri | Mount Nimba Strict Nature Reserve | Nimba Dağı | Mount Nimba
+F: Nijer, Senegal ve Gambiya nehirleri bu ülkenin dağlarında doğar; dünyanın en büyük boksit rezervlerine sahiptir. || The Niger, Senegal and Gambia rivers rise in its highlands, and it holds the world's largest bauxite reserves.
+C: "Djembe" davulu geleneği güçlüdür; ulusal bale toplulukları bu ritimleri dünyaya tanıtmıştır. || The "djembe" drum tradition is strong, and national ballet troupes have taken these rhythms around the world.
+Y: Pirinç, manyok yaprağı ya da yer fıstığı soslarıyla yenir. || Rice is eaten with sauces of cassava leaf or peanut.
+S: Nimba Dağı, nadir türleri barındıran ormanlarla kaplı bir UNESCO Dünya Mirası alanıdır. || Mount Nimba is a UNESCO World Heritage area covered with forests that shelter rare species.
+
+@gw | Bissau | Bissagos Islands | Bijagós Adaları | Bijagós Islands
+F: Kıyısının açığında seksenden fazla adadan oluşan bir takımada vardır; başlıca ihraç ürünü kaju fıstığıdır. || An archipelago of more than eighty islands lies off its coast, and its main export is cashew nuts.
+C: Takımada halkı, maskeli danslarıyla ve kadınların söz sahibi olduğu toplum düzeniyle bilinir. || The archipelago's people are known for masked dances and a society in which women hold authority.
+Y: Pirinç, balık ve palmiye yağı sofranın temelidir; kaju meyvesinden içecek yapılır. || Rice, fish and palm oil are staples, and a drink is made from the cashew fruit.
+S: Bijagós Adaları, tuzlu suda yaşayan su aygırları ve deniz kaplumbağalarıyla bir biyosfer rezervidir. || The Bijagós Islands are a biosphere reserve with saltwater hippos and sea turtles.
+
+@lr | Monrovia | Providence Island (Liberia) | Providence Adası | Providence Island
+F: 1847'de ABD'den gelen azat edilmiş köleler tarafından kurulan, Afrika'nın en eski cumhuriyetidir. || Founded in 1847 by freed slaves from the United States, it is Africa's oldest republic.
+C: Bayrağı ve başkentinin adı Amerikan etkisini taşır; başkent bir ABD başkanının adını alır. || Its flag and its capital's name show American influence; the capital is named after a US president.
+Y: Pirinç ve acılı manyok yaprağı yahnisi günlük yemektir. || Rice with spicy cassava-leaf stew is the daily meal.
+S: Providence Adası, ülkeyi kuran ilk yerleşimcilerin 1822'de karaya çıktığı yerdir. || Providence Island is where the first settlers who founded the country landed in 1822.
+
+@ml | Bamako | Great Mosque of Djenné | Djenné Ulu Camii | Great Mosque of Djenné
+F: Efsanevi çöl kenti Timbuktu bu ülkededir; ortaçağ hükümdarı Mansa Musa tarihin en zengin kişilerinden sayılır. || The legendary desert city of Timbuktu is here, and its medieval ruler Mansa Musa is counted among the richest people in history.
+C: "Griot" ozanları ve çöl blues'u, Ali Farka Touré gibi ustalarla dünyaya ulaşmıştır. || Its "griot" bards and desert blues reached the world through masters such as Ali Farka Touré.
+Y: Darı lapası "tô" ve yer fıstığı soslu "tiguadege na" yaygındır. || The millet porridge "tô" and the peanut-sauce dish "tiguadege na" are common.
+S: Djenné Ulu Camii dünyanın en büyük kerpiç yapısıdır; sıvası her yıl halkın katıldığı bir şenlikle yenilenir. || The Great Mosque of Djenné is the world's largest mud-brick building; its plaster is renewed each year in a community festival.
+
+@mr | Nuakşot | Richat Structure | Richat Yapısı | Richat Structure
+F: "Sahra'nın Gözü" denen, uzaydan görülebilen 40 kilometrelik halkalı oluşum bu ülkededir. || The "Eye of the Sahara", a ringed formation 40 kilometres wide and visible from space, is in this country.
+C: Çay üç bardak halinde ikram edilir; eski kervan kenti Şinkit el yazması kütüphaneleriyle ünlüdür. || Tea is served in three glasses, and the old caravan town of Chinguetti is famous for its manuscript libraries.
+Y: Balıklı pilav "thieboudienne" ve deve eti yemekleri yaygındır. || The fish and rice dish "thieboudienne" and camel meat dishes are common.
+S: Richat Yapısı, çölün ortasında iç içe halkalardan oluşan aşınmış bir jeolojik kubbedir. || The Richat Structure is an eroded geological dome of concentric rings in the middle of the desert.
+
+@ne | Niamey | Agadez Mosque | Agadez Camii | Agadez Mosque
+F: Adını içinden geçen büyük nehirden alır; dünyanın başlıca uranyum üreticilerindendir ve topraklarının çoğu Sahra'dır. || It takes its name from the great river crossing it, is a major uranium producer, and most of its land is Sahara.
+C: Tuareg erkekleri çivit mavisi peçe takar; gümüş "Agadez haçı" takıları ünlüdür. || Tuareg men wear indigo veils, and the silver "Agadez cross" jewellery is famous.
+Y: Darı lapası ve baharatlı kurutulmuş et "kilishi" yaygındır. || Millet porridge and the spiced dried meat "kilishi" are common.
+S: Agadez Camii'nin 27 metrelik minaresi, dünyanın en yüksek kerpiç kulelerindendir. || The 27-metre minaret of the Agadez Mosque is among the tallest mud-brick towers in the world.
+
+@ng | Abuja | Zuma Rock | Zuma Kayası | Zuma Rock
+F: Afrika'nın en kalabalık ülkesidir; "Nollywood" adlı film sektörü dünyanın en üretkenlerindendir. || It is Africa's most populous country, and its film industry, "Nollywood", is one of the most prolific in the world.
+C: Fela Kuti'nin öncülük ettiği "afrobeat" müziği burada doğmuştur; 500'den fazla dil konuşulur. || "Afrobeat" music, pioneered by Fela Kuti, was born here, and more than 500 languages are spoken.
+Y: Domatesli "jollof" pilavı ve baharatlı ızgara şiş "suya" çok sevilir. || Tomato-based "jollof" rice and the spicy grilled skewer "suya" are much loved.
+S: Zuma Kayası, başkentin yakınında ovadan yükselen 700 metreyi aşkın yekpare bir kayadır. || Zuma Rock is a monolith more than 700 metres high rising from the plain near the capital.
+
+@sl | Freetown | Bunce Island | Bunce Adası | Bunce Island
+F: Başkentini 18. yüzyılda azat edilmiş köleler kurdu; ülkenin adı "Aslan Dağları" anlamına gelir. || Its capital was founded by freed slaves in the 18th century, and the country's name means "Lion Mountains".
+C: Başkentin ortasındaki asırlık Pamuk Ağacı uzun yıllar özgürlüğün simgesi olmuştur. || The centuries-old Cotton Tree in the heart of the capital was long a symbol of freedom.
+Y: Pirinç, manyok yaprağı yahnisi ve yer fıstığı çorbasıyla yenir. || Rice is eaten with cassava-leaf stew and groundnut soup.
+S: Bunce Adası, 17. yüzyıldan kalma bir köle ticareti kalesinin kalıntılarını barındırır. || Bunce Island holds the ruins of a 17th-century slave-trading fort.
+
+@sn | Dakar | African Renaissance Monument | Afrika Rönesansı Anıtı | African Renaissance Monument
+F: Afrika anakarasının en batı ucu bu ülkededir; ünlü bir çöl rallisi adını başkentinden almıştır. || The westernmost point of mainland Africa is in this country, and a famous desert rally was named after its capital.
+C: "Teranga" denen misafirperverlik anlayışı ve "mbalax" müziği gündelik yaşamın parçasıdır; güreş ulusal spordur. || The spirit of hospitality called "teranga" and "mbalax" music are part of daily life; wrestling is the national sport.
+Y: Balık, pirinç ve sebzeyle pişen "thieboudienne" ulusal yemektir. || "Thieboudienne", cooked with fish, rice and vegetables, is the national dish.
+S: 2010'da açılan Afrika Rönesansı Anıtı, 49 metreyle Afrika'nın en yüksek heykelidir. || Opened in 2010, the African Renaissance Monument is Africa's tallest statue at 49 metres.
+
+@tg | Lomé | Koutammakou | Koutammakou | Koutammakou
+F: Gine Körfezi'nden kuzeye uzanan dar bir şerit biçimindedir; en dar yerinde genişliği yaklaşık 50 kilometredir. || It is a narrow strip running north from the Gulf of Guinea, only about 50 kilometres wide at its narrowest.
+C: Batammariba halkının kule biçimli kerpiç evleri "takienta" bir UNESCO Dünya Mirası'dır. || The tower-shaped mud houses of the Batammariba people, called "takienta", are a UNESCO World Heritage Site.
+Y: Dövülmüş yam "fufu" ve mısır lapası acılı soslarla yenir. || Pounded yam "fufu" and maize porridge are eaten with spicy sauces.
+S: Koutammakou, kale görünümlü iki katlı kerpiç evlerin serpiştiği bir kültürel peyzajdır. || Koutammakou is a cultural landscape dotted with two-storey mud houses that look like small forts.

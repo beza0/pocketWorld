@@ -1,0 +1,14 @@
+{
+ "contentVersion": "ff66339b6383",
+ "countryCount": 195,
+ "photoCount": 195,
+ "sizes": {
+  "countriesJson": 269734,
+  "geoJson": 553213,
+  "calendarJson": 2060,
+  "attributionsJson": 80317,
+  "flags": 594940,
+  "photos": 26684286
+ },
+ "totalBytes": 28184550
+}

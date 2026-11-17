@@ -1,0 +1,18 @@
+{
+  "_comment": "Manual corrections applied on top of world-countries (mledoze). Every entry is a deliberate editorial decision; see content/README.md.",
+  "nameTr": {"ws":"Samoa","cd":"Demokratik Kongo Cumhuriyeti","cv":"Yeşil Burun Adaları","us":"Amerika Birleşik Devletleri","va":"Vatikan","fm":"Mikronezya","st":"São Tomé ve Príncipe","bs":"Bahamalar","km":"Komorlar"},
+  "nameEn": {"cd":"DR Congo","cg":"Republic of the Congo","va":"Vatican City","tr":"Türkiye"},
+  "aliases": {
+    "tr":["Turkey","Turkiye","Türkiye Cumhuriyeti"],"us":["ABD","USA","Amerika","United States of America","Birleşik Devletler"],
+    "gb":["İngiltere","UK","Britanya","Büyük Britanya","Great Britain","England"],"nl":["Holland","Nederland"],
+    "cz":["Çek Cumhuriyeti","Czech Republic","Çekya"],"ci":["Côte d'Ivoire","Cote d'Ivoire","Fildişi"],"cv":["Cabo Verde","Yeşil Burun","Cape Verde"],
+    "sz":["Swaziland","Svaziland"],"mm":["Burma","Birmanya"],"tl":["East Timor","Timor Leste"],"va":["Holy See","Vatikan Şehri","Kutsal Makam"],
+    "kr":["Kore","Korea"],"kp":["DPRK"],"cd":["Demokratik Kongo","DRC","Kongo DC","Kongo Demokratik Cumhuriyeti","Congo Kinshasa"],"cg":["Kongo","Congo","Congo Brazzaville","Kongo Cumhuriyeti"],
+    "by":["Beyaz Rusya"],"mk":["Makedonya","Macedonia"],"ae":["BAE","UAE","Emirates"],"ru":["Rusya Federasyonu"],"cn":["Çin Halk Cumhuriyeti","PRC"],
+    "ws":["Western Samoa","Batı Samoa"],"ba":["Bosna","Bosnia"],"fm":["Mikronezya Federal Devletleri"],"ps":["Palestine State","Filistin Devleti"],"sa":["Suudi Arabistan","Arabistan"],
+    "za":["Güney Afrika Cumhuriyeti","GAC"],"cf":["Orta Afrika"],"do":["Dominik"],"ie":["Eire"],"ir":["Persia"],"sy":["Syria"],"la":["Lao"],"bn":["Brunei Darussalam"]
+  },
+  "languages": {"at":["deu"],"in":["hin","eng"],"af":["prs","pus"],"cz":["ces"],"zw":["eng","sna","nde","nya","bwg","kck","khi","ndc","sot","toi","tsn","tso","ven","xho","zib"],"za":["zul","xho","afr","eng","nso","tsn","sot","tso","ssw","ven","nbl"],"na":["eng","afr","deu","her","hgm","kwn","loz","ndo","tsn"],"sg":["eng","msa","zho","tam"],"nz":["eng","mri","nzs"],"ie":["gle","eng"]},
+  "flagTwins": [["id","mc"],["ro","td"],["nl","lu"]],
+  "continent": {"_rule":"Americas are split: North America = North America + Central America + Caribbean subregions; South America = South America."}
+}

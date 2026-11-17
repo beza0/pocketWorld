@@ -1,0 +1,269 @@
+@at | Viyana | Hallstatt | Hallstatt | Hallstatt
+F: Mozart'ın doğduğu ülkedir; topraklarının yaklaşık üçte ikisi Alp Dağları'yla kaplıdır. || It is the country where Mozart was born, and about two-thirds of its land is covered by the Alps.
+C: Başkentin kahvehane kültürü UNESCO listesindedir; yılbaşı konseri ve valsleri dünyaca izlenir. || The capital's coffee-house culture is on the UNESCO list, and its New Year's concert and waltzes are watched worldwide.
+Y: İnce dövülüp pane edilen dana şnitzel ve elmalı "strudel" ünlüdür. || Thinly pounded, breaded veal schnitzel and apple "strudel" are famous.
+S: Hallstatt, göl kıyısında dağların eteğine kurulmuş, tuz madenciliğiyle zenginleşmiş bir köydür. || Hallstatt is a lakeside village at the foot of the mountains that grew rich on salt mining.
+
+@cz | Prag | Charles Bridge | Karl Köprüsü | Charles Bridge
+F: Kişi başına bira tüketiminde dünya birincisidir; "robot" sözcüğü bu ülkenin bir yazarının oyunundan gelir. || It leads the world in beer consumption per person, and the word "robot" comes from a play by one of its writers.
+C: Kukla tiyatrosu geleneği UNESCO listesindedir; Bohemya kristali dünyaca ünlüdür. || Its puppet theatre tradition is on the UNESCO list, and Bohemian crystal is famous worldwide.
+Y: Kremalı sosla sunulan dana eti "svíčková" ve hamur köftesi "knedlík" klasik yemeklerdir. || Beef in cream sauce, "svíčková", with "knedlík" dumplings is the classic meal.
+S: Karl Köprüsü, 14. yüzyılda yapılmış, otuz heykelle süslü taş bir köprüdür. || Charles Bridge is a 14th-century stone bridge lined with thirty statues.
+
+@hu | Budapeşte | Hungarian Parliament Building | Macaristan Parlamento Binası | Hungarian Parliament Building
+F: Rubik küpü ve tükenmez kalem bu ülkenin mucitlerinin eseridir; başkenti termal kaplıcalarıyla ünlüdür. || The Rubik's Cube and the ballpoint pen were invented by people from this country, whose capital is famous for thermal baths.
+C: Dili komşularından çok farklıdır ve Fince ile uzaktan akrabadır; halk dansı "çardaş" ünlüdür. || Its language is very different from its neighbours' and distantly related to Finnish; the folk dance "csárdás" is famous.
+Y: Kırmızı toz biberle pişen etli çorba "gulaş" ulusal yemektir. || "Goulash", a meat soup cooked with paprika, is the national dish.
+S: Tuna kıyısındaki Parlamento Binası, 1902'de tamamlanan neogotik bir yapıdır. || The Parliament Building on the Danube is a neo-Gothic structure completed in 1902.
+
+@pl | Varşova | Wawel Castle | Wawel Kalesi | Wawel Castle
+F: Kopernik, Chopin ve Marie Curie bu ülkede doğmuştur; Avrupa bizonu ormanlarında yaşar. || Copernicus, Chopin and Marie Curie were born in this country, and the European bison lives in its forests.
+C: Paskalya'da boyalı yumurtalar "pisanki" süslenir; kehribar işçiliği Baltık kıyısının geleneğidir. || At Easter, painted eggs called "pisanki" are decorated, and amber craft is a tradition of the Baltic coast.
+Y: İçi patates, peynir ya da etle doldurulan mantı "pierogi" ulusal lezzettir. || "Pierogi", dumplings filled with potato, cheese or meat, are the national favourite.
+S: Krakov'daki Wawel Kalesi, yüzyıllarca kralların oturduğu tepe üstü bir saraydır. || Wawel Castle in Kraków is a hilltop palace where kings lived for centuries.
+
+@si | Ljubljana | Lake Bled | Bled Gölü | Lake Bled
+F: Topraklarının yarısından fazlası ormandır; arıcılık geleneğiyle tanınır ve Postojna mağaraları buradadır. || More than half of its land is forest; it is known for its beekeeping tradition and the Postojna caves are here.
+C: Arı kovanlarının ön tahtaları renkli halk resimleriyle süslenir; beyaz Lipizzan atları buradan çıkmıştır. || The front panels of beehives are decorated with colourful folk paintings, and white Lipizzaner horses originated here.
+Y: Cevizli rulo tatlı "potica" bayram sofralarının vazgeçilmezidir. || The walnut roll "potica" is a must on festive tables.
+S: Bled Gölü, ortasındaki kiliseli adacığı ve yamaçtaki kalesiyle tanınır. || Lake Bled is known for the islet with a church at its centre and the castle on the cliff.
+
+@sk | Bratislava | Spiš Castle | Spiš Kalesi | Spiš Castle
+F: Kişi başına düşen kale ve şato sayısının dünyada en yüksek olduğu ülkelerden biridir; 1993'te barışçıl biçimde bağımsız olmuştur. || It has one of the highest numbers of castles per person in the world and became independent peacefully in 1993.
+C: Uzun çoban kavalı "fujara" ve müziği UNESCO somut olmayan miras listesindedir. || The long shepherd's flute "fujara" and its music are on UNESCO's intangible heritage list.
+Y: Koyun peynirli patates hamuru "bryndzové halušky" ulusal yemektir. || "Bryndzové halušky", potato dumplings with sheep's cheese, is the national dish.
+S: Spiš Kalesi, Orta Avrupa'nın en büyük kale kalıntılarından biridir. || Spiš Castle is one of the largest castle ruins in Central Europe.
+
+@by | Minsk | Mir Castle Complex | Mir Kalesi | Mir Castle
+F: Avrupa'nın son bakir ova ormanlarından Białowieża'nın büyük bölümü ve bizonları bu ülkededir; denize kıyısı yoktur. || Much of Białowieża, one of Europe's last primeval lowland forests, and its bison are in this country, which has no coast.
+C: Saman örme sanatı ve yaz dönümü şenliği "Kupala Gecesi" halk kültürünün parçasıdır. || Straw weaving and the midsummer festival "Kupala Night" are part of folk culture.
+Y: Rendelenmiş patatesten yapılan mücver "draniki" ulusal yemektir. || "Draniki", pancakes of grated potato, are the national dish.
+S: Mir Kalesi, 16. yüzyıldan kalma kırmızı tuğlalı kuleleriyle bir UNESCO Dünya Mirası'dır. || Mir Castle, with its red-brick towers from the 16th century, is a UNESCO World Heritage Site.
+
+@md | Kişinev | Orheiul Vechi | Eski Orhei | Old Orhei
+F: Dünyanın en büyük şarap mahzeni sayılan, 200 kilometrelik yer altı galerilerine sahip Mileștii Mici bu ülkededir. || Mileștii Mici, considered the world's largest wine cellar with 200 kilometres of underground galleries, is in this country.
+C: Baharın gelişi, kırmızı-beyaz iplikten "mărțișor" takılarak kutlanır. || The coming of spring is celebrated by wearing a red-and-white string charm, the "mărțișor".
+Y: Mısır unu lapası "mămăligă", peynir ve ekşi kremayla yenir. || The cornmeal porridge "mămăligă" is eaten with cheese and sour cream.
+S: Eski Orhei, nehir kıvrımındaki kayalıklara oyulmuş manastırlarıyla bilinen bir arkeoloji alanıdır. || Old Orhei is an archaeological site known for monasteries cut into the cliffs of a river bend.
+
+@ru | Moskova | Saint Basil's Cathedral | Aziz Vasil Katedrali | Saint Basil's Cathedral
+F: Yüz ölçümü bakımından dünyanın en büyük ülkesidir ve on bir saat dilimine yayılır. || It is the largest country in the world by area and spans eleven time zones.
+C: Bale ve klasik edebiyat geleneği güçlüdür; iç içe geçen ahşap "matruşka" bebekleri ünlüdür. || Its traditions of ballet and classic literature are strong, and nesting wooden "matryoshka" dolls are famous.
+Y: Pancar çorbası "borş" ve havyarla yenen ince krep "blini" yaygındır. || The beetroot soup "borscht" and thin "blini" pancakes with caviar are common.
+S: Aziz Vasil Katedrali, 16. yüzyılda yapılmış renkli soğan kubbeleriyle Kızıl Meydan'ın simgesidir. || Saint Basil's Cathedral, built in the 16th century with colourful onion domes, is the emblem of Red Square.
+
+@ua | Kiev | Saint Sophia Cathedral, Kyiv | Ayasofya Katedrali | Saint Sophia Cathedral
+F: Tamamı Avrupa'da bulunan en büyük ülkedir; verimli kara toprakları nedeniyle "Avrupa'nın tahıl ambarı" olarak anılır. || It is the largest country lying entirely in Europe and is called the "breadbasket of Europe" for its fertile black soil.
+C: İşlemeli gömlek "vışıvanka" ve balmumuyla desenlenen Paskalya yumurtası "pisanka" ulusal simgelerdir. || The embroidered shirt "vyshyvanka" and the wax-patterned Easter egg "pysanka" are national symbols.
+Y: Pancar çorbası "borş" UNESCO listesindedir; içi doldurulan "varenıkı" mantısı sevilir. || The beetroot soup "borscht" is on the UNESCO list, and filled "varenyky" dumplings are loved.
+S: Ayasofya Katedrali, 11. yüzyıldan kalma mozaikleri ve altın kubbeleriyle bir UNESCO Dünya Mirası'dır. || Saint Sophia Cathedral, with 11th-century mosaics and golden domes, is a UNESCO World Heritage Site.
+
+@dk | Kopenhag | Nyhavn | Nyhavn | Nyhavn
+F: LEGO oyuncakları bu ülkede doğmuştur; bayrağı kesintisiz kullanılan en eski ulusal bayrak sayılır. || LEGO toys were born in this country, and its flag is regarded as the oldest national flag in continuous use.
+C: Sıcak ve samimi ortam anlamına gelen "hygge" yaşam biçiminin anahtarıdır; bisiklet günlük ulaşım aracıdır. || "Hygge", meaning a warm and cosy atmosphere, is the key to its way of life, and the bicycle is everyday transport.
+Y: Çavdar ekmeği üzerine hazırlanan açık sandviç "smørrebrød" ulusal lezzettir. || The open sandwich on rye bread, "smørrebrød", is the national favourite.
+S: Nyhavn, 17. yüzyıldan kalma renkli evlerin sıralandığı bir kanal rıhtımıdır. || Nyhavn is a canal quay lined with colourful 17th-century houses.
+
+@ee | Tallinn | Tallinn Old Town | Tallinn Eski Şehri | Tallinn Old Town
+F: 2005'te ulusal seçimlerde internet üzerinden oy kullanılmasına izin veren ilk ülke olmuştur. || In 2005 it became the first country to allow online voting in national elections.
+C: Beş yılda bir düzenlenen şarkı şöleninde on binlerce kişilik korolar birlikte söyler. || At the song festival held every five years, choirs of tens of thousands sing together.
+Y: Koyu çavdar ekmeği ve marine edilmiş küçük balık "kilu" sofranın temelidir. || Dark rye bread and marinated sprats, "kilu", are staples of the table.
+S: Tallinn Eski Şehri, surları ve kuleleriyle iyi korunmuş bir ortaçağ ticaret kentidir. || Tallinn Old Town is a well-preserved medieval trading town with walls and towers.
+
+@fi | Helsinki | Helsinki Cathedral | Helsinki Katedrali | Helsinki Cathedral
+F: Yaklaşık 188.000 gölü ve nüfusunun yarısından fazlası kadar saunası vardır. || It has about 188,000 lakes and more than one sauna for every two people.
+C: Sauna kültürü UNESCO listesindedir; zorluklara direnme gücü anlamındaki "sisu" ulusal karakteri anlatır. || Sauna culture is on the UNESCO list, and "sisu", meaning grit in the face of hardship, describes the national character.
+Y: Çavdar hamurlu pirinçli börek "karjalanpiirakka" ve somon çorbası yaygındır. || Rye pastries filled with rice, "karjalanpiirakka", and salmon soup are common.
+S: Helsinki Katedrali, beyaz gövdesi ve yeşil kubbeleriyle 1852'de tamamlanmıştır. || Helsinki Cathedral, with its white body and green domes, was completed in 1852.
+
+@gb | Londra | Elizabeth Tower | Big Ben | Big Ben
+F: Dört ülkeden oluşur; dünyanın başlangıç meridyeni buradaki Greenwich'ten geçer. || It is made up of four countries, and the world's prime meridian runs through Greenwich here.
+C: Shakespeare'in ve Beatles'ın ülkesidir; beş çayı ve kuyruğa girme alışkanlığıyla tanınır. || It is the land of Shakespeare and the Beatles, known for afternoon tea and the habit of queuing.
+Y: Kızarmış balık ve patates "fish and chips" ile pazar günü fırın yemeği "Sunday roast" klasiktir. || Fried "fish and chips" and the "Sunday roast" are classics.
+S: Big Ben adıyla bilinen saat kulesi, 1859'dan beri parlamento binasının yanında saatleri çalar. || The clock tower known as Big Ben has struck the hours beside the parliament building since 1859.
+
+@ie | Dublin | Cliffs of Moher | Moher Kayalıkları | Cliffs of Moher
+F: "Zümrüt Ada" olarak anılır; adada hiç yılan yaşamaz ve ulusal simgesi bir arptır. || Called the "Emerald Isle", it has no snakes at all, and its national symbol is a harp.
+C: 17 Mart Aziz Patrick Günü dünyanın dört bir yanında kutlanır; halk dansı hızlı ayak hareketleriyle bilinir. || Saint Patrick's Day on 17 March is celebrated around the world, and its folk dance is known for rapid footwork.
+Y: Kuzu etli sebze yahnisi ve kabartma tozuyla yapılan "soda ekmeği" gelenekseldir. || Lamb and vegetable stew and "soda bread" are traditional.
+S: Moher Kayalıkları, Atlas Okyanusu'na 200 metreyi aşan yükseklikten dimdik iner. || The Cliffs of Moher drop sheer into the Atlantic from more than 200 metres.
+
+@is | Reykjavik | Skógafoss | Skógafoss Şelalesi | Skógafoss
+F: Dünyanın en eski parlamentolarından Althing 930'da burada kurulmuştur; evlerin çoğu jeotermal enerjiyle ısıtılır. || The Althing, one of the world's oldest parliaments, was founded here in 930; most homes are heated with geothermal energy.
+C: Soyadı yerine baba ya da anne adına dayalı adlar kullanılır; Noel'de kitap hediye etmek gelenektir. || Names based on the father's or mother's first name are used instead of family surnames, and giving books at Christmas is a tradition.
+Y: Yoğurda benzeyen "skyr" ve kuzu etli çorba günlük yiyeceklerdir. || Yoghurt-like "skyr" and lamb soup are everyday foods.
+S: Skógafoss, 60 metre yükseklikten dökülen ve güneşli günlerde gökkuşağı oluşturan bir şelaledir. || Skógafoss is a waterfall that drops 60 metres and makes rainbows on sunny days.
+
+@lt | Vilnius | Trakai Island Castle | Trakai Ada Kalesi | Trakai Island Castle
+F: Avrupa'da Hristiyanlığı en son kabul eden ülkedir; dili yaşayan en eski Hint-Avrupa dillerinden sayılır. || It was the last country in Europe to adopt Christianity, and its language is considered one of the oldest living Indo-European languages.
+C: Haç oymacılığı UNESCO listesindedir; Haçlar Tepesi'nde yüz binden fazla haç bulunur. || Cross-crafting is on the UNESCO list, and the Hill of Crosses holds more than a hundred thousand crosses.
+Y: İçi etli patates köftesi "cepelinai" ve pembe soğuk pancar çorbası sevilir. || Meat-filled potato dumplings, "cepelinai", and pink cold beetroot soup are favourites.
+S: Trakai Ada Kalesi, bir gölün ortasındaki adada 14. yüzyılda kırmızı tuğladan yapılmıştır. || Trakai Island Castle was built of red brick in the 14th century on an island in a lake.
+
+@lv | Riga | House of the Blackheads (Riga) | Kara Başlılar Evi | House of the Blackheads
+F: Başkenti Art Nouveau mimarisinin dünyadaki en yoğun örneklerine sahiptir; topraklarının yarısı ormandır. || Its capital has one of the world's densest collections of Art Nouveau architecture, and half of its land is forest.
+C: Kısa halk şiirleri "daina" ve yaz dönümü şenliği "Jāņi" kültürün temelidir. || Short folk verses called "dainas" and the midsummer festival "Jāņi" are at the heart of its culture.
+Y: Koyu çavdar ekmeği ve domuz pastırmalı gri bezelye geleneksel yemeklerdir. || Dark rye bread and grey peas with bacon are traditional dishes.
+S: Kara Başlılar Evi, başkentin meydanında süslü cephesiyle bilinen bir lonca binasıdır. || The House of the Blackheads is a guild hall on the capital's square, known for its ornate façade.
+
+@no | Oslo | Geirangerfjord | Geiranger Fiyordu | Geirangerfjord
+F: Buzulların oyduğu fiyortlarıyla ünlüdür; kuzeyinde yazın güneş hiç batmaz ve Nobel Barış Ödülü başkentinde verilir. || It is famous for fjords carved by glaciers; in its north the summer sun never sets, and the Nobel Peace Prize is awarded in its capital.
+C: Açık havada yaşam sevgisi "friluftsliv" ve Viking gemileri kültürün parçasıdır. || The love of outdoor life, "friluftsliv", and Viking ships are part of its culture.
+Y: Karamelize kahverengi peynir "brunost" ve kurutulmuş morina sevilir. || Caramelised brown cheese, "brunost", and dried cod are favourites.
+S: Geiranger Fiyordu, sarp yamaçları ve şelaleleriyle bir UNESCO Dünya Mirası'dır. || Geirangerfjord, with steep walls and waterfalls, is a UNESCO World Heritage Site.
+
+@se | Stockholm | Gamla stan | Gamla Stan | Gamla Stan
+F: Nobel ödüllerini kuran Alfred Nobel bu ülkede doğmuştur; ABBA, IKEA ve Spotify buradan çıkmıştır. || Alfred Nobel, founder of the Nobel Prizes, was born in this country, which also gave the world ABBA, IKEA and Spotify.
+C: Kahve ve tatlı eşliğinde verilen mola "fika" günlük bir alışkanlıktır; yaz dönümü çiçekli direk etrafında kutlanır. || The coffee-and-cake break "fika" is a daily habit, and midsummer is celebrated around a flowered pole.
+Y: Yaban mersini reçeliyle yenen köfte ve tarçınlı çörek "kanelbulle" ünlüdür. || Meatballs with lingonberry jam and the cinnamon bun "kanelbulle" are famous.
+S: Gamla Stan, başkentin renkli evleri ve dar sokaklarıyla ortaçağdan kalma eski kentidir. || Gamla Stan is the capital's medieval old town of colourful houses and narrow lanes.
+
+@al | Tiran | Berat | Berat | Berat
+F: Bayrağında çift başlı siyah bir kartal bulunur; kırsalında Soğuk Savaş'tan kalma yüz binlerce beton sığınak vardır. || Its flag shows a black double-headed eagle, and its countryside is dotted with hundreds of thousands of concrete bunkers from the Cold War.
+C: Verilen sözü tutmak anlamına gelen "besa" onur anlayışının temelidir; çok sesli halk şarkıları UNESCO listesindedir. || "Besa", keeping one's word, is the basis of its code of honour, and its polyphonic folk singing is on the UNESCO list.
+Y: Yoğurtlu fırın kuzu "tavë kosi" ulusal yemektir. || "Tavë kosi", lamb baked with yoghurt, is the national dish.
+S: Berat, yamaca dizilmiş Osmanlı evleri nedeniyle "bin pencereli şehir" olarak anılır. || Berat is called the "city of a thousand windows" for the Ottoman houses stacked on its hillside.
+
+@ba | Saraybosna | Stari Most | Mostar Köprüsü | Stari Most
+F: Yaklaşık 20 kilometrelik kıyısıyla dünyanın en kısa kıyı şeritlerinden birine sahiptir; 1984 Kış Olimpiyatları başkentinde yapılmıştır. || With about 20 kilometres of coast it has one of the shortest coastlines in the world, and the 1984 Winter Olympics were held in its capital.
+C: Hüzünlü aşk türküleri "sevdalinka" ve bakır işlemeciliği şehir kültürünün parçasıdır. || Melancholy love songs called "sevdalinka" and copper craft are part of urban culture.
+Y: Izgara köfte "ćevapi", pide ekmeği "somun" ve soğanla yenir. || The grilled "ćevapi" are eaten with "somun" flatbread and onions.
+S: Mostar Köprüsü, 16. yüzyılda yapılmış tek kemerli bir Osmanlı köprüsüdür; 2004'te yeniden inşa edilmiştir. || Stari Most in Mostar is a single-arch Ottoman bridge built in the 16th century and rebuilt in 2004.
+
+@bg | Sofya | Rila Monastery | Rila Manastırı | Rila Monastery
+F: Kiril alfabesi bu ülkede geliştirilmiştir; dünyadaki gül yağının büyük bölümü buradaki bir vadide üretilir. || The Cyrillic alphabet was developed in this country, and much of the world's rose oil is produced in one of its valleys.
+C: Baharın gelişi kırmızı-beyaz "martenitsa" takılarak kutlanır; başı yana sallamak "evet" anlamına gelir. || The coming of spring is marked by wearing a red-and-white "martenitsa", and shaking the head means "yes".
+Y: Yoğurt mutfağın temelidir; peynirli börek "banitsa" ve "şopska" salatası ünlüdür. || Yoghurt is the base of the cuisine, and the cheese pastry "banitsa" and "shopska" salad are famous.
+S: Rila Manastırı, çizgili kemerleri ve freskleriyle 10. yüzyılda kurulmuş bir UNESCO Dünya Mirası'dır. || Rila Monastery, founded in the 10th century, is a UNESCO World Heritage Site with striped arches and frescoes.
+
+@hr | Zagreb | Walls of Dubrovnik | Dubrovnik Surları | Walls of Dubrovnik
+F: Binden fazla adası vardır; kravat bu ülkenin askerlerinin boyun atkısından doğmuştur. || It has more than a thousand islands, and the necktie began as the neck scarf worn by its soldiers.
+C: Zencefilli kalp biçimli kurabiye "licitar" ve dantel işçiliği halk sanatının örnekleridir. || The heart-shaped gingerbread "licitar" and lacemaking are examples of folk art.
+Y: Çan biçimli kapak altında közde pişen et ve sebze "peka" ile mürekkep balıklı siyah risotto sevilir. || "Peka", meat and vegetables cooked under a bell-shaped lid, and black cuttlefish risotto are favourites.
+S: Dubrovnik Surları, eski kenti çevreleyen yaklaşık iki kilometrelik taş duvarlardır. || The Walls of Dubrovnik are about two kilometres of stone ramparts around the old city.
+
+@me | Podgorica | Bay of Kotor | Kotor Körfezi | Bay of Kotor
+F: Avrupa'nın en derin kanyonlarından Tara Kanyonu bu ülkededir; 2006'da bağımsızlığını kazanmıştır. || The Tara Canyon, one of the deepest in Europe, is in this country, which became independent in 2006.
+C: Tek telli "gusle" eşliğinde kahramanlık destanları söylenir. || Heroic epics are sung to the one-stringed "gusle".
+Y: Tütsülenmiş jambon "pršut" ve kaymaklı mısır lapası "kačamak" dağ mutfağının temelidir. || The smoked ham "pršut" and "kačamak", cornmeal with cream, are the basis of mountain cooking.
+S: Kotor Körfezi, dağlarla çevrili ve ortaçağ kasabalarıyla süslü derin bir koydur. || The Bay of Kotor is a deep inlet ringed by mountains and lined with medieval towns.
+
+@mk | Üsküp | Church of St. John at Kaneo | Kaneo Aziz Yuhanna Kilisesi | Church of St. John at Kaneo
+F: Avrupa'nın en eski ve en derin göllerinden Ohri Gölü bu ülkededir; Rahibe Teresa başkentinde doğmuştur. || Lake Ohrid, one of Europe's oldest and deepest lakes, is in this country, and Mother Teresa was born in its capital.
+C: Erkeklerin omuz omuza oynadığı "teşkoto" dansı ve Ohri incisi geleneklerdendir. || The "teškoto" dance, performed by men shoulder to shoulder, and Ohrid pearls are among its traditions.
+Y: Fırında pişen kuru fasulye "tavče gravče" ulusal yemektir; biber ezmesi "ajvar" her sofrada bulunur. || Baked beans, "tavče gravče", are the national dish, and the pepper relish "ajvar" is on every table.
+S: Kaneo'daki Aziz Yuhanna Kilisesi, Ohri Gölü'ne bakan bir kayalığın üzerinde durur. || The Church of St. John at Kaneo stands on a cliff overlooking Lake Ohrid.
+
+@ro | Bükreş | Peleș Castle | Peleş Şatosu | Peleș Castle
+F: Drakula efsanesine ilham veren Transilvanya bölgesi bu ülkededir; parlamento binası dünyanın en ağır yapılarından sayılır. || Transylvania, the region that inspired the Dracula legend, is in this country, whose parliament building is counted among the heaviest in the world.
+C: Bahar "mărțișor" ipliğiyle karşılanır; boyalı manastırlar ve ahşap kiliseler UNESCO listesindedir. || Spring is welcomed with the "mărțișor" string, and painted monasteries and wooden churches are on the UNESCO list.
+Y: Lahana sarması "sarmale", mısır lapası "mămăligă" ile servis edilir. || Stuffed cabbage rolls, "sarmale", are served with the cornmeal porridge "mămăligă".
+S: Peleş Şatosu, Karpat Dağları'nın eteğinde 19. yüzyılda yapılmış bir kraliyet yazlığıdır. || Peleș Castle is a 19th-century royal summer residence at the foot of the Carpathians.
+
+@rs | Belgrad | Church of Saint Sava | Aziz Sava Kilisesi | Church of Saint Sava
+F: Mucit Nikola Tesla'nın ulusudur; başkenti Sava ile Tuna nehirlerinin birleştiği yerde kuruludur. || It is the nation of the inventor Nikola Tesla, and its capital stands where the Sava and Danube rivers meet.
+C: Aile azizinin günü "slava" UNESCO listesindedir; Guča'daki bando şenliği ünlüdür. || "Slava", the family patron saint's day, is on the UNESCO list, and the brass band festival at Guča is famous.
+Y: Izgara köfte "ćevapi" ve kaymakla yenen büyük köfte "pljeskavica" sevilir. || Grilled "ćevapi" and the large patty "pljeskavica", eaten with cream "kajmak", are favourites.
+S: Aziz Sava Kilisesi, dünyanın en büyük Ortodoks kiliselerinden biridir. || The Church of Saint Sava is one of the largest Orthodox churches in the world.
+
+@ad | Andorra la Vella | Sant Joan de Caselles | Sant Joan de Caselles Kilisesi | Sant Joan de Caselles
+F: Pireneler'de iki büyük ülke arasında yer alır; iki eş prensi vardır ve resmî dili Katalancadır. || It lies in the Pyrenees between two large countries, has two co-princes, and its official language is Catalan.
+C: Yaz gündönümü ateş şenlikleri UNESCO listesindedir; ülke kayak merkezleriyle tanınır. || Its summer solstice fire festivals are on the UNESCO list, and the country is known for ski resorts.
+Y: Etli ve sebzeli kış yahnisi "escudella" ulusal yemektir. || "Escudella", a winter stew of meat and vegetables, is the national dish.
+S: Sant Joan de Caselles, 11–12. yüzyıllardan kalma taş bir Romanesk kilisedir. || Sant Joan de Caselles is a stone Romanesque church from the 11th–12th centuries.
+
+@cy | Lefkoşa | Petra tou Romiou | Afrodit Kayası | Aphrodite's Rock
+F: Akdeniz'in üçüncü büyük adasıdır; mitolojide Afrodit'in doğduğu yer sayılır ve başkenti hâlâ bölünmüştür. || It is the third-largest island in the Mediterranean, the mythical birthplace of Aphrodite, and its capital is still divided.
+C: Lefkara dantelleri UNESCO listesindedir; bayrağında ülkenin haritası yer alır. || Lefkara lace is on the UNESCO list, and the country's map appears on its flag.
+Y: Izgarada pişen "hellim" peyniri ve bol çeşitli meze sofrası ünlüdür. || Grilled "halloumi" cheese and the many-dish mezze table are famous.
+S: Afrodit Kayası, efsaneye göre tanrıçanın denizin köpüklerinden doğduğu kıyıdır. || Aphrodite's Rock is the shore where, according to legend, the goddess rose from the sea foam.
+
+@es | Madrid | Sagrada Família | Sagrada Família | Sagrada Família
+F: Dünyanın en çok zeytinyağı üreten ülkesidir; ulusal marşının resmî sözleri yoktur. || It produces more olive oil than any other country, and its national anthem has no official words.
+C: "Flamenko" müziği ve dansı UNESCO listesindedir; öğle sonrası dinlenmesi "siesta" ünlüdür. || "Flamenco" music and dance are on the UNESCO list, and the afternoon rest, "siesta", is famous.
+Y: Safranlı pilav "paella" ve küçük tabaklarda sunulan "tapas" ünlüdür. || Saffron rice "paella" and small plates of "tapas" are famous.
+S: Barselona'daki Sagrada Família, Gaudí'nin 1882'de başlanan ve hâlâ süren bazilikasıdır. || The Sagrada Família in Barcelona is Gaudí's basilica, begun in 1882 and still under construction.
+
+@gr | Atina | Parthenon | Parthenon | Parthenon
+F: Demokrasinin, Olimpiyat Oyunları'nın ve Batı felsefesinin doğduğu ülkedir; binlerce adası vardır. || It is the birthplace of democracy, the Olympic Games and Western philosophy, and it has thousands of islands.
+C: Antik tiyatro burada doğmuştur; "sirtaki" dansı ve buzuki müziği şenliklerin parçasıdır. || Ancient theatre was born here, and the "sirtaki" dance and bouzouki music are part of its festivities.
+Y: Patlıcanlı fırın yemeği "musakka", şiş "suvlaki" ve beyaz peynirli köylü salatası ünlüdür. || The baked aubergine dish "moussaka", "souvlaki" skewers and village salad with feta are famous.
+S: Parthenon, MÖ 5. yüzyılda Akropolis tepesine tanrıça Athena için yapılmış bir tapınaktır. || The Parthenon is a temple built for the goddess Athena on the Acropolis in the 5th century BC.
+
+@it | Roma | Colosseum | Kolezyum | Colosseum
+F: Dünyada en çok UNESCO Dünya Mirası alanına sahip ülkelerdendir; çizme biçimindeki yarımadasıyla tanınır. || It has among the most UNESCO World Heritage Sites of any country and is known for its boot-shaped peninsula.
+C: Rönesans burada doğmuştur; opera ve Leonardo da Vinci ile Michelangelo'nun sanatı bu toprakların ürünüdür. || The Renaissance was born here, and opera and the art of Leonardo da Vinci and Michelangelo are products of this land.
+Y: Pizza, makarna ve "gelato" dondurması dünyaya buradan yayılmıştır. || Pizza, pasta and "gelato" ice cream spread to the world from here.
+S: Kolezyum, yaklaşık 2.000 yıl önce 50.000 seyirci için yapılmış bir amfitiyatrodur. || The Colosseum is an amphitheatre built about 2,000 years ago for 50,000 spectators.
+
+@mt | Valletta | Valletta | Valletta | Valletta
+F: Akdeniz'in ortasındaki bu ada ülkesinde Mısır piramitlerinden eski taş tapınaklar vardır; AB'nin en küçük üyesidir. || This island country in the middle of the Mediterranean has stone temples older than the Egyptian pyramids and is the smallest member of the EU.
+C: Dili, Latin harfleriyle yazılan tek Sami dilidir; köy şenlikleri havai fişeklerle kutlanır. || Its language is the only Semitic language written in Latin letters, and village feasts are celebrated with fireworks.
+Y: İçi peynir ya da bezelyeyle doldurulan çıtır börek "pastizzi" ve tavşan yahnisi sevilir. || The flaky "pastizzi", filled with cheese or peas, and rabbit stew are favourites.
+S: Valletta, 16. yüzyılda şövalyelerin kurduğu surlarla çevrili bir başkenttir. || Valletta is a walled capital founded by knights in the 16th century.
+
+@pt | Lizbon | Belém Tower | Belém Kulesi | Belém Tower
+F: Dünyanın en büyük mantar meşesi (şişe mantarı) üreticisidir; Avrupa anakarasının en batı ucu buradadır. || It is the world's largest producer of cork, and the westernmost point of mainland Europe is here.
+C: Hüzünlü "fado" müziği UNESCO listesindedir; mavi-beyaz çini "azulejo" duvarları süsler. || Melancholy "fado" music is on the UNESCO list, and blue-and-white "azulejo" tiles decorate its walls.
+Y: Tuzlanmış morina "bacalhau" ve kremalı tart "pastel de nata" ünlüdür. || Salted cod, "bacalhau", and the custard tart "pastel de nata" are famous.
+S: Belém Kulesi, 16. yüzyılda nehir ağzını korumak için yapılmış süslü bir kaledir. || Belém Tower is an ornate fortress built in the 16th century to guard the river mouth.
+
+@sm | San Marino | Guaita | Guaita Kulesi | Guaita Tower
+F: 301 yılında kurulduğu kabul edilen, dünyanın en eski cumhuriyetlerinden biridir; her yanı tek bir ülkeyle çevrilidir. || Traditionally founded in the year 301, it is one of the world's oldest republics and is entirely surrounded by one other country.
+C: Altı ayda bir seçilen iki "Kaptan Naip" devleti birlikte yönetir. || Two "Captains Regent", elected every six months, lead the state together.
+Y: Kat kat gofret ve çikolatadan yapılan "Torta Tre Monti" yerel tatlıdır. || "Torta Tre Monti", made of layered wafers and chocolate, is the local dessert.
+S: Guaita, Titano Dağı'nın zirvesindeki üç kulenin en eskisidir. || Guaita is the oldest of the three towers on the summit of Mount Titano.
+
+@va | Vatikan | St. Peter's Basilica | Aziz Petrus Bazilikası | St. Peter's Basilica
+F: Yarım kilometrekareden küçük yüz ölçümüyle dünyanın en küçük ülkesidir; devlet başkanı Papa'dır. || At less than half a square kilometre it is the smallest country in the world, and its head of state is the Pope.
+C: Renkli üniformalı İsviçreli Muhafızlar 1506'dan beri görev yapar; Sistine Şapeli'nin tavanını Michelangelo boyamıştır. || The Swiss Guard in colourful uniforms has served since 1506, and the Sistine Chapel ceiling was painted by Michelangelo.
+Y: Kendine özgü bir mutfağı yoktur; sofralarda çevresindeki kentin makarna yemekleri yer alır. || It has no cuisine of its own; its tables serve the pasta dishes of the surrounding city.
+S: Aziz Petrus Bazilikası, Michelangelo'nun tasarladığı kubbesiyle dünyanın en büyük kiliselerinden biridir. || St. Peter's Basilica, with its dome designed by Michelangelo, is one of the largest churches in the world.
+
+@be | Brüksel | Grand-Place | Grand-Place | Grand-Place
+F: Başkenti Avrupa Birliği kurumlarına ev sahipliği yapar; saksafon bu ülkede icat edilmiştir. || Its capital hosts the institutions of the European Union, and the saxophone was invented in this country.
+C: Çizgi roman geleneği güçlüdür; Tenten ve Şirinler burada yaratılmıştır. || Its comic-strip tradition is strong: Tintin and the Smurfs were created here.
+Y: Çikolata, gofret (waffle), patates kızartması ve midye ünlüdür. || Chocolate, waffles, fries and mussels are famous.
+S: Grand-Place, yaldızlı lonca evleriyle çevrili başkent meydanıdır; UNESCO Dünya Mirası'dır. || The Grand-Place is the capital's square ringed with gilded guild houses and a UNESCO World Heritage Site.
+
+@ch | Bern | Matterhorn | Matterhorn | Matterhorn
+F: Dört ulusal dili vardır; yüzyıllardır tarafsızdır ve bayrağı kare olan iki ülkeden biridir. || It has four national languages, has been neutral for centuries, and is one of only two countries with a square flag.
+C: Saat yapımı ustalığı ve Alp borusu "alphorn" geleneklerindendir; halk sık sık referandumla oy kullanır. || Watchmaking and the "alphorn" are among its traditions, and citizens vote often in referendums.
+Y: Eritilmiş peynire ekmek batırılan "fondü" ve rendelenmiş patates "rösti" ünlüdür. || "Fondue", bread dipped in melted cheese, and grated-potato "rösti" are famous.
+S: Matterhorn, 4.478 metrelik piramit biçimli zirvesiyle Alplerin en tanınan dağıdır. || The Matterhorn, a pyramid-shaped peak of 4,478 metres, is the best-known mountain in the Alps.
+
+@de | Berlin | Neuschwanstein Castle | Neuschwanstein Şatosu | Neuschwanstein Castle
+F: Avrupa Birliği'nin en kalabalık ülkesidir; matbaayı geliştiren Gutenberg ve otomobili icat eden Benz buralıdır. || It is the most populous country in the European Union; Gutenberg, who developed the printing press, and Benz, who invented the car, were from here.
+C: Bach ve Beethoven'ın ülkesidir; Noel pazarları ve Münih'teki Oktoberfest ünlüdür. || It is the land of Bach and Beethoven, and its Christmas markets and Munich's Oktoberfest are famous.
+Y: Yüzlerce çeşit ekmek ve sosis ile tuzlu simit "brezel" mutfağın simgeleridir. || Hundreds of kinds of bread and sausage, and the salted "pretzel", are symbols of the cuisine.
+S: Neuschwanstein, 19. yüzyılda Bavyera kralı için yapılmış masalsı bir şatodur. || Neuschwanstein is a fairy-tale castle built in the 19th century for the king of Bavaria.
+
+@fr | Paris | Eiffel Tower | Eyfel Kulesi | Eiffel Tower
+F: Dünyanın en çok turist çeken ülkesidir; ünlü bisiklet yarışı "Tour" 1903'ten beri burada düzenlenir. || It is the most visited country in the world, and the famous "Tour" cycling race has been held here since 1903.
+C: Moda, sinema ve müzeleriyle tanınır; Louvre dünyanın en çok ziyaret edilen müzesidir. || It is known for fashion, cinema and museums; the Louvre is the most visited museum in the world.
+Y: Uzun ekmek "baget", "kruvasan" ve yüzlerce çeşit peynir sofranın simgeleridir. || The "baguette", the "croissant" and hundreds of kinds of cheese are symbols of the table.
+S: Eyfel Kulesi, 1889 Dünya Fuarı için yapılmış yaklaşık 330 metrelik demir bir kuledir. || The Eiffel Tower is an iron tower about 330 metres high, built for the 1889 World's Fair.
+
+@li | Vaduz | Vaduz Castle | Vaduz Şatosu | Vaduz Castle
+F: Dünyada, denize kıyısı olmayan ülkelerle çevrili iki ülkeden biridir; ordusu yoktur. || It is one of only two countries in the world surrounded entirely by landlocked countries, and it has no army.
+C: Ulusal bayramda prens, halkı şatosunun bahçesindeki kutlamaya davet eder. || On the national day the prince invites the people to a celebration in his castle garden.
+Y: Peynirli hamur yemeği "Käsknöpfle", kızarmış soğan ve elma püresiyle yenir. || The cheese dumpling dish "Käsknöpfle" is eaten with fried onions and apple sauce.
+S: Vaduz Şatosu, başkentin üzerindeki yamaçta duran ve prens ailesinin oturduğu bir kaledir. || Vaduz Castle stands on the hillside above the capital and is home to the princely family.
+
+@lu | Lüksemburg | Vianden Castle | Vianden Şatosu | Vianden Castle
+F: Dünyanın tek büyük dukalığıdır; 2020'de toplu taşımayı ülke genelinde ücretsiz yapan ilk ülke olmuştur. || It is the world's only grand duchy, and in 2020 it became the first country to make public transport free nationwide.
+C: Üç resmî dil günlük yaşamda birlikte kullanılır; Echternach'ın zıplamalı alayı UNESCO listesindedir. || Three official languages are used together in daily life, and the hopping procession of Echternach is on the UNESCO list.
+Y: Baklayla sunulan tütsülenmiş domuz eti "Judd mat Gaardebounen" ulusal yemektir. || "Judd mat Gaardebounen", smoked pork with broad beans, is the national dish.
+S: Vianden Şatosu, bir tepenin üzerinde yükselen restore edilmiş bir ortaçağ kalesidir. || Vianden Castle is a restored medieval fortress rising on a hilltop.
+
+@mc | Monako | Monte Carlo Casino | Monte Carlo Kumarhanesi | Monte Carlo Casino
+F: Dünyanın en yoğun nüfuslu ülkesidir ve ikinci en küçüğüdür; sokaklarında Formula 1 yarışı yapılır. || It is the most densely populated country in the world and the second smallest, and a Formula 1 race runs through its streets.
+C: 1297'den beri aynı hanedan, Grimaldi ailesi tarafından yönetilir. || It has been ruled by the same dynasty, the Grimaldi family, since 1297.
+Y: Pazı ve peynirle doldurulup kızartılan küçük börek "barbajuan" ulusal lezzettir. || "Barbajuan", a small fried pastry filled with chard and cheese, is the national snack.
+S: Monte Carlo Kumarhanesi, 19. yüzyılda yapılmış süslü cepheli bir saray yapısıdır. || The Monte Carlo Casino is a palace-like building with an ornate façade, built in the 19th century.
+
+@nl | Amsterdam | Kinderdijk | Kinderdijk Yel Değirmenleri | Kinderdijk Windmills
+F: Topraklarının yaklaşık dörtte biri deniz seviyesinin altındadır; ülkede insandan çok bisiklet vardır. || About a quarter of its land lies below sea level, and it has more bicycles than people.
+C: Rembrandt ve Van Gogh'un ülkesidir; Kral Günü'nde herkes turuncu giyer. || It is the land of Rembrandt and Van Gogh, and on King's Day everyone wears orange.
+Y: Arası karamelli gofret "stroopwafel" ve soğanla yenen çiğ ringa balığı ünlüdür. || The caramel-filled "stroopwafel" and raw herring with onions are famous.
+S: Kinderdijk'te 18. yüzyıldan kalma on dokuz yel değirmeni suyu kanallara pompalamak için yapılmıştır. || At Kinderdijk, nineteen 18th-century windmills were built to pump water into the canals.
