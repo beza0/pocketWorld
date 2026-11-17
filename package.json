@@ -8,6 +8,7 @@
     "@supabase/supabase-js": "^2.119.0",
     "expo": "~58.0.25",
     "expo-constants": "~58.0.16",
+    "expo-dev-client": "~58.0.20",
     "expo-device": "~58.0.5",
     "expo-font": "~58.0.12",
     "expo-image": "~58.0.18",
@@ -15,7 +16,9 @@
     "expo-localization": "~58.0.5",
     "expo-notifications": "~58.1.9",
     "expo-router": "~58.0.31",
+    "expo-splash-screen": "~58.0.14",
     "expo-status-bar": "~58.0.5",
+    "expo-system-ui": "~58.0.7",
     "react": "19.3.0",
     "react-dom": "^19.3.0",
     "react-native": "0.88.1",
@@ -47,8 +50,8 @@
   },
   "scripts": {
     "start": "expo start",
-    "android": "expo start --android",
-    "ios": "expo start --ios",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
     "web": "expo start --web",
     "typecheck": "tsc --noEmit",
     "lint": "expo lint",
@@ -57,7 +60,10 @@
     "content:photos": "NODE_USE_ENV_PROXY=1 tsx scripts/content/fetch-photos.ts",
     "content:validate": "tsx scripts/content/validate.ts",
     "build:web": "expo export --platform web && node scripts/build-web-offline.mjs",
-    "serve:web": "node scripts/serve-web.mjs"
+    "serve:web": "node scripts/serve-web.mjs",
+    "store:screenshots": "node scripts/store-screenshots.cjs",
+    "e2e:web": "node scripts/e2e/web.e2e.cjs",
+    "brand:icons": "node scripts/brand/make-icons.mjs"
   },
   "private": true
 }

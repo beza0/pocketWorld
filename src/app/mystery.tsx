@@ -44,7 +44,7 @@ export default function MysteryScreen() {
   const won = saved ? saved.score > 0 : state.status === 'won';
 
   const clues = (
-    <View style={{ gap: space.md, flex: 1 }}>
+    <View style={{ gap: space.md, flex: wide ? 1 : undefined }}>
       <Clue n={1} title={t('clueFact')} open label={t('clue', { n: 1 })}>
         <Body style={{ fontSize: 17, lineHeight: 26 }} testID="mystery-fact">{answer.fact[lang]}</Body>
       </Clue>
@@ -60,7 +60,7 @@ export default function MysteryScreen() {
   );
 
   const side = finished ? (
-    <Card testID="mystery-result" style={{ flex: 1 }}>
+    <Card testID="mystery-result" style={wide ? { flex: 1 } : undefined}>
       <Eyebrow>{won ? t('mysteryWon') : t('mysteryLost')}</Eyebrow>
       <H2 testID="mystery-score">{t('mysteryScoreLine', { n: score })}</H2>
       <View style={styles.answerRow}>
@@ -75,7 +75,7 @@ export default function MysteryScreen() {
       <Button label={t('backToToday')} variant="ghost" onPress={() => router.replace('/')} />
     </Card>
   ) : (
-    <View style={{ gap: space.md, flex: 1 }}>
+    <View style={{ gap: space.md, flex: wide ? 1 : undefined }}>
       <H2>{t('mysteryWhich')}</H2>
       <Muted testID="mystery-points">{t('pointsNow', { n: mysteryPoints(state.step) })}</Muted>
       {options.map((id, i) => {

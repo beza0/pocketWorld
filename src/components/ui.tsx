@@ -1,6 +1,8 @@
 import React from 'react';
 import { ActivityIndicator, Pressable, ScrollView, StyleSheet, Text, type TextProps, View, type ViewStyle, useWindowDimensions, type StyleProp } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
+import type { Lang } from '../core/types';
+import { useApp } from '../state/AppProvider';
 import { MAX_CONTENT_WIDTH, WIDE_BREAKPOINT, colors, fonts, radius, space } from '../theme';
 
 export const useIsWide = () => useWindowDimensions().width >= WIDE_BREAKPOINT;
@@ -29,8 +31,15 @@ export function Body(props: TextProps) {
 export function Muted(props: TextProps) {
   return <Text {...props} style={[styles.muted, props.style]} />;
 }
-export function Eyebrow(props: TextProps) {
-  return <Text {...props} style={[styles.eyebrow, props.style]} />;
+/** Upper-cases text with the rules of the given language (Turkish i → İ, English i → I). */
+export function upperChildren(children: React.ReactNode, lang: Lang): React.ReactNode {
+  const locale = lang === 'tr' ? 'tr-TR' : 'en-US';
+  return React.Children.map(children, (c) => (typeof c === 'string' || typeof c === 'number' ? String(c).toLocaleUpperCase(locale) : c));
+}
+
+export function Eyebrow({ lang, children, ...props }: TextProps & { lang?: Lang }) {
+  const app = useApp();
+  return <Text {...props} style={[styles.eyebrow, props.style]}>{upperChildren(children, lang ?? app.lang)}</Text>;
 }
 
 export function Card({ children, style, testID }: { children: React.ReactNode; style?: StyleProp<ViewStyle>; testID?: string }) {
@@ -130,7 +139,7 @@ const styles = StyleSheet.create({
   h2: { fontFamily: fonts.display, fontSize: 21, lineHeight: 27, color: colors.ink, fontWeight: '700' },
   body: { fontFamily: fonts.body, fontSize: 16, lineHeight: 24, color: colors.ink },
   muted: { fontFamily: fonts.body, fontSize: 14, lineHeight: 20, color: colors.inkSoft },
-  eyebrow: { fontFamily: fonts.body, fontSize: 12, letterSpacing: 1.2, textTransform: 'uppercase', color: colors.oceanDeep, fontWeight: '700' },
+  eyebrow: { fontFamily: fonts.body, fontSize: 12, letterSpacing: 1.2, color: colors.oceanDeep, fontWeight: '700' },
   card: { backgroundColor: colors.card, borderRadius: radius.lg, borderWidth: 1, borderColor: colors.line, padding: space.lg, gap: space.md },
   button: { minHeight: 48, borderRadius: radius.pill, paddingHorizontal: space.xl, paddingVertical: space.md, alignItems: 'center', justifyContent: 'center', flexDirection: 'row', gap: space.sm },
   buttonPrimary: { backgroundColor: colors.ink },

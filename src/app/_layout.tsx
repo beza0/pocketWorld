@@ -37,6 +37,7 @@ function RootNavigator() {
       <Stack.Screen name="round" options={{ title: t('playTitle') }} />
       <Stack.Screen name="settings" options={{ title: t('settings') }} />
       <Stack.Screen name="account" options={{ title: t('account') }} />
+      <Stack.Screen name="privacy" options={{ title: t('privacy') }} />
       <Stack.Screen name="+not-found" options={{ title: t('notFound') }} />
     </Stack>
   );

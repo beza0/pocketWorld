@@ -12,7 +12,7 @@ import { bothNames } from './CountryCard';
 import { CountryPhoto } from './CountryPhoto';
 import { Flag } from './Flag';
 import { WorldMap } from './WorldMap';
-import { Body, Button, Card, Eyebrow, H2, Muted } from './ui';
+import { Body, Button, Card, Eyebrow, H2, Muted, upperChildren } from './ui';
 
 export type OptionStatus = 'idle' | 'correct' | 'wrong' | 'dim';
 
@@ -22,6 +22,7 @@ const LETTERS = ['A', 'B', 'C', 'D'];
 export function AnswerOption({ index, status, disabled, onPress, children, badge, testID, accessibilityLabel, compact }: {
   index: number; status: OptionStatus; disabled?: boolean; onPress: () => void; children: React.ReactNode; badge?: string; testID?: string; accessibilityLabel?: string; compact?: boolean;
 }) {
+  const { lang } = useApp();
   return (
     <Pressable
       testID={testID}
@@ -44,7 +45,7 @@ export function AnswerOption({ index, status, disabled, onPress, children, badge
       </View>
       <View style={{ flex: 1, gap: 4 }}>
         {children}
-        {badge ? <Text style={[styles.badge, { color: status === 'wrong' ? colors.danger : colors.success }]}>{badge}</Text> : null}
+        {badge ? <Text style={[styles.badge, { color: status === 'wrong' ? colors.danger : colors.success }]}>{upperChildren(badge, lang)}</Text> : null}
       </View>
     </Pressable>
   );
@@ -246,7 +247,7 @@ const styles = StyleSheet.create({
   focus: { outlineColor: colors.accent, outlineWidth: 3, outlineStyle: 'solid', outlineOffset: 2 } as ViewStyle,
   letter: { width: 30, height: 30, borderRadius: 15, backgroundColor: colors.ink, alignItems: 'center', justifyContent: 'center' },
   letterText: { color: colors.white, fontWeight: '700', fontFamily: fonts.body, fontSize: 14 },
-  badge: { fontFamily: fonts.body, fontSize: 12, fontWeight: '700', textTransform: 'uppercase', letterSpacing: 0.6 },
+  badge: { fontFamily: fonts.body, fontSize: 12, fontWeight: '700', letterSpacing: 0.6 },
   optionName: { fontFamily: fonts.body, fontSize: 17, fontWeight: '700', color: colors.ink },
   optionOther: { fontFamily: fonts.body, fontSize: 13, color: colors.inkSoft },
   grid: { flexDirection: 'row', flexWrap: 'wrap', marginHorizontal: -space.xs },

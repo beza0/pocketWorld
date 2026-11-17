@@ -28,11 +28,11 @@ export default function AtlasScreen() {
         <ProgressBar value={discovered.length / countries.length} />
       </View>
       <View style={wide ? styles.wide : { gap: space.lg }}>
-        <View style={{ flex: 1.6, gap: space.md }}>
+        <View style={{ flex: wide ? 1.6 : undefined, gap: space.md }}>
           <WorldMap discovered={discovered} accessibilityLabel={t('myAtlas')} aspectRatio={wide ? 2 : 1.6} />
           {discovered.length === 0 ? <Card testID="atlas-empty"><Body>{t('atlasEmpty')}</Body><Button label={t('goCountries')} variant="secondary" onPress={() => router.push('/countries')} /></Card> : null}
         </View>
-        <Card style={{ flex: 1 }}>
+        <Card style={wide ? { flex: 1 } : undefined}>
           <H2>{t('byContinent')}</H2>
           {perContinent.map((c) => (
             <View key={c.id} style={{ gap: 4 }} testID={`continent-progress-${c.id}`}>

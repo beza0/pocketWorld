@@ -1,3 +1,4 @@
+import Constants from 'expo-constants';
 import { useRouter } from 'expo-router';
 import React, { useCallback, useEffect, useState } from 'react';
 import { StyleSheet, Switch, Text, View } from 'react-native';
@@ -132,6 +133,8 @@ export default function SettingsScreen() {
       <Card>
         <H2>{t('credits')}</H2>
         <Muted>{t('creditsBody')}</Muted>
+        <Button label={t('privacy')} variant="secondary" onPress={() => router.push('/privacy')} testID="open-privacy" />
+        <Muted>{t('appName')} {Constants.expoConfig?.version ?? ''}</Muted>
       </Card>
     </Screen>
   );

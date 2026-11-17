@@ -8,7 +8,7 @@ import { colors, fonts, radius, space } from '../theme';
 import { CountryPhoto } from './CountryPhoto';
 import { Flag } from './Flag';
 import { WorldMap } from './WorldMap';
-import { Body, Button, Card, Eyebrow, Muted, Segmented, useIsWide } from './ui';
+import { Body, Button, Card, Eyebrow, Muted, Segmented, upperChildren, useIsWide } from './ui';
 
 const VISIBLE_LANGUAGES = 3;
 
@@ -48,13 +48,13 @@ export function CountryCard({ country, eyebrow }: { country: Country; eyebrow?: 
   const facts = (
     <>
       <View style={styles.factBox}>
-        <Eyebrow>{t('didYouKnow')}</Eyebrow>
+        <Eyebrow lang={cardLang}>{t('didYouKnow')}</Eyebrow>
         <Body style={styles.factText} testID="country-fact">{country.fact[cardLang]}</Body>
       </View>
       <View style={styles.rows}>
-        <InfoRow label={t('capital')} value={country.capital[cardLang]} />
-        <InfoRow label={t('continent')} value={continentNames[cardLang][country.continent]} />
-        <InfoRow
+        <InfoRow lang={cardLang} label={t('capital')} value={country.capital[cardLang]} />
+        <InfoRow lang={cardLang} label={t('continent')} value={continentNames[cardLang][country.continent]} />
+        <InfoRow lang={cardLang}
           label={langs.length > 1 ? t('languages') : t('languageOne')}
           value={langs.slice(0, VISIBLE_LANGUAGES).join(', ') + (langs.length > VISIBLE_LANGUAGES ? ` ${t('moreLanguages', { n: langs.length - VISIBLE_LANGUAGES })}` : '')}
         />
@@ -89,10 +89,10 @@ export function CountryCard({ country, eyebrow }: { country: Country; eyebrow?: 
       </Pressable>
       {more ? (
         <View style={styles.moreBody}>
-          <MoreItem title={t('culture')} text={country.culture[cardLang]} />
-          <MoreItem title={t('food')} text={country.food[cardLang]} />
-          <MoreItem title={`${t('sight')}: ${country.place[cardLang]}`} text={country.sight[cardLang]} />
-          {langs.length > VISIBLE_LANGUAGES ? <MoreItem title={t('allLanguages')} text={langs.join(', ')} /> : null}
+          <MoreItem lang={cardLang} title={t('culture')} text={country.culture[cardLang]} />
+          <MoreItem lang={cardLang} title={t('food')} text={country.food[cardLang]} />
+          <MoreItem lang={cardLang} title={`${t('sight')}: ${country.place[cardLang]}`} text={country.sight[cardLang]} />
+          {langs.length > VISIBLE_LANGUAGES ? <MoreItem lang={cardLang} title={t('allLanguages')} text={langs.join(', ')} /> : null}
           {credit ? (
             <Pressable accessibilityRole="link" onPress={() => Linking.openURL(credit.sourceUrl).catch(() => {})}>
               <Muted style={{ fontSize: 12 }}>{t('photoBy', { author: credit.author, license: credit.license })} · <Text style={{ textDecorationLine: 'underline' }}>{t('photoSource')}</Text></Muted>
@@ -143,19 +143,19 @@ export function CountryCard({ country, eyebrow }: { country: Country; eyebrow?: 
   );
 }
 
-function InfoRow({ label, value }: { label: string; value: string }) {
+function InfoRow({ label, value, lang }: { label: string; value: string; lang: Lang }) {
   return (
     <View style={styles.row}>
-      <Text style={styles.rowLabel}>{label}</Text>
+      <Text style={styles.rowLabel}>{upperChildren(label, lang)}</Text>
       <Text style={styles.rowValue}>{value}</Text>
     </View>
   );
 }
 
-function MoreItem({ title, text }: { title: string; text: string }) {
+function MoreItem({ title, text, lang }: { title: string; text: string; lang: Lang }) {
   return (
     <View style={{ gap: 2 }}>
-      <Eyebrow>{title}</Eyebrow>
+      <Eyebrow lang={lang}>{title}</Eyebrow>
       <Body>{text}</Body>
     </View>
   );
@@ -170,7 +170,7 @@ const styles = StyleSheet.create({
   factText: { fontSize: 17, lineHeight: 26 },
   rows: { borderRadius: radius.md, borderWidth: 1, borderColor: colors.line, backgroundColor: colors.card },
   row: { flexDirection: 'row', paddingVertical: space.md, paddingHorizontal: space.lg, gap: space.md, borderBottomWidth: StyleSheet.hairlineWidth, borderBottomColor: colors.line },
-  rowLabel: { width: 84, fontFamily: fonts.body, fontSize: 13, color: colors.inkSoft, fontWeight: '700', textTransform: 'uppercase', letterSpacing: 0.6, paddingTop: 2 },
+  rowLabel: { width: 84, fontFamily: fonts.body, fontSize: 13, color: colors.inkSoft, fontWeight: '700', letterSpacing: 0.6, paddingTop: 2 },
   rowValue: { flex: 1, fontFamily: fonts.body, fontSize: 16, color: colors.ink },
   moreHeader: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', padding: space.lg, minHeight: 56 },
   moreTitle: { fontFamily: fonts.display, fontSize: 18, fontWeight: '700', color: colors.ink },

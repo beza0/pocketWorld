@@ -46,6 +46,22 @@ npm run serve:web    # dist/ on http://localhost:8080 (SPA fallback for /country
 Herhangi bir statik barındırıcı kullanılabilir; bilinmeyen yolların `index.html`'e düşmesi (SPA fallback),
 `index.html`, `sw.js` ve `offline-manifest.json` için `no-cache` gerekir.
 
+## Yayın / Release (web, App Store, Google Play)
+
+Adım adım rehber, mağaza metinleri, ekran görüntüleri ve gizlilik beyanları: [`store/README.md`](store/README.md).
+Kısaca:
+
+```bash
+npm run build:web                                                   # web → dist/ (Vercel / Netlify / Cloudflare yapılandırmaları hazır)
+npx eas-cli@latest build --platform ios --profile production        # App Store
+npx eas-cli@latest build --platform android --profile production    # Google Play (.aab)
+npx eas-cli@latest submit --platform all --profile production
+```
+
+GitHub Actions: `CI` her push'ta tip denetimi, lint, test, içerik doğrulama ve web derlemesi yapar;
+`EAS build` iş akışı elle tetiklenir (`EXPO_TOKEN` gizli değişkeni gerekir). Gizlilik politikası
+uygulamada ve web'de `/privacy` adresindedir; hesap silme Hesap ekranındadır (mağaza zorunluluğu).
+
 ## Ortam değişkenleri / Environment variables
 
 `.env.example` dosyasını `.env.local` olarak kopyalayın. Hepsi isteğe bağlıdır; boşken uygulama misafir

@@ -1,5 +1,5 @@
 import React, { createContext, useCallback, useContext, useEffect, useMemo, useRef, useState } from 'react';
-import { AppState } from 'react-native';
+import { AppState, Platform } from 'react-native';
 import { getToday, msUntilNextDay, type Daily } from '../core/calendar';
 import type { MysteryState } from '../core/mystery';
 import { type DailyResult, type Progress, discoveredIds, emptyProgress, mergeProgress, recordDaily, setDiscovered } from '../core/progress';
@@ -60,6 +60,8 @@ interface AppContextValue {
   syncedAt: string | null;
   syncNow(): Promise<void>;
   signOut(): Promise<void>;
+  /** Deletes the account and its server data. Local progress is kept as guest progress. */
+  deleteAccount(): Promise<boolean>;
 }
 
 const AppContext = createContext<AppContextValue | null>(null);
@@ -124,6 +126,11 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
     const sub = AppState.addEventListener('change', (s) => { if (s === 'active') refresh(); });
     return () => { clearTimeout(timer); sub.remove(); };
   }, []);
+
+  // web: keep <html lang> in sync for screen readers and correct hyphenation
+  useEffect(() => {
+    if (Platform.OS === 'web' && typeof document !== 'undefined') document.documentElement.lang = settings.lang;
+  }, [settings.lang]);
 
   const updateProgress = useCallback((fn: (p: Progress) => Progress) => {
     const next = fn(progressRef.current);
@@ -190,6 +197,23 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
     await getSupabase()?.auth.signOut();
     setEmail(null);
   }, []);
+
+  const deleteAccount = useCallback(async () => {
+    const db = getSupabase();
+    if (!db) return false;
+    const { error } = await db.rpc('delete_my_account');
+    if (error) return false;
+    await db.auth.signOut({ scope: 'local' }).catch(() => {});
+    setEmail(null);
+    setSyncedAt(null);
+    storage.setJSON(KEYS.syncedAt, null);
+    // everything that was on the server is gone, so all local records count as unsynced again
+    updateProgress((p) => ({
+      ...p,
+      pending: [...Object.keys(p.discovered).map((id) => `d:${id}`), ...Object.keys(p.daily).map((k) => `r:${k}`)].sort(),
+    }));
+    return true;
+  }, [updateProgress]);
 
   // ---- actions ----
   const setLang = useCallback((lang: Lang) => {
@@ -269,7 +293,8 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
     syncedAt,
     syncNow,
     signOut,
-  }), [ready, settings, setLang, today, progress, discovered, discoveredSet, setCountryDiscovered, saveDailyResult, mistakes, recordGameAnswer, drafts, saveMysteryDraft, setReminder, email, syncState, syncedAt, syncNow, signOut]);
+    deleteAccount,
+  }), [ready, settings, setLang, today, progress, discovered, discoveredSet, setCountryDiscovered, saveDailyResult, mistakes, recordGameAnswer, drafts, saveMysteryDraft, setReminder, email, syncState, syncedAt, syncNow, signOut, deleteAccount]);
 
   return <AppContext.Provider value={value}>{children}</AppContext.Provider>;
 }

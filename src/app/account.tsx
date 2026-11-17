@@ -11,7 +11,9 @@ import { colors, fonts, radius, space } from '../theme';
  * guest progress of this device into the account.
  */
 export default function AccountScreen() {
-  const { t, email, syncConfigured, syncState, syncNow, signOut, discovered, progress } = useApp();
+  const { t, email, syncConfigured, syncState, syncNow, signOut, deleteAccount, discovered, progress } = useApp();
+  const [confirmDelete, setConfirmDelete] = useState(false);
+  const [deleteState, setDeleteState] = useState<'idle' | 'busy' | 'done' | 'error'>('idle');
   const [address, setAddress] = useState('');
   const [code, setCode] = useState('');
   const [sent, setSent] = useState(false);
@@ -39,9 +41,30 @@ export default function AccountScreen() {
           <Button label={t('syncNow')} onPress={syncNow} disabled={syncState === 'syncing'} />
           <Button label={t('signOut')} variant="ghost" onPress={signOut} />
         </Card>
+        <Card testID="delete-account">
+          <H2>{t('deleteAccount')}</H2>
+          {!confirmDelete ? (
+            <Button label={t('deleteAccount')} variant="secondary" onPress={() => setConfirmDelete(true)} testID="delete-account-start" />
+          ) : (
+            <>
+              <Body>{t('deleteAccountConfirm')}</Body>
+              <Button
+                label={t('deleteAccountYes')}
+                style={{ backgroundColor: colors.danger }}
+                disabled={deleteState === 'busy'}
+                onPress={async () => { setDeleteState('busy'); setDeleteState((await deleteAccount()) ? 'done' : 'error'); }}
+                testID="delete-account-confirm"
+              />
+              <Button label={t('cancel')} variant="ghost" onPress={() => setConfirmDelete(false)} />
+            </>
+          )}
+          {deleteState === 'error' ? <Muted style={{ color: colors.danger }}>{t('deleteAccountError')}</Muted> : null}
+        </Card>
       </Screen>
     );
   }
+
+  const deletedNote = deleteState === 'done' ? <Muted accessibilityLiveRegion="polite">{t('deleteAccountDone')}</Muted> : null;
 
   const run = async (fn: () => Promise<{ error: unknown }>, after?: () => void) => {
     setBusy(true);
@@ -61,6 +84,7 @@ export default function AccountScreen() {
     <Screen maxWidth={560}>
       <Card>
         <H2>{t('backup')}</H2>
+        {deletedNote}
         <Muted>{t('mergeNote')}</Muted>
         <TextInput
           testID="auth-email"

@@ -14,7 +14,7 @@ if (!fs.existsSync(path.join(dist, 'index.html'))) {
   process.exit(1);
 }
 
-const SKIP = new Set(['offline-manifest.json', 'sw.js', 'metadata.json']);
+const SKIP = new Set(['offline-manifest.json', 'sw.js', 'metadata.json', '_redirects', '_headers']);
 const files = [];
 const walk = (dir) => {
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
