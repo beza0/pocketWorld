@@ -23,5 +23,5 @@ Photos come from Wikimedia Commons; each photo's author and licence is shown in 
 
 **Keywords (100):** geography,countries,flags,map,capitals,world,quiz,trivia,learn,education,atlas,daily
 **Category:** Education (secondary: Trivia)
-**Privacy policy:** https://<your-web-domain>/privacy
+**Privacy policy:** https://dunya-cepte.vercel.app/privacy
 **Support:** https://github.com/beza0/pocketWorld

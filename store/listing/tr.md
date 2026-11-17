@@ -23,5 +23,5 @@ Fotoğraflar Wikimedia Commons'tan; her fotoğrafın yazarı ve lisansı uygulam
 
 **Anahtar kelimeler (100):** coğrafya,ülkeler,bayrak,harita,başkent,dünya,bilgi yarışması,quiz,öğren,eğitim,atlas,günlük
 **Kategori:** Eğitim (ikincil: Bilgi Yarışması / Trivia)
-**Gizlilik politikası:** https://<web-alan-adınız>/privacy
+**Gizlilik politikası:** https://dunya-cepte.vercel.app/privacy
 **Destek:** https://github.com/beza0/pocketWorld

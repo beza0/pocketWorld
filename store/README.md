@@ -36,7 +36,7 @@ npm run build:web          # dist/
 `netlify.toml` + `public/_redirects` + `public/_headers` (Netlify, Cloudflare Pages). Gereken iki şey:
 bilinmeyen yollar `index.html`'e düşmeli; `index.html`, `sw.js`, `offline-manifest.json` önbelleğe
 alınmamalı. Service worker yalnızca HTTPS (veya localhost) üzerinde çalışır.
-Gizlilik politikası adresi: `https://<alan-adınız>/privacy` — mağaza formlarında bunu kullanın.
+Gizlilik politikası adresi: `https://dunya-cepte.vercel.app/privacy` (kendi alan adınızı bağlarsanız onu kullanın) — mağaza formlarında bunu kullanın.
 
 ## 2. iOS — App Store
 
@@ -69,7 +69,7 @@ npx eas-cli@latest submit --platform android --profile production  # internal tr
 - **Data safety:** Toplanan veri yalnızca hesap açılırsa: *E-posta adresi* (Hesap yönetimi) ve
   *Uygulama etkinliği → diğer kullanıcı içeriği* (Uygulama işlevselliği); şifrelenerek aktarılır;
   kullanıcı silme isteyebilir (uygulama içinden). Paylaşılan veri yok.
-- **Hesap silme URL'si:** uygulama içi yol + `https://<alan-adınız>/privacy` (“Hesabı silme” bölümü).
+- **Hesap silme URL'si:** uygulama içi yol + `https://dunya-cepte.vercel.app/privacy` (kendi alan adınızı bağlarsanız onu kullanın) (“Hesabı silme” bölümü).
 - **İçerik derecelendirmesi:** Eğitim; tüm yaşlar.
 - **Hedef kitle:** 13 yaş altı çocukları da hedefleyecekseniz “Aileler” politikası ek beyanlar ister;
   varsayılan öneri 13+ hedef kitle seçmektir (uygulama yine her yaşa uygundur).
