@@ -70,7 +70,7 @@ async function shot(page, name) {
   });
 
   await step("Today's 3 Questions: flag, map, fact; explanation after each; result saved", async () => {
-    await page.click(tid('quiz-start'));
+    await page.click(tid('open-quiz'));
     for (let i = 0; i < 3; i++) {
       await page.waitForSelector(tid('quiz-question'));
       // answer the first two correctly and the last one wrongly
@@ -85,8 +85,6 @@ async function shot(page, name) {
 
   let mysteryAnswer = '';
   await step('Daily Mystery preview reveals nothing; wrong guess disables option and opens next clue; 2 points', async () => {
-    const preview = await page.textContent(tid('mystery-card'));
-    assert.ok(!/\b(Japonya|Japan)\b/.test(preview));
     await page.click(tid('go-mystery'));
     await page.waitForSelector(tid('mystery-fact'));
     assert.ok(!(await page.isVisible(tid('clue-2'))), 'map clue hidden at first');
@@ -116,10 +114,13 @@ async function shot(page, name) {
     await page.click(tid('ui-lang-tr'));
   });
 
-  await step('the countries one and the mystery country are different', async () => {
+  await step('the two daily countries differ and the Today list does not reveal the mystery', async () => {
     await page.goto(BASE + '/', { waitUntil: 'networkidle' });
     const name = await page.textContent(tid('country-name'));
     assert.ok(!mysteryAnswer.includes(name));
+    const tasks = await page.textContent(tid('today-tasks'));
+    for (const part of mysteryAnswer.split(' · ')) assert.ok(!tasks.includes(part.trim()), 'mystery answer leaked into Today');
+    assert.match(tasks, /2 \/ 3 puan/);
   });
 
   await step('search finds Türkiye as Türkiye, Turkiye and Turkey; continent filter works', async () => {

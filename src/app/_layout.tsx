@@ -31,6 +31,7 @@ function RootNavigator() {
       }}>
       <Stack.Screen name="(tabs)" options={{ headerShown: false, title: t('appName') }} />
       <Stack.Screen name="country/[id]" options={{ title: '' }} />
+      <Stack.Screen name="quiz" options={{ title: t('quizTitle') }} />
       <Stack.Screen name="mystery" options={{ title: t('mysteryTitle') }} />
       <Stack.Screen name="previous" options={{ title: t('previousDays') }} />
       <Stack.Screen name="atlas" options={{ title: t('myAtlas') }} />

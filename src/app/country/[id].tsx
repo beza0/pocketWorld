@@ -46,8 +46,11 @@ export default function CountryScreen() {
   return (
     <Screen>
       <Stack.Screen options={{ title: bothNames(country, lang) }} />
-      <CountryCard key={country.id} country={country} />
-      <Button label={copied ? t('linkCopied') : t('share')} variant="ghost" onPress={share} testID="share-country" />
+      <CountryCard
+        key={country.id}
+        country={country}
+        aside={<Button label={copied ? t('linkCopied') : t('share')} variant="secondary" onPress={share} testID="share-country" />}
+      />
     </Screen>
   );
 }

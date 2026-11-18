@@ -90,9 +90,9 @@ export function Chip({ label, selected, onPress, testID }: { label: string; sele
 }
 
 /** Small two-or-more option switch (e.g. TR / EN). */
-export function Segmented<T extends string>({ options, value, onChange, label, testID }: { options: { value: T; label: string }[]; value: T; onChange: (v: T) => void; label: string; testID?: string }) {
+export function Segmented<T extends string>({ options, value, onChange, label, testID, stretch, style }: { options: { value: T; label: string }[]; value: T; onChange: (v: T) => void; label: string; testID?: string; stretch?: boolean; style?: StyleProp<ViewStyle> }) {
   return (
-    <View accessibilityRole="radiogroup" accessibilityLabel={label} style={styles.segmented} testID={testID}>
+    <View accessibilityRole="radiogroup" accessibilityLabel={label} style={[styles.segmented, stretch && { alignSelf: 'stretch' }, style]} testID={testID}>
       {options.map((o) => {
         const active = o.value === value;
         return (
@@ -103,12 +103,50 @@ export function Segmented<T extends string>({ options, value, onChange, label, t
             accessibilityState={{ checked: active }}
             accessibilityLabel={`${label}: ${o.label}`}
             onPress={() => onChange(o.value)}
-            style={(state) => [styles.segment, active && styles.segmentActive, (state as { focused?: boolean }).focused && styles.focus]}>
+            style={(state) => [styles.segment, stretch && { flex: 1 }, active && styles.segmentActive, (state as { focused?: boolean }).focused && styles.focus]}>
             <Text style={[styles.segmentText, active && { color: colors.white }]}>{o.label}</Text>
           </Pressable>
         );
       })}
     </View>
+  );
+}
+
+/** Small, quiet section heading. */
+export function SectionLabel({ children }: { children: React.ReactNode }) {
+  return <Text accessibilityRole="header" style={styles.sectionLabel}>{children}</Text>;
+}
+
+/** A rounded group of tappable rows separated by hairlines. */
+export function ListGroup({ children, testID }: { children: React.ReactNode; testID?: string }) {
+  const items = React.Children.toArray(children).filter(Boolean);
+  return (
+    <View style={styles.group} testID={testID}>
+      {items.map((child, i) => (
+        <View key={i} style={i > 0 ? styles.groupDivider : undefined}>{child}</View>
+      ))}
+    </View>
+  );
+}
+
+export function ListRow({ title, subtitle, leading, trailing, onPress, testID, accessibilityLabel, accessibilityRole = 'button' }: {
+  title: string; subtitle?: string; leading?: React.ReactNode; trailing?: React.ReactNode; onPress?: () => void; testID?: string; accessibilityLabel?: string; accessibilityRole?: 'button' | 'link';
+}) {
+  return (
+    <Pressable
+      testID={testID}
+      accessibilityRole={accessibilityRole}
+      accessibilityLabel={accessibilityLabel ?? (subtitle ? `${title}. ${subtitle}` : title)}
+      onPress={onPress}
+      style={(state) => [styles.row, state.pressed && { backgroundColor: colors.paperDeep }, (state as { focused?: boolean }).focused && styles.focus]}>
+      {leading}
+      <View style={{ flex: 1, gap: 2 }}>
+        <Text style={styles.rowTitle}>{title}</Text>
+        {subtitle ? <Text style={styles.rowSubtitle}>{subtitle}</Text> : null}
+      </View>
+      {trailing}
+      {onPress ? <Text style={styles.chevron}>›</Text> : null}
+    </Pressable>
   );
 }
 
@@ -155,6 +193,13 @@ const styles = StyleSheet.create({
   segment: { minWidth: 48, minHeight: 34, paddingHorizontal: space.md, borderRadius: radius.pill, alignItems: 'center', justifyContent: 'center' },
   segmentActive: { backgroundColor: colors.ink },
   segmentText: { fontFamily: fonts.body, fontSize: 13, fontWeight: '700', color: colors.ink },
+  sectionLabel: { fontFamily: fonts.body, fontSize: 13, fontWeight: '700', color: colors.inkSoft, letterSpacing: 0.4, marginBottom: -space.xs },
+  group: { backgroundColor: colors.card, borderRadius: radius.lg, borderWidth: 1, borderColor: colors.line, overflow: 'hidden' },
+  groupDivider: { borderTopWidth: StyleSheet.hairlineWidth, borderTopColor: colors.line },
+  row: { flexDirection: 'row', alignItems: 'center', gap: space.md, paddingVertical: space.md, paddingHorizontal: space.lg, minHeight: 64 },
+  rowTitle: { fontFamily: fonts.body, fontSize: 16, fontWeight: '700', color: colors.ink },
+  rowSubtitle: { fontFamily: fonts.body, fontSize: 14, color: colors.inkSoft },
+  chevron: { fontSize: 24, color: colors.inkFaint, marginLeft: space.xs },
   state: { alignItems: 'center', justifyContent: 'center', gap: space.md, paddingVertical: space.xxl * 1.5, paddingHorizontal: space.xl },
   stateGlyph: { fontSize: 40, color: colors.inkFaint, fontFamily: fonts.display },
   barTrack: { height: 8, borderRadius: 4, backgroundColor: colors.paperDeep, overflow: 'hidden' },

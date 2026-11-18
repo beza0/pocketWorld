@@ -12,7 +12,7 @@ import { bothNames } from './CountryCard';
 import { CountryPhoto } from './CountryPhoto';
 import { Flag } from './Flag';
 import { WorldMap } from './WorldMap';
-import { Body, Button, Card, Eyebrow, H2, Muted, upperChildren } from './ui';
+import { Body, Button, Card, H2, Muted, upperChildren } from './ui';
 
 export type OptionStatus = 'idle' | 'correct' | 'wrong' | 'dim';
 
@@ -79,7 +79,8 @@ export function DailyQuiz({ country, dateKey }: { country: Country; dateKey: str
   const router = useRouter();
   const saved = progress.daily[dailyKey('quiz', dateKey)];
   const questions = useMemo(() => dailyQuiz(countryIndex, dateKey, country.id), [dateKey, country.id]);
-  const [started, setStarted] = useState(false);
+  // the quiz has its own screen, so opening it starts the questions
+  const [started] = useState(true);
   const [step, setStep] = useState(0);
   const [picked, setPicked] = useState<string | null>(null);
   const [results, setResults] = useState<number[]>([]);
@@ -91,7 +92,7 @@ export function DailyQuiz({ country, dateKey }: { country: Country; dateKey: str
     const score = saved?.score ?? results.reduce((a, b) => a + b, 0);
     return (
       <Card testID="quiz-result">
-        <Eyebrow>{t('quizDone')}</Eyebrow>
+        <Muted>{t('quizDone')}</Muted>
         <H2 testID="quiz-score">{t('quizScore', { n: score, total: questions.length })}</H2>
         <View style={{ flexDirection: 'row', gap: space.sm }}>
           {detail.map((d, i) => (
@@ -102,16 +103,6 @@ export function DailyQuiz({ country, dateKey }: { country: Country; dateKey: str
         </View>
         <Muted>{t('quizSaved')}</Muted>
         <Button label={t('goMystery')} onPress={() => router.push('/mystery')} testID="go-mystery" />
-      </Card>
-    );
-  }
-
-  if (!started) {
-    return (
-      <Card testID="quiz-intro">
-        <H2>{t('quizTitle')}</H2>
-        <Muted>{t('quizIntro')}</Muted>
-        <Button label={t('quizStart')} onPress={() => setStarted(true)} testID="quiz-start" />
       </Card>
     );
   }
@@ -139,8 +130,13 @@ export function DailyQuiz({ country, dateKey }: { country: Country; dateKey: str
   const badgeFor = (option: string) => (!answered ? undefined : option === q.answer ? t('rightAnswer') : option === picked ? t('yourChoice') : undefined);
 
   return (
-    <Card testID="quiz-question">
-      <Eyebrow>{t('quizTitle')} · {t('questionOf', { n: step + 1, total: questions.length })}</Eyebrow>
+    <View testID="quiz-question" style={{ gap: space.lg }}>
+      <View style={{ gap: space.sm }}>
+        <Muted>{t('questionOf', { n: step + 1, total: questions.length })}</Muted>
+        <View style={styles.steps}>
+          {questions.map((_, i) => <View key={i} style={[styles.step, i <= step && { backgroundColor: colors.ocean }]} />)}
+        </View>
+      </View>
       <H2>{prompt}</H2>
       <View style={q.type === 'fact' ? { gap: space.sm } : styles.grid}>
         {q.options.map((option, i) => {
@@ -181,7 +177,7 @@ export function DailyQuiz({ country, dateKey }: { country: Country; dateKey: str
           />
         </>
       ) : null}
-    </Card>
+    </View>
   );
 }
 
@@ -256,6 +252,8 @@ const styles = StyleSheet.create({
   feedbackOk: { backgroundColor: colors.successWash, borderColor: colors.success },
   feedbackBad: { backgroundColor: colors.dangerWash, borderColor: colors.danger },
   feedbackTitle: { fontFamily: fonts.body, fontWeight: '700', fontSize: 16 },
+  steps: { flexDirection: 'row', gap: 6 },
+  step: { flex: 1, height: 6, borderRadius: 3, backgroundColor: colors.paperDeep },
   pip: { paddingHorizontal: space.md, paddingVertical: space.xs, borderRadius: radius.pill, borderWidth: 1 },
   pipOk: { borderColor: colors.success, backgroundColor: colors.successWash },
   pipBad: { borderColor: colors.danger, backgroundColor: colors.dangerWash },

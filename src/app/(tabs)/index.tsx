@@ -3,8 +3,7 @@ import React from 'react';
 import { Pressable, StyleSheet, Text, View } from 'react-native';
 import { CountryCard } from '../../components/CountryCard';
 import { GearIcon } from '../../components/icons';
-import { DailyQuiz } from '../../components/Quiz';
-import { Button, Card, Eyebrow, H1, H2, Muted, Screen, StateView } from '../../components/ui';
+import { ListGroup, ListRow, Screen, SectionLabel, StateView } from '../../components/ui';
 import { dailyKey } from '../../core/progress';
 import { getCountry } from '../../data';
 import { formatDate } from '../../i18n/format';
@@ -24,52 +23,73 @@ export default function TodayScreen() {
     );
   }
 
+  const quiz = progress.daily[dailyKey('quiz', today.dateKey)];
   const mystery = progress.daily[dailyKey('mystery', today.dateKey)];
-  const inProgress = !mystery && !!mysteryDraft(today.dateKey);
+  const mysteryStarted = !mystery && !!mysteryDraft(today.dateKey);
+
+  // The mystery row never shows the country's name, flag or any hint about it.
+  const tasks = (
+    <View style={{ gap: space.md }}>
+      <SectionLabel>{t('forToday')}</SectionLabel>
+      <ListGroup testID="today-tasks">
+        <ListRow
+          testID="open-quiz"
+          title={t('quizTitle')}
+          subtitle={quiz ? t('quizRowDone', { n: quiz.score }) : t('quizRowSub')}
+          leading={<Badge glyph="3" done={!!quiz} color={colors.ocean} />}
+          onPress={() => router.push('/quiz')}
+        />
+        <ListRow
+          testID="open-mystery"
+          title={t('mysteryTitle')}
+          subtitle={mystery ? t('mysteryRowDone', { n: mystery.score }) : mysteryStarted ? t('mysteryRowGoing') : t('mysteryRowSub')}
+          leading={<Badge glyph="?" done={!!mystery} color={colors.ink} />}
+          onPress={() => router.push('/mystery')}
+        />
+        <ListRow
+          testID="open-previous"
+          title={t('previousDays')}
+          subtitle={t('previousDaysSub')}
+          leading={<Badge glyph="↺" color={colors.inkSoft} />}
+          onPress={() => router.push('/previous')}
+        />
+      </ListGroup>
+    </View>
+  );
 
   return (
     <Screen>
       <View style={styles.top}>
-        <View style={{ flex: 1 }}>
-          <Eyebrow>{t('appName')} · {formatDate(today.dateKey, lang)}</Eyebrow>
-          <H1 testID="today-title">{t('todayQuestion')}</H1>
+        <View style={{ flex: 1, gap: 2 }}>
+          <Text style={styles.date}>{formatDate(today.dateKey, lang)}</Text>
+          <Text accessibilityRole="header" style={styles.title} testID="today-title">{t('todayQuestion')}</Text>
         </View>
         <Link href="/settings" asChild>
           <Pressable accessibilityRole="button" accessibilityLabel={t('settings')} testID="open-settings" style={styles.iconButton}>
-            <GearIcon color={colors.ink} />
+            <GearIcon color={colors.ink} size={22} />
           </Pressable>
         </Link>
       </View>
 
-      {/* key: a new day must start with a fresh card and quiz state */}
-      <CountryCard key={today.dateKey} country={country} eyebrow={`${t('countryOfDay')} · ${t('dayNumber', { n: today.dayNumber })}`} />
-
-      <DailyQuiz key={`quiz-${today.dateKey}`} country={country} dateKey={today.dateKey} />
-
-      {/* The preview never shows the name, flag or any metadata of the mystery country. */}
-      <Card style={styles.mystery} testID="mystery-card">
-        <View style={styles.mysteryMark}><Text style={styles.mysteryMarkText}>?</Text></View>
-        <View style={{ flex: 1, gap: space.xs, minWidth: 200 }}>
-          <H2 style={{ color: colors.white }}>{t('mysteryTitle')}</H2>
-          <Muted style={{ color: '#D7E3F4' }}>{mystery ? t('mysteryPlayed', { n: mystery.score }) : t('mysteryTeaser')}</Muted>
-        </View>
-        <Button
-          label={mystery ? t('mysteryView') : inProgress ? t('mysteryContinue') : t('mysteryPlay')}
-          variant="secondary"
-          onPress={() => router.push('/mystery')}
-          testID="open-mystery"
-        />
-      </Card>
-
-      <Button label={t('previousDays')} variant="ghost" onPress={() => router.push('/previous')} testID="open-previous" />
+      {/* key: a new day must start with a fresh card */}
+      <CountryCard key={today.dateKey} country={country} eyebrow={`${t('countryOfDay')} · ${t('dayNumber', { n: today.dayNumber })}`} aside={tasks} />
     </Screen>
   );
 }
 
+function Badge({ glyph, done, color }: { glyph: string; done?: boolean; color: string }) {
+  return (
+    <View style={[styles.badge, { backgroundColor: done ? colors.success : color }]}>
+      <Text style={styles.badgeText}>{done ? '✓' : glyph}</Text>
+    </View>
+  );
+}
+
 const styles = StyleSheet.create({
-  top: { flexDirection: 'row', alignItems: 'flex-start', gap: space.md },
-  iconButton: { width: 48, height: 48, borderRadius: 24, alignItems: 'center', justifyContent: 'center', backgroundColor: colors.card, borderWidth: 1, borderColor: colors.line },
-  mystery: { backgroundColor: colors.ink, borderColor: colors.ink, flexDirection: 'row', alignItems: 'center', flexWrap: 'wrap' },
-  mysteryMark: { width: 52, height: 52, borderRadius: radius.md, backgroundColor: colors.ocean, alignItems: 'center', justifyContent: 'center' },
-  mysteryMarkText: { color: colors.white, fontFamily: fonts.display, fontSize: 30, fontWeight: '700' },
+  top: { flexDirection: 'row', alignItems: 'center', gap: space.md },
+  date: { fontFamily: fonts.body, fontSize: 13, color: colors.inkSoft, fontWeight: '600' },
+  title: { fontFamily: fonts.display, fontSize: 24, lineHeight: 30, color: colors.ink, fontWeight: '700' },
+  iconButton: { width: 44, height: 44, borderRadius: 22, alignItems: 'center', justifyContent: 'center' },
+  badge: { width: 40, height: 40, borderRadius: radius.md, alignItems: 'center', justifyContent: 'center' },
+  badgeText: { color: colors.white, fontFamily: fonts.display, fontSize: 18, fontWeight: '700' },
 });

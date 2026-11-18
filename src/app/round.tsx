@@ -106,7 +106,7 @@ export default function RoundScreen() {
     <Screen maxWidth={760}>
       <Stack.Screen options={{ title }} />
       <View style={{ gap: space.sm }}>
-        <Eyebrow testID="round-progress">{t('questionOf', { n: index + 1, total: questions.length })}</Eyebrow>
+        <Muted testID="round-progress">{t('questionOf', { n: index + 1, total: questions.length })}</Muted>
         <ProgressBar value={(index + (picked ? 1 : 0)) / questions.length} color={colors.ocean} />
       </View>
       <GameQuestion key={index} q={q} picked={picked} onPick={pick} />
