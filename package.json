@@ -1,6 +1,12 @@
 {
   "name": "pocket-world",
   "version": "1.0.0",
+  "description": "Dünya Cepte / Pocket World — her gün bir ülke: coğrafya öğrenme ve oyun uygulaması (iOS, Android, web).",
+  "homepage": "https://dunya-cepte.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/beza0/pocketWorld.git"
+  },
   "main": "expo-router/entry",
   "dependencies": {
     "@expo/metro-runtime": "~58.0.17",

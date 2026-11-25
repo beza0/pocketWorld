@@ -1,171 +1,186 @@
 # Dünya Cepte · Pocket World
 
-Her gün bir ülke. *Bugün hangi ülkeyi öğreneceğim?* sorusuyla açılan, iOS, Android ve web'de çalışan bir
-coğrafya öğrenme ve oyun uygulaması. Türkçe arayüzde **Dünya Cepte**, İngilizce arayüzde **Pocket World**.
+[![CI](https://github.com/beza0/pocketWorld/actions/workflows/ci.yml/badge.svg)](https://github.com/beza0/pocketWorld/actions/workflows/ci.yml)
+[![Web](https://img.shields.io/badge/web-dunya--cepte.vercel.app-2A7DA8)](https://dunya-cepte.vercel.app)
 
-A geography learning and quiz app for iOS, Android and the web, built with Expo, React Native,
-TypeScript and Expo Router.
+**Her gün bir ülke.** *“Bugün hangi ülkeyi öğreneceğim?”* sorusuyla açılan; iOS, Android ve web'de çalışan
+bir coğrafya öğrenme ve oyun uygulaması. Bir ülkeyi yaklaşık bir dakikada tanırsın, istersen ayrıntılara
+inersin, öğrendiklerini oyunlarla pekiştirirsin. Türkçe arayüzde **Dünya Cepte**, İngilizce arayüzde
+**Pocket World** adını taşır.
 
-## Özellikler / Features
+*A country a day: a geography learning and quiz app for iOS, Android and the web, in Turkish and English.*
 
-- **Bugün** — Günün Ülkesi (fotoğraf, bayrak, harita, başkent, kıta, diller, kısa bilgi, “Daha fazla
-  keşfet”, “Keşfettim”), Bugünün 3 Sorusu (bayrak → harita → kısa bilgi) ve Günün Gizemi (3 ipucu,
-  4 sabit şık, 3/2/1/0 puan). Önceki Günler listesi.
-- **Ülkeler** — 195 ülke (193 BM üyesi + Filistin + Vatikan), TR/EN ve alternatif yazımlarla arama
-  (`Türkiye`, `Turkiye`, `Turkey`), kıta filtresi, Keşif Haritam (`12 / 195 ülke keşfedildi`, kıta bazında).
-  Paylaşılabilir adresler: `/country/<iso2>` (ör. `/country/jp`).
-- **Oyna** — Bayrak, Harita, Kısa Bilgi, Fotoğraf, Karışık; Kolay / Zor; 10 soru; “Keşfettiklerim” havuzu;
-  yanlış bilinen ülkeler sonraki turlarda farklı soru türüyle daha sık gelir (tur başına en fazla 3).
-- Günlük içerik **Europe/Istanbul 00.00**'da değişir; cihaz saat diliminden bağımsızdır ve çevrimdışı çalışır.
-- Varsayılan dil Türkçe, uygulama içinden İngilizce; ülke adları her yerde iki dilde; kartta geçici TR/EN okuma.
-- Misafir kullanım, cihazda kalıcı ilerleme; isteğe bağlı giriş ve eşitleme (Supabase).
-- Çevrimdışı: mobilde paket uygulamayla gelir; web'de “Çevrimdışı kullanıma hazırla”.
-- Günlük hatırlatma (varsayılan kapalı, önerilen 09.00) — mobilde yerel bildirim.
+**Canlı web sürümü:** https://dunya-cepte.vercel.app
 
-## Kurulum ve çalıştırma / Setup
+| Bugün | Günün Gizemi | Bayrak oyunu | Keşif Haritam |
+| :---: | :---: | :---: | :---: |
+| <img src="store/screenshots/ios/tr/01-today.png" width="200" alt="Bugün ekranı: Günün Ülkesi kartı"> | <img src="store/screenshots/ios/tr/03-mystery.png" width="200" alt="Günün Gizemi: ipuçları ve dört seçenek"> | <img src="store/screenshots/ios/tr/05-flag-game.png" width="200" alt="Bayrak oyunu, Zor seviye"> | <img src="store/screenshots/ios/tr/06-discovery-map.png" width="200" alt="Keşif Haritam ve kıta bazında ilerleme"> |
 
-Gereksinimler: Node.js 22+, npm.
+## Özellikler
+
+**Bugün**
+- **Günün Ülkesi:** gerçek bir fotoğraf, bayrak, haritadaki konum, başkent, kıta, diller ve akılda
+  kalıcı kısa bir bilgi. “Daha fazla keşfet” altında kültür, yemek ve görülecek yer. “Keşfettim” ile
+  ülke kişisel haritada renklenir. Kart, arayüz dilini değiştirmeden TR/EN okunabilir.
+- **Bugünün 3 Sorusu:** bayrak, harita ve kısa bilgi; her cevaptan sonra kısa bir açıklama.
+- **Günün Gizemi:** üç ipucu (kısa bilgi → harita → bayrak), dört sabit seçenek; 3 / 2 / 1 / 0 puan.
+  İlk sonuç kaydedilir; uygulamayı yeniden açmak ya da dili değiştirmek sonucu sıfırlamaz.
+- **Önceki Günler:** daha önce yayımlanan ülke kartları.
+
+**Ülkeler**
+- 195 ülkenin tamamı: 193 BM üyesi, Filistin ve Vatikan.
+- Türkçe ve İngilizce adla, alternatif yazımlarla arama (`Türkiye`, `Turkiye`, `Turkey` aynı ülkeyi bulur);
+  kıtaya göre filtre.
+- **Keşif Haritam:** toplam ve kıta bazında ilerleme (`12 / 195 ülke keşfedildi`).
+- Her ülkenin paylaşılabilir bir adresi var: `/country/<ISO kodu>`, ör.
+  [dunya-cepte.vercel.app/country/jp](https://dunya-cepte.vercel.app/country/jp).
+
+**Oyna**
+- Beş mod: Bayrak, Harita, Kısa Bilgi, Fotoğraf, Karışık. İki seviye: Kolay ve Zor. Her tur 10 soru.
+- Zor seviyede komşu ülkeler ve birbirine benzeyen bayraklar; Kolay seviyede belirgin seçenekler.
+- “Keşfettiklerim” havuzuyla yalnızca kendi haritandaki ülkelerden tekrar.
+- Yanlış bilinen ülkeler sonraki turlarda başka bir soru türüyle daha sık gelir (tur başına en fazla 3).
+
+**Her yerde**
+- Günlük içerik **Türkiye saatiyle 00.00'da** değişir; her saat diliminde herkes aynı ülkeyi görür.
+- Çevrimdışı çalışır: mobilde temel paket uygulamayla gelir; web'de Ayarlar → “Çevrimdışı kullanıma hazırla”.
+- Kayıt zorunlu değil, reklam yok. İsteğe bağlı hesapla ilerleme cihazlar arasında yedeklenir.
+- Günlük hatırlatma (varsayılan kapalı, önerilen saat 09.00), iOS ve Android'de yerel bildirimle.
+
+## Teknoloji
+
+| Alan | Kullanılan |
+| --- | --- |
+| Uygulama | Expo SDK 58, React Native, TypeScript, Expo Router |
+| Harita | Natural Earth sınırlarından üretilmiş, üzerinde ad yazmayan SVG |
+| Depolama | AsyncStorage (cihazda kalıcı ilerleme) |
+| Hesap ve eşitleme | Supabase Auth (e-posta kodu) + Postgres, satır düzeyi güvenlik |
+| Web yayını | Vercel; service worker ile doğrulanmış çevrimdışı paket |
+| Mobil derleme | EAS Build / EAS Submit |
+| Test | Vitest (birim), Playwright (web uçtan uca) |
+
+## Başlarken
+
+Gereksinimler: Node.js 22 veya üstü, npm.
 
 ```bash
+git clone https://github.com/beza0/pocketWorld.git
+cd pocketWorld
 npm install
-npm run web          # Expo dev server, web
-npm run ios          # iOS simulator (macOS + Xcode)
-npm run android      # Android emulator / device
+npm run web
 ```
 
-`expo-notifications` yerel modül içerdiği için iOS/Android'de bildirimler Expo Go yerine bir geliştirme
-derlemesinde (`npx expo run:ios` / `npx expo run:android` veya `eas build --profile development`) denenmelidir.
+| Komut | Ne yapar |
+| --- | --- |
+| `npm run web` | Web'de geliştirme sunucusu |
+| `npm run ios` / `npm run android` | iOS simülatöründe / Android emülatöründe çalıştırır |
+| `npm run build:web` | Web yayın derlemesi ve çevrimdışı paket listesi → `dist/` |
+| `npm run serve:web` | `dist/` klasörünü http://localhost:8080 adresinde sunar |
+| `npm run typecheck` · `npm run lint` · `npm test` | Tip denetimi, lint, birim testleri |
+| `npm run e2e:web` | Uçtan uca web testleri (önce `build:web` ve `serve:web`) |
+| `npm run content:validate` | 195 ülkelik içeriği doğrular |
+| `npm run content:build` · `npm run content:photos` | İçerik paketini üretir · eksik fotoğrafları indirir |
+| `npm run store:screenshots` · `npm run brand:icons` | Mağaza ekran görüntülerini ve ikonları üretir |
 
-Yayın web derlemesi (çevrimdışı paket yalnızca bunda çalışır):
+Günlük hatırlatma yerel modül kullandığı için iOS ve Android'de Expo Go yerine bir geliştirme derlemesinde
+denenmelidir: `npx expo run:ios`, `npx expo run:android` ya da `eas build --profile development`.
 
-```bash
-npm run build:web    # expo export + offline manifest → dist/
-npm run serve:web    # dist/ on http://localhost:8080 (SPA fallback for /country/<id>)
-```
+### Ortam değişkenleri
 
-Herhangi bir statik barındırıcı kullanılabilir; bilinmeyen yolların `index.html`'e düşmesi (SPA fallback),
-`index.html`, `sw.js` ve `offline-manifest.json` için `no-cache` gerekir.
-
-## Yayın / Release (web, App Store, Google Play)
-
-Adım adım rehber, mağaza metinleri, ekran görüntüleri ve gizlilik beyanları: [`store/README.md`](store/README.md).
-Kısaca:
-
-```bash
-npm run build:web                                                   # web → dist/ (Vercel / Netlify / Cloudflare yapılandırmaları hazır)
-npx eas-cli@latest build --platform ios --profile production        # App Store
-npx eas-cli@latest build --platform android --profile production    # Google Play (.aab)
-npx eas-cli@latest submit --platform all --profile production
-```
-
-GitHub Actions: `CI` her push'ta tip denetimi, lint, test, içerik doğrulama ve web derlemesi yapar;
-`EAS build` iş akışı elle tetiklenir (`EXPO_TOKEN` gizli değişkeni gerekir). Gizlilik politikası
-uygulamada ve web'de `/privacy` adresindedir; hesap silme Hesap ekranındadır (mağaza zorunluluğu).
-
-## Ortam değişkenleri / Environment variables
-
-`.env.example` dosyasını `.env.local` olarak kopyalayın. Hepsi isteğe bağlıdır; boşken uygulama misafir
-modunda tüm özellikleriyle çalışır.
+Hepsi isteğe bağlıdır. Tanımlı değilse uygulama misafir modunda bütün özellikleriyle çalışır; yalnızca
+hesap ekranı “yapılandırılmamış” mesajı gösterir. `.env.example` dosyasını `.env.local` olarak kopyalayıp
+doldurun.
 
 | Değişken | Açıklama |
 | --- | --- |
-| `EXPO_PUBLIC_SUPABASE_URL` | Supabase projesinin URL'i |
-| `EXPO_PUBLIC_SUPABASE_ANON_KEY` | Supabase anon/publishable anahtarı (istemciye gömülmesi güvenli olan anahtar) |
+| `EXPO_PUBLIC_SUPABASE_URL` | Supabase projesinin adresi |
+| `EXPO_PUBLIC_SUPABASE_ANON_KEY` | Supabase anon (publishable) anahtarı; istemcide bulunması güvenlidir |
 
-**Service-role anahtarını asla istemciye veya repoya koymayın.** Erişim denetimi veritabanındaki satır
-düzeyi güvenlik (RLS) politikalarıyla yapılır.
+Service-role anahtarı istemciye ya da repoya konmaz. Supabase kurulumu:
 
-### Supabase kurulumu
+1. `supabase/migrations/` altındaki iki dosyayı uygulayın (`supabase db push` ya da SQL editörü).
+2. Authentication → Providers → Email'de “Email OTP”yi açın; e-posta şablonunda `{{ .Token }}` bulunsun.
+3. Adres ve anon anahtarı `.env.local` dosyasına (mobil derlemeler için EAS ortam değişkenlerine) yazın.
 
-1. Bir Supabase projesi oluşturun, `supabase/migrations/20261116000000_progress.sql` dosyasını uygulayın
-   (`supabase db push` ya da SQL editörü).
-2. Authentication → Providers → Email'de “Email OTP”yi açın; e-posta şablonunda `{{ .Token }}` (6 haneli
-   kod) bulunsun. Uygulama derin bağlantı gerektirmeyen kodla giriş kullanır.
-3. URL ve anon anahtarı `.env.local`'a yazın.
-
-**Birleştirme kuralı** (istemci `src/core/progress.ts` ve sunucu `push_progress` aynı kuralı uygular):
-
-- Keşifler ülke kimliğiyle tekildir; son değişiklik kazanır, eşit zaman damgasında “keşfedildi” kazanır.
-  Aynı ülke iki cihazda keşfedilse de bir kez sayılır.
-- Günlük sonuçlar `(tür, tarih)` ile tekildir; **ilk tamamlanan sonuç kazanır** (eşitlikte küçük
-  `device_id`, sonra yüksek puan). Bu kural değişmeli, birleşmeli ve idempotenttir.
-- Değişiklikler `pending` kuyruğunda bekler, yalnızca başarılı gönderimden sonra silinir; gönderim
-  idempotent bir upsert olduğundan yeniden denemeler yinelenen kayıt üretmez. Giriş yapıldığında,
-  uygulama öne geldiğinde, tarayıcı yeniden çevrimiçi olduğunda ve her değişiklikten sonra eşitlenir.
-
-## İçerik üretimi ve doğrulama / Content
-
-Ayrıntılar: [`content/README.md`](content/README.md).
-
-```bash
-npm run content:photos     # Wikimedia Commons'tan eksik fotoğrafları indirir (lisans + atıf kaydıyla)
-npm run content:build      # veri, bayrak, harita ve takvim çıktıları
-npm run content:validate   # 195 ülke, iki dil, varlıklar, şıklar, lisanslar, takvim kilidi
-```
-
-Doğrulama şunları denetler: 193 BM üyesi + 2 gözlemci; her alanın TR ve EN dolu ve farklı olması;
-ipucu metinlerinde ülke adı, adın kökü, takma adlar veya başkentin geçmemesi; tüm adlarla aramanın doğru
-ülkeyi ilk sırada bulması; her ülkenin harita geometrisi ve küçük ülkeler için işaretçi; takvimin her 195
-günlük döngüde her ülkeyi tam bir kez göstermesi ve aynı gün iki serinin farklı olması; yayımlanmış
-takvim döngülerinin değişmemesi; her ülke × 4 soru türü × 2 zorluk için geçerli dört şıklı sorular
-(Zor'da komşu / benzer bayrak, Kolay'da başka kıtalar, ayırt edilemeyen bayrakların asla birlikte
-çıkmaması); fotoğrafların dosya bütünlüğü (SHA-256), lisansı, yazarı ve kaynağı; paket boyutu.
-
-## Test / Tests
-
-```bash
-npm run typecheck
-npm run lint
-npm test                               # vitest: takvim, gizem puanı, arama, sorular, birleştirme/eşitleme
-npm run content:validate
-npm run build:web && npm run serve:web # sonra ayrı terminalde:
-node scripts/e2e/web.e2e.cjs           # Playwright: misafir akışı, gizem kalıcılığı, saat dilimi, çevrimdışı
-```
-
-## Mimari / Architecture
+## Proje yapısı
 
 ```
-src/app/            Expo Router ekranları: (tabs)/index · countries · play, country/[id], mystery,
-                    previous, atlas, round, settings, account
-src/core/           platformdan bağımsız mantık: takvim, soru üretimi, gizem, arama, ilerleme, eşitleme
-src/components/     kart, harita (SVG, etiketsiz), bayrak, fotoğraf, quiz bileşenleri
-src/platform/       adaptörler: storage, notifications(.web), offline(.web)
-src/services/       Supabase istemcisi ve RemoteStore
-src/data/generated/ içerik hattının çıktıları (elle düzenlenmez)
-public/sw.js        web service worker (yalnızca doğrulanmış paketten sunar)
-supabase/           veritabanı şeması ve RLS politikaları
+src/app/              Ekranlar (Expo Router)
+  (tabs)/             Alt menü: Bugün (index), Ülkeler (countries), Oyna (play)
+  country/[id].tsx    Ülke kartı, paylaşılabilir adres
+  quiz.tsx            Bugünün 3 Sorusu
+  mystery.tsx         Günün Gizemi
+  round.tsx           Serbest oyun turu
+  atlas.tsx           Keşif Haritam
+  previous.tsx        Önceki Günler
+  settings.tsx        Dil, hesap, hatırlatma, çevrimdışı paket
+  account.tsx         Giriş, eşitleme, hesap silme
+  privacy.tsx         Gizlilik politikası (web'de /privacy)
+src/core/             Platformdan bağımsız mantık: takvim, sorular, gizem, arama, ilerleme, eşitleme
+src/components/       Ülke kartı, harita, bayrak, fotoğraf, soru bileşenleri, arayüz parçaları
+src/platform/         Platform adaptörleri: depolama, bildirim, çevrimdışı (mobil ve web ayrı)
+src/services/         Supabase istemcisi
+src/data/generated/   İçerik hattının çıktıları (elle düzenlenmez)
+content/              Editoryal metinler, düzeltmeler, takvim, fotoğraf kaynak kayıtları
+scripts/              İçerik hattı, web çevrimdışı paketi, testler, ikon ve ekran görüntüsü üreticileri
+store/                Mağaza metinleri, ekran görüntüleri, yayın rehberi
+supabase/migrations/  Veritabanı şeması, güvenlik politikaları, hesap silme
+public/sw.js          Web service worker
 ```
 
-- Harita, Natural Earth sınırlarından üretilmiş tek bir SVG'dir; üzerinde hiçbir ad yazmaz, bu yüzden
-  soru ipucu olarak güvenle kullanılır. Küçük ve ada ülkeleri dünya ölçeğinde halka işaretçiyle gösterilir;
-  karta dokununca ülkenin bölgesine yakınlaşılır.
-- Web çevrimdışı paketi: `offline-manifest.json` her dosyanın boyutunu ve SHA-256'sını listeler. Dosyalar
-  sürüm adlı yeni bir önbelleğe indirilir, her biri doğrulanır ve ancak ondan sonra etkin pakete geçilir;
-  önceki paket o ana kadar hizmet vermeye devam eder. Büyük fotoğraflar (Wikimedia) ayrı bir önbellekte
-  tutulur ve Ayarlar'dan temel içeriğe dokunmadan temizlenebilir.
-- Bildirimler: iOS/Android'de `expo-notifications` ile cihaz üzerinde günlük yerel bildirim; metin
-  seçili dildedir ve ülkeyi ya da gizemin cevabını söylemez; dokununca Bugün açılır. **Web'de** sayfa
-  kapalıyken zamanlanmış bildirim için Web Push (service worker `push` olayı, VAPID anahtarları ve
-  sunucu tarafında bir zamanlayıcı) gerekir; bu projede bu altyapı olmadığından web'de hatırlatma
-  “desteklenmiyor” olarak gösterilir.
+## İçerik
 
-## Ölçülen boyutlar / Measured sizes
+Ülke verileri sürümlü ve yeniden üretilebilir bir hattan gelir; ayrıntılar
+[`content/README.md`](content/README.md) dosyasında.
 
-`src/data/generated/meta.json` (içerik) ve `npm run build:web` çıktısı (web paketi) gerçek değerleri verir.
-Teslim anındaki değerler için aşağıdaki doğrulama durumu bölümüne bakın.
+- **195 ülke**, her biri Türkçe ve İngilizce: kısa bilgi, kültür, yemek, görülecek yer, başkent, diller.
+- **195 fotoğraf**, Wikimedia Commons'tan; yazar, lisans ve kaynak `content/photos.lock.json` içinde
+  ve ülke kartının altında görünür.
+- **Günlük takvim:** her 195 günlük döngüde her ülke Günün Ülkesi'nde de Günün Gizemi'nde de tam bir kez
+  çıkar; aynı gün iki seri asla aynı ülkeyi göstermez. Yayımlanmış günler kilitlidir, sonradan değişemez.
+- **Otomatik doğrulama** (`npm run content:validate`): 195 ülkenin eksiksizliği, iki dil, ipucu
+  metinlerinde cevabın (ülke adı, başkent) geçmemesi, arama, harita geometrisi, takvim, her ülke ve her
+  soru türü için geçerli dört şıklı sorular, fotoğraf bütünlüğü ve lisansları.
 
-## Medya atıfları / Media credits
+| Ölçü | Değer |
+| --- | --- |
+| Temel içerik paketi | 28,2 MB (fotoğraflar 26,7 MB · bayraklar 0,6 MB · veri ve harita 0,9 MB) |
+| Web çevrimdışı paketi (uygulama dahil) | yaklaşık 30 MB |
 
-- Fotoğraflar: Wikimedia Commons. Her fotoğrafın yazarı, lisansı ve kaynak bağlantısı ülke kartında
-  (“Daha fazla keşfet” altında) ve `content/photos.lock.json` içinde yer alır. Yalnızca CC0, kamu malı,
-  CC BY ve CC BY-SA lisanslı dosyalar kullanılır; CC BY-SA dosyaların küçültülmüş/kırpılmış hâlleri aynı
-  lisansla dağıtılır.
-- Harita: Natural Earth (kamu malı) — world-atlas.
-- Bayraklar: flag-icons (MIT).
-- Ülke verileri: world-countries (ODbL 1.0) — değişiklikler `content/overrides.json` içinde.
+## Yayın
 
-## Doğrulama durumu / Verification status
+- **Web:** varsayılan dala yapılan her push Vercel'de otomatik yayınlanır →
+  https://dunya-cepte.vercel.app. `vercel.json`, `netlify.toml` ve `public/_redirects` hazırdır.
+- **App Store ve Google Play:** EAS ile derlenir ve gönderilir:
 
-Bkz. teslim notu (son commit mesajı ve PR açıklaması). Özet: web (Chromium, mobil ve geniş görünüm)
-uçtan uca doğrulandı; iOS ve Android bu ortamda simülatör/cihaz olmadığı için çalıştırılmadı — tip
-denetimi, lint ve platformdan bağımsız mantığın testleri her platform için geçerlidir.
+  ```bash
+  npx eas-cli@latest build --platform all --profile production
+  npx eas-cli@latest submit --platform all --profile production
+  ```
+
+  Adım adım rehber, mağaza metinleri (TR/EN), ekran görüntüleri ve gizlilik formlarının cevapları:
+  [`store/README.md`](store/README.md).
+- **Gizlilik politikası:** https://dunya-cepte.vercel.app/privacy · Hesap silme uygulamada Hesap ekranında.
+- **GitHub Actions:** `CI` her push'ta tip denetimi, lint, birim testleri, içerik doğrulama ve web
+  derlemesi yapar. `EAS build` iş akışı elle tetiklenir (`EXPO_TOKEN` gizli değişkeni gerekir).
+
+## Test ve doğrulama
+
+| Kontrol | Kapsam |
+| --- | --- |
+| Birim testleri (30) | Türkiye saatiyle gün değişimi, takvim, gizem puanı, arama, soru üretimi, ilerleme birleştirme ve yinelenmeyen eşitleme |
+| Web uçtan uca (17 senaryo) | İlk açılış, ülke kartı, 3 soru, gizem ve kalıcılığı, arama, keşif haritası, serbest oyun, farklı saat dilimleri, internet kapalıyken yeniden açılış, klavye ile kullanım |
+| İçerik doğrulama | 195 ülke, iki dil, 9.360 üretilmiş soru, takvim kilidi, fotoğraf lisansları |
+| Platformlar | Web (Chromium, mobil ve geniş ekran) uçtan uca doğrulandı. iOS ve Android için JS paketleri ve yerel proje üretimi hatasız; cihaz/simülatör testi EAS derlemesiyle yapılacak. |
+
+## Kaynaklar ve atıflar
+
+| İçerik | Kaynak | Lisans |
+| --- | --- | --- |
+| Ülke listesi, kodlar, başkentler, diller, komşuluklar | [world-countries](https://github.com/mledoze/countries) | ODbL 1.0 |
+| Harita sınırları | [Natural Earth](https://www.naturalearthdata.com/) ([world-atlas](https://github.com/topojson/world-atlas)) | Kamu malı |
+| Bayraklar | [flag-icons](https://github.com/lipis/flag-icons) | MIT |
+| Fotoğraflar | [Wikimedia Commons](https://commons.wikimedia.org/) | 144 CC BY-SA · 34 CC BY · 8 CC0 · 9 kamu malı |
+| Kısa bilgi, kültür, yemek ve yer metinleri | Bu proje için yazıldı (TR/EN) | Dünya Cepte |
+
+Fotoğrafların küçültülmüş ve kırpılmış hâlleri, CC BY-SA dosyalar için aynı lisansla dağıtılır.
